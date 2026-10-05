@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="ja"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#11191b"><meta name="description" content="水滸伝 百二十回本の漫画書庫。完成した回を、ページめくりや縦読みで楽しめます。"><title>水滸伝｜漫画書庫</title><link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='5' fill='%2311191b'/%3E%3Cpath d='M7 8h8v17H7zm10 0h8v17h-8z' fill='%23edece7'/%3E%3Cpath d='M19 8h3v8l-1.5-1L19 16z' fill='%23bd4937'/%3E%3C/svg%3E"><link rel="stylesheet" href="/style.css"><script src="/app.js" defer></script></head>
+<body>
+<a class="skip" href="#main">本文へ</a>
+<header class="masthead"><a class="wordmark" href="#" id="home-link"><span class="seal" aria-hidden="true">水</span><span>水滸伝<small>百二十回本 · 漫画書庫</small></span></a><div class="header-actions"><span class="private-label">漫画書庫</span><button id="toc-open" class="quiet" hidden>目次</button></div></header>
+<main id="main">
+<section id="library" aria-labelledby="library-heading">
+<div class="shelf-heading"><div><p class="eyebrow">百八人の物語</p><h1 id="library-heading">読む。</h1></div><p id="collection-status" class="collection-status">書庫を開いています…</p></div>
+<div class="resume" id="resume" hidden><div><span class="eyebrow">読んでいたところから</span><h2 id="resume-label"></h2><p id="resume-detail"></p></div><button id="resume-button" class="primary">続きを読む</button></div>
+<div id="chapter-grid" class="chapter-grid"></div>
+<p class="scope-note">百二十回本をもとに制作。今回は第20回までを収録予定です。完成した回から順次追加します。</p>
+</section>
+<section id="reader" hidden aria-label="漫画ビューアー">
+<div class="reader-toolbar"><div class="chapter-heading"><p class="eyebrow" id="chapter-number"></p><h1 id="chapter-title"></h1></div><div class="reader-actions"><label class="control-label">読み方<select id="reading-mode"><option value="paged">ページめくり</option><option value="scroll">縦読み</option></select></label><button id="zoom-open" class="quiet">拡大</button></div></div>
+<div class="reading-hint" id="reading-hint">左側で次のページ · 右側で前のページ</div>
+<div id="page-stage" class="page-stage"><button class="edge next-edge" id="tap-next" aria-label="次のページ"></button><figure id="single-page"><img id="page-image" alt="" decoding="async"><figcaption id="page-error" hidden>ページを読み込めませんでした。<button id="image-retry" class="quiet">再読み込み</button></figcaption></figure><button class="edge previous-edge" id="tap-previous" aria-label="前のページ"></button></div>
+<div id="scroll-pages" class="scroll-pages" hidden></div>
+<nav class="page-nav" aria-label="ページ操作"><button id="next-page" class="primary">次へ</button><label class="page-location"><span class="sr-only">ページ</span><select id="page-select"></select><span id="page-total"></span></label><button id="previous-page" class="quiet">前へ</button></nav>
+<div class="chapter-end"><button id="previous-chapter" class="quiet">前の回</button><p id="save-status">読んだ位置はこの端末に保存されます</p><button id="next-chapter" class="quiet">次の回</button></div>
+</section>
+<div id="fatal" role="alert" hidden><h1>書庫を読み込めませんでした</h1><p>接続を確認して、もう一度開いてください。</p><button class="primary" onclick="location.reload()">再読み込み</button></div>
+</main>
+<footer id="footer"><span>水滸伝 · 百二十回本</span><span>完成した物語を、いつでも。</span></footer>
+<dialog id="toc-dialog" aria-labelledby="toc-title"><div class="dialog-heading"><h2 id="toc-title">目次</h2><button data-close="toc-dialog" class="quiet" autofocus>閉じる</button></div><div id="toc-list" class="toc-list"></div></dialog>
+<dialog id="zoom-dialog" aria-labelledby="zoom-title"><div class="dialog-heading"><h2 id="zoom-title">ページを拡大</h2><button data-close="zoom-dialog" class="quiet" autofocus>閉じる</button></div><div class="zoom-controls"><label>倍率<select id="zoom-level"><option value="100">画面に合わせる</option><option value="150" selected>150%</option><option value="200">200%</option></select></label><span>スクロールして細部を読めます</span></div><div class="zoom-viewport"><img id="zoom-image" alt="" draggable="false"></div></dialog>
+<div id="live" class="sr-only" aria-live="polite"></div>
+</body></html>
