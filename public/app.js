@@ -6,7 +6,7 @@ function notify(text){$('live').textContent=text}
 function save(){if(!current)return; saved={chapter:current.number,page};try{localStorage.setItem(KEY,JSON.stringify(saved))}catch{$('save-status').textContent='この端末では読書位置を保存できません'} }
 function hash(ch,p){return `#chapter=${ch}&page=${p}`}
 function setHash(ch,p,replace=false){(replace?history.replaceState:history.pushState).call(history,null,'',ch?hash(ch,p):location.pathname+location.search)}
-function statusLabel(c){return c.status==='complete'?'全編公開':c.status==='partial'?'前編公開':'制作予定'}
+function statusLabel(c){return c.status==='complete'?'全編公開':c.status==='partial'?'一部公開':'制作予定'}
 function readyChapters(){return catalog.chapters.filter(c=>c.pageCount>0)}
 function renderLibrary(){
  const full=catalog.chapters.filter(c=>c.status==='complete').length;const partial=catalog.chapters.filter(c=>c.status==='partial').length;
@@ -24,7 +24,7 @@ async function navigate(ch,p=1,{replace=false,fromRoute=false}={}){
  try{let data=cache.get(meta.number);if(!data){const res=await fetch(meta.manifest);if(!res.ok)throw Error('chapter');data=await res.json();cache.set(meta.number,data)}if(token!==routeToken)return;
  const different=current?.number!==data.number;current=data;page=Math.max(1,Math.min(Number(p)||1,current.pages.length));
  $('library').hidden=true;$('reader').hidden=false;$('toc-open').hidden=false;$('footer').hidden=true;
- $('chapter-number').textContent=`第${current.number}回 · ${current.status==='partial'?'前編公開':'全編公開'}`;$('chapter-title').textContent=current.title;
+ $('chapter-number').textContent=`第${current.number}回 · ${current.status==='partial'?'一部公開':'全編公開'}`;$('chapter-title').textContent=current.title;
  $('page-select').innerHTML=current.pages.map(p=>`<option value="${p.number}">${p.number}</option>`).join('');$('page-total').textContent='/ '+current.pages.length;
  const ready=readyChapters();const index=ready.findIndex(c=>c.number===current.number);$('previous-chapter').disabled=index<=0;$('next-chapter').disabled=index===ready.length-1;$('next-chapter').textContent=index===ready.length-1?'続きは制作中':'次の回';
  $('reading-mode').value=mode;showMode(different);renderPage(false);if(!fromRoute)setHash(ch,page,replace);if(mode==='paged')window.scrollTo(0,0);else scrollToPage();
