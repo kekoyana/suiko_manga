@@ -15,6 +15,21 @@
 
 ## GitHub Pages で公開する
 
+### Google Analytics 4
+
+- アカウント: **kekoyana** (`12102859`)
+- プロパティ: **suiko_manga（水滸伝 漫画書庫）** (`558225327`)
+- Webストリーム: **水滸伝 GitHub Pages** (`16095124622`)
+- 計測ID: **`G-7E7653QC6V`**
+- タイムゾーン: `Asia/Tokyo`、通貨: `JPY`
+- [GA4管理画面](https://analytics.google.com/analytics/web/#/p558225327/reports/intelligenthome)
+
+`public/analytics.js` が公開ホストの `/suiko_manga/` 配下だけで Google tag を読み込みます。ローカルプレビュー・別プロジェクトでは送信しません。トップと読書位置の変更後に、タイトルと `#chapter=…&page=…` を含むURLで `page_view` を送信します。同じ位置の再描画や読み方の変更では重複送信しません。Google tag の自動初回pageviewとストリームの履歴変更によるpageviewは無効にしてあります。広告パーソナライズとGoogle Signalsも使用しません。
+
+管理画面のリアルタイムで計測を確認できます。履歴変更の自動計測を有効にすると手動計測と重複するため、無効のままにしてください。参考: [GoogleのSPA計測ガイド](https://developers.google.com/analytics/devguides/collection/ga4/views)。
+
+### 公開手順
+
 1. この変更を `main` にマージします。
 2. リポジトリの **Settings → Pages → Build and deployment → Source** を **GitHub Actions** に設定します（リポジトリの管理権限が必要です）。
 3. **Actions → Deploy to GitHub Pages → Run workflow** で `main` を実行します。設定後は `main` への push でも自動公開されます。

@@ -100,6 +100,7 @@ function library() {
   document.title = '水滸伝｜漫画書庫';
   renderResume();
   window.scrollTo(0, 0);
+  window.mangaAnalytics?.pageView();
 }
 function goHome() { setHash(null, 1); library(); }
 async function loadChapter(meta) {
@@ -151,6 +152,7 @@ async function navigate(ch, p = 1, {replace = false, fromRoute = false} = {}) {
     else if (location.hash !== hash(current.number, page)) setHash(current.number, page, true);
     if (mode === 'paged') window.scrollTo(0, 0);
     else scrollToPage();
+    window.mangaAnalytics?.pageView();
   } catch (error) {
     if (token !== routeToken) return;
     pending = false;
@@ -205,6 +207,7 @@ function renderPage(updateUrl = true) {
   document.title = '第' + current.number + '回 ' + page + '頁｜水滸伝';
   save();
   if (updateUrl) setHash(current.number, page, true);
+  if (updateUrl) window.mangaAnalytics?.pageView();
   notify('第' + current.number + '回 ' + page + ' / ' + current.pages.length + 'ページ');
   if (mode === 'paged') {
     if (current.pages[page]) prefetch(current.pages[page].src);

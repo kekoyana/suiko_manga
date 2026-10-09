@@ -43,7 +43,7 @@ for (const prefix of ['/', '/suiko_manga/', '/renamed-project/']) {
       });
       return elements.get(id);
     };
-    const requests = [], errors = [];
+    const requests = [], errors = [], pageViews = [];
     const location = {pathname: prefix, search: '', hash: ''};
     const history = {pushState(_a, _b, url) { location.hash = url.startsWith('#') ? url : ''; }};
     history.replaceState = history.pushState;
@@ -54,7 +54,9 @@ for (const prefix of ['/', '/suiko_manga/', '/renamed-project/']) {
       performance: {now: () => clock},
       document: {body: {classList}, currentScript: {src: base + 'app.js'}, getElementById: el,
         querySelectorAll: () => [], querySelector: () => null, addEventListener() {}},
-      window: {scrollTo() {}, addEventListener() {}},
+      window: {scrollTo() {}, addEventListener() {}, mangaAnalytics: {
+        pageView() { pageViews.push({hash: location.hash, title: context.document.title}); },
+      }},
       localStorage: {getItem: key => stored.get(key) || null, setItem: (key, value) => stored.set(key, value)},
       IntersectionObserver: class {observe() {} disconnect() {}},
       requestAnimationFrame: f => f(), setTimeout: f => f(),
@@ -69,6 +71,9 @@ for (const prefix of ['/', '/suiko_manga/', '/renamed-project/']) {
     }
     const ready = catalog.chapters.filter(c => c.pageCount);
     assert.ok(el('collection-status').innerHTML.includes(catalog.totalPages.toLocaleString()));
+    assert.equal(pageViews.length, 1);
+    assert.equal(pageViews[0].hash, '');
+    assert.equal(pageViews[0].title, '水滸伝｜漫画書庫');
     assert.equal(el('toc-list').innerHTML, '', 'Do not build a 120-chapter list on startup');
     assert.equal(requests.length, 1, 'Home fetches only the catalog');
     async function imageLoads(src) {
@@ -91,11 +96,17 @@ for (const prefix of ['/', '/suiko_manga/', '/renamed-project/']) {
     assert.ok(el('toc-list').innerHTML.startsWith('<button class="toc-item" data-chapter="25"'));
     // Visit each published chapter, checking first/last page and boundary buttons.
     for (const chapter of ready) {
+      const viewCount = pageViews.length;
       await vm.runInContext(`navigate(${chapter.number},1)`, context);
+      assert.equal(pageViews.length, viewCount + 1, 'Chapter navigation records one view');
+      assert.equal(pageViews.at(-1).hash, `#chapter=${chapter.number}&page=1`);
+      assert.equal(pageViews.at(-1).title, `第${chapter.number}回 1頁｜水滸伝`);
       assert.equal(el('previous-page').disabled, chapter.number === ready[0].number);
       await imageLoads(el('page-image').src);
       await el('next-page').onclick();
       assert.equal(Number(el('page-select').value), 2);
+      assert.equal(pageViews.at(-1).hash, `#chapter=${chapter.number}&page=2`);
+      assert.equal(pageViews.at(-1).title, `第${chapter.number}回 2頁｜水滸伝`);
       await imageLoads(el('page-image').src);
       await el('previous-page').onclick();
       assert.equal(Number(el('page-select').value), 1);
@@ -147,7 +158,7 @@ for (const prefix of ['/', '/suiko_manga/', '/renamed-project/']) {
     assert.ok(requests.every(url => url.startsWith(base + 'data/')));
     assert.deepEqual(errors, []);
     const index = fs.readFileSync(path.join(publicDir, 'index.html'), 'utf8');
-    for (const file of ['style.css', 'app.js']) {
+    for (const file of ['style.css', 'analytics.js', 'app.js']) {
       assert.ok(index.includes(`"./${file}"`));
       assert.equal((await fetch(base + file)).status, 200);
     }
@@ -169,4 +180,65 @@ test('staging preserves all assets and data; 404 returns home even from nested p
     assert.ok(!fs.existsSync(path.join(root, '_site/README.md')));
     assert.ok(fs.existsSync(path.join(root, '_site/.nojekyll')));
   }
+});
+
+function analyticsFixture(hostname = 'kekoyana.github.io', pathname = '/suiko_manga/', gtag) {
+  const location = {hostname, pathname, href: `https://${hostname}${pathname}`};
+  const tags = [];
+  const document = {title: '水滸伝｜漫画書庫', referrer: 'https://example.test/',
+    createElement: () => ({}), head: {appendChild: tag => tags.push(tag)}};
+  const window = {gtag};
+  const context = vm.createContext({window, location, document});
+  vm.runInContext(fs.readFileSync(path.join(publicDir, 'analytics.js'), 'utf8'), context);
+  return {window, location, document, tags};
+}
+
+test('GA4 records final chapter/page URLs, titles and referrers without duplicate views', () => {
+  const {window, location, document, tags} = analyticsFixture();
+  assert.equal(tags.length, 1);
+  assert.equal(tags[0].src, 'https://www.googletagmanager.com/gtag/js?id=G-7E7653QC6V');
+  assert.equal(tags[0].async, true);
+  const commands = () => window.dataLayer.map(args => Array.from(args));
+  const views = () => commands().filter(args => args[0] === 'event' && args[1] === 'page_view');
+  assert.equal(commands().find(args => args[0] === 'config')[2].send_page_view, false);
+  assert.equal(views().length, 0);
+  window.mangaAnalytics.pageView();
+  window.mangaAnalytics.pageView();
+  assert.equal(views().length, 1);
+  assert.equal(views()[0][2].page_referrer, 'https://example.test/');
+  const home = location.href;
+  location.href = home + '#chapter=1&page=1';
+  document.title = '第1回 1頁｜水滸伝';
+  window.mangaAnalytics.pageView();
+  assert.equal(views().at(-1)[2].page_location, location.href);
+  assert.equal(views().at(-1)[2].page_title, document.title);
+  assert.equal(views().at(-1)[2].page_referrer, home);
+  const firstPage = location.href;
+  location.href = home + '#chapter=1&page=2';
+  document.title = '第1回 2頁｜水滸伝';
+  window.mangaAnalytics.pageView();
+  window.mangaAnalytics.pageView();
+  assert.equal(views().length, 3);
+  assert.equal(views().at(-1)[2].page_referrer, firstPage);
+  assert.equal(views().at(-1)[2].send_to, 'G-7E7653QC6V');
+  location.href = home;
+  document.title = '水滸伝｜漫画書庫';
+  window.mangaAnalytics.pageView();
+  assert.equal(views().length, 4, 'Returning home is a new view');
+});
+
+test('GA4 excludes local previews and other GitHub Pages projects', () => {
+  for (const [hostname, pathname] of [['localhost','/suiko_manga/'],['127.0.0.1','/'],['kekoyana.github.io','/another-project/']]) {
+    const {window, tags} = analyticsFixture(hostname, pathname);
+    assert.equal(tags.length, 0);
+    assert.equal(window.mangaAnalytics, undefined);
+    assert.equal(window.dataLayer, undefined);
+  }
+});
+
+test('A blocked or failing analytics tag does not throw into the reader', () => {
+  assert.doesNotThrow(() => analyticsFixture('kekoyana.github.io', '/suiko_manga/', () => {throw Error('blocked');}));
+  const {window} = analyticsFixture();
+  window.gtag = () => {throw Error('blocked');};
+  assert.doesNotThrow(() => window.mangaAnalytics.pageView());
 });
