@@ -1,27 +1,37 @@
 <!doctype html>
-<html lang="ja"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#11191b"><meta name="description" content="水滸伝 百二十回本の漫画書庫。完成した回を、ページめくりや縦読みで楽しめます。"><title>水滸伝｜漫画書庫</title><link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='5' fill='%2311191b'/%3E%3Cpath d='M7 8h8v17H7zm10 0h8v17h-8z' fill='%23edece7'/%3E%3Cpath d='M19 8h3v8l-1.5-1L19 16z' fill='%23bd4937'/%3E%3C/svg%3E"><link rel="stylesheet" href="./style.css"><script src="./app.js" defer></script></head>
+<html lang="ja">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#f7f4ee"><meta name="description" content="運命に抗う、百八人。水滸伝・百二十回本の漫画版。最初から、または読んでいたページから楽しめます。">
+<title>水滸伝｜漫画書庫</title>
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='5' fill='%239f342b'/%3E%3Ctext x='16' y='23' text-anchor='middle' font-size='23' fill='white'%3E水%3C/text%3E%3C/svg%3E">
+<link rel="stylesheet" href="./style.css"><script src="./app.js" defer></script>
+</head>
 <body>
 <a class="skip" href="#main">本文へ</a>
-<header class="masthead"><a class="wordmark" href="#" id="home-link"><span class="seal" aria-hidden="true">水</span><span>水滸伝<small>百二十回本 · 漫画書庫</small></span></a><div class="header-actions"><span class="private-label">漫画書庫</span><button id="toc-open" class="quiet" hidden>目次</button></div></header>
+<header class="masthead"><a class="wordmark" href="#" id="home-link"><span class="seal" aria-hidden="true">水</span><span>水滸伝<small>百二十回本 · 漫画版</small></span></a><button id="home-toc" class="quiet" disabled>目次を開く <span aria-hidden="true">☰</span></button></header>
 <main id="main">
 <section id="library" aria-labelledby="library-heading">
-<div class="shelf-heading"><div><p class="eyebrow">百八人の物語</p><h1 id="library-heading">読む。</h1></div><p id="collection-status" class="collection-status">書庫を開いています…</p></div>
-<div class="resume" id="resume" hidden><div><span class="eyebrow">読んでいたところから</span><h2 id="resume-label"></h2><p id="resume-detail"></p></div><button id="resume-button" class="primary">続きを読む</button></div>
-<div id="chapter-grid" class="chapter-grid"></div>
-<p class="scope-note">百二十回本の全120回を順次制作・追加します。公開済みのページから読めます。</p>
+<div class="story-hero">
+<div class="story-copy"><p class="eyebrow">中国古典、漫画で読む。</p><h1 id="library-heading">水滸伝<span>運命に抗う、百八人。</span></h1><p class="synopsis">舞台は北宋の中国。腐敗した世に追われた者たちは、やがて梁山泊へと集う。武人、僧侶、役人、無法者。異なる過去を背負う百八人の出会いが、大きな物語を動かしていく。</p><p class="story-tags"><span>歴史</span><span>群像劇</span><span>百二十回本</span></p><div class="start-actions"><button id="start-reading" class="primary" disabled>第1回から読む <span aria-hidden="true">→</span></button><button id="choose-chapter" class="quiet" disabled>回を選ぶ</button></div><p id="collection-status" class="collection-status">公開状況を読み込み中…</p></div>
+<figure class="story-art"><div class="cover-frame"><img id="story-cover" width="360" height="494" alt="水滸伝 第1回「封じられたもの」の冒頭" decoding="async" hidden></div><figcaption>物語は、封じられたものから始まる。</figcaption></figure>
+</div>
+<section class="resume" id="resume" hidden aria-labelledby="resume-label"><div class="resume-mark" aria-hidden="true">↳</div><div class="resume-copy"><p class="eyebrow">あなたの続き</p><h2 id="resume-label"></h2><p id="resume-detail"></p></div><button id="resume-button" class="primary">続きを読む <span aria-hidden="true">→</span></button></section>
+<section class="latest" id="latest" hidden aria-labelledby="latest-title"><div><p class="eyebrow" id="latest-number"></p><h2 id="latest-title"></h2><p id="latest-detail"></p></div><button id="latest-reading" class="quiet">この回を読む <span aria-hidden="true">→</span></button></section>
+<p class="scope-note">公開した回から順に読めます。続きは順次追加していきます。</p>
 </section>
 <section id="reader" hidden aria-label="漫画ビューアー">
-<div class="reader-toolbar"><div class="chapter-heading"><p class="eyebrow" id="chapter-number"></p><h1 id="chapter-title"></h1></div><div class="reader-actions"><label class="control-label">読み方<select id="reading-mode"><option value="paged">ページめくり</option><option value="scroll">縦読み</option></select></label><button id="zoom-open" class="quiet">拡大</button></div></div>
-<div class="reading-hint" id="reading-hint">左側で次のページ · 右側で前のページ</div>
-<div id="page-stage" class="page-stage"><button class="edge next-edge" id="tap-next" aria-label="次のページ"></button><figure id="single-page"><img id="page-image" alt="" decoding="async"><figcaption id="page-error" hidden>ページを読み込めませんでした。<button id="image-retry" class="quiet">再読み込み</button></figcaption></figure><button class="edge previous-edge" id="tap-previous" aria-label="前のページ"></button></div>
+<header class="reader-toolbar"><button id="reader-back" class="quiet back-button"><span aria-hidden="true">‹</span><span>作品へ</span></button><div class="chapter-heading"><p id="chapter-number"></p><h1 id="chapter-title"></h1></div><div class="reader-actions"><button id="toc-open" class="quiet">目次</button><label class="sr-only" for="reading-mode">読み方</label><select id="reading-mode"><option value="paged">横読み</option><option value="scroll">縦読み</option></select><button id="zoom-open" class="quiet" aria-label="ページを拡大">拡大</button></div></header>
+<div id="page-stage" class="page-stage"><figure id="single-page"><img id="page-image" alt="" decoding="sync" draggable="false"><figcaption id="page-error" hidden><strong>ページを読み込めませんでした</strong><button id="image-retry" class="primary">もう一度読み込む</button></figcaption></figure><button class="edge next-edge" id="tap-next" aria-label="次のページ"><span aria-hidden="true">‹</span></button><button id="toggle-chrome" class="center-zone" aria-label="操作バーを隠す" aria-pressed="false"></button><button class="edge previous-edge" id="tap-previous" aria-label="前のページ"><span aria-hidden="true">›</span></button></div>
 <div id="scroll-pages" class="scroll-pages" hidden></div>
-<nav class="page-nav" aria-label="ページ操作"><button id="next-page" class="primary">次へ</button><label class="page-location"><span class="sr-only">ページ</span><select id="page-select"></select><span id="page-total"></span></label><button id="previous-page" class="quiet">前へ</button></nav>
-<div class="chapter-end"><button id="previous-chapter" class="quiet">前の回</button><p id="save-status">読んだ位置はこの端末に保存されます</p><button id="next-chapter" class="quiet">次の回</button></div>
+<section id="chapter-end" class="chapter-end" hidden aria-label="この回の続き"><div><p id="end-label"></p><h2 id="end-title"></h2></div><button id="next-chapter" class="primary">次の回を読む <span aria-hidden="true">←</span></button><button id="end-home" class="quiet" hidden>作品へ戻る</button></section>
+<nav class="page-nav" aria-label="ページ操作"><label class="sr-only" for="page-range">ページ位置</label><input id="page-range" type="range" min="1" max="1" value="1" dir="rtl"><div class="page-nav-row"><button id="next-page" class="primary"><span aria-hidden="true">‹</span><span id="next-label">次のページ</span></button><label class="page-location"><span class="sr-only">移動先のページ</span><select id="page-select"></select><span id="page-total"></span></label><button id="previous-page" class="quiet"><span id="previous-label">前のページ</span><span aria-hidden="true">›</span></button></div><p id="reading-hint" class="reading-hint">左側をタップ、右へスワイプで次へ</p></nav>
 </section>
-<div id="fatal" role="alert" hidden><h1>書庫を読み込めませんでした</h1><p>接続を確認して、もう一度開いてください。</p><button class="primary" onclick="location.reload()">再読み込み</button></div>
+<section id="fatal" role="alert" hidden><p class="eyebrow">読み込みエラー</p><h1>漫画を読み込めませんでした</h1><p>接続を確認して、もう一度お試しください。</p><button id="fatal-retry" class="primary">もう一度試す</button><button id="fatal-home" class="quiet">作品へ戻る</button></section>
 </main>
-<footer id="footer"><span>水滸伝 · 百二十回本</span><span>完成した物語を、いつでも。</span></footer>
-<dialog id="toc-dialog" aria-labelledby="toc-title"><div class="dialog-heading"><h2 id="toc-title">目次</h2><button data-close="toc-dialog" class="quiet" autofocus>閉じる</button></div><div id="toc-list" class="toc-list"></div></dialog>
-<dialog id="zoom-dialog" aria-labelledby="zoom-title"><div class="dialog-heading"><h2 id="zoom-title">ページを拡大</h2><button data-close="zoom-dialog" class="quiet" autofocus>閉じる</button></div><div class="zoom-controls"><label>倍率<select id="zoom-level"><option value="100">画面に合わせる</option><option value="150" selected>150%</option><option value="200">200%</option></select></label><span>スクロールして細部を読めます</span></div><div class="zoom-viewport"><img id="zoom-image" alt="" draggable="false"></div></dialog>
+<footer id="footer"><span>水滸伝 <span class="footer-dot">·</span> 百二十回本</span><span>一回ずつ、物語の先へ。</span></footer>
+<dialog id="toc-dialog" aria-labelledby="toc-title"><div class="dialog-heading"><div><p class="eyebrow">水滸伝</p><h2 id="toc-title">回を選ぶ</h2></div><button data-close="toc-dialog" class="quiet" autofocus aria-label="目次を閉じる">閉じる ×</button></div><div class="toc-tools"><label class="sr-only" for="toc-search">回数・タイトルで探す</label><input id="toc-search" type="search" placeholder="回数・タイトルで探す"><button id="toc-sort" class="quiet" aria-pressed="false">新しい順</button></div><p id="toc-status" class="dialog-note"></p><div id="toc-list" class="toc-list"></div><div id="toc-navigation" class="toc-navigation" hidden><button id="previous-chapter" class="quiet">前の回</button><button id="toc-next" class="quiet">次の回</button></div><p id="save-status" class="dialog-note">読んだ位置は、この端末に自動で保存されます。</p></dialog>
+<dialog id="zoom-dialog" aria-labelledby="zoom-title"><div class="dialog-heading"><h2 id="zoom-title">ページを拡大</h2><button data-close="zoom-dialog" class="quiet" autofocus>閉じる ×</button></div><div class="zoom-controls"><label for="zoom-level">倍率</label><select id="zoom-level"><option value="100">画面に合わせる</option><option value="150" selected>150%</option><option value="200">200%</option></select><span>スクロールして細部を読めます</span></div><div class="zoom-viewport"><img id="zoom-image" alt="" draggable="false"></div></dialog>
 <div id="live" class="sr-only" aria-live="polite"></div>
-</body></html>
+</body>
+</html>

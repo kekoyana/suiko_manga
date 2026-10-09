@@ -25,10 +25,21 @@ for (const prefix of ['/', '/suiko_manga/', '/renamed-project/']) {
     t.after(() => new Promise(resolve => server.close(resolve)));
     const base = `http://127.0.0.1:${server.address().port}${prefix}`;
     const elements = new Map();
+    const bodyClasses = new Set();
+    const classList = {
+      add(...names) { names.forEach(name => bodyClasses.add(name)); },
+      remove(...names) { names.forEach(name => bodyClasses.delete(name)); },
+      contains(name) { return bodyClasses.has(name); },
+      toggle(name, force) { if (force) bodyClasses.add(name); else bodyClasses.delete(name); },
+    };
     const el = id => {
       if (!elements.has(id)) elements.set(id, {
         hidden: false, value: '', textContent: '', innerHTML: '', dataset: {}, style: {},
-        addEventListener() {}, scrollIntoView() {}, showModal() {}, close() {},
+        listeners: {}, attributes: {},
+        addEventListener(name, fn) { this.listeners[name] = fn; },
+        setAttribute(name, value) { this.attributes[name] = value; },
+        removeAttribute(name) { delete this.attributes[name]; },
+        scrollIntoView() {}, showModal() {}, close() {},
       });
       return elements.get(id);
     };
@@ -36,12 +47,15 @@ for (const prefix of ['/', '/suiko_manga/', '/renamed-project/']) {
     const location = {pathname: prefix, search: '', hash: ''};
     const history = {pushState(_a, _b, url) { location.hash = url.startsWith('#') ? url : ''; }};
     history.replaceState = history.pushState;
+    let clock = 1000;
+    const stored = new Map();
     const context = vm.createContext({
       URL, URLSearchParams, location, history, Image: class {},
-      document: {currentScript: {src: base + 'app.js'}, getElementById: el,
+      performance: {now: () => clock},
+      document: {body: {classList}, currentScript: {src: base + 'app.js'}, getElementById: el,
         querySelectorAll: () => [], querySelector: () => null, addEventListener() {}},
       window: {scrollTo() {}, addEventListener() {}},
-      localStorage: {getItem: () => null, setItem() {}},
+      localStorage: {getItem: key => stored.get(key) || null, setItem: (key, value) => stored.set(key, value)},
       IntersectionObserver: class {observe() {} disconnect() {}},
       requestAnimationFrame: f => f(), setTimeout: f => f(),
       console: {error: e => errors.push(e)},
@@ -49,14 +63,14 @@ for (const prefix of ['/', '/suiko_manga/', '/renamed-project/']) {
         assert.equal(response.status, 200, url); return response; },
     });
     vm.runInContext(fs.readFileSync(path.join(publicDir, 'app.js'), 'utf8'), context);
-    for (let i = 0; !el('chapter-grid').innerHTML && i < 200; i++) {
+    for (let i = 0; !el('collection-status').innerHTML && i < 200; i++) {
       if (errors.length) throw errors[0];
       await new Promise(resolve => setTimeout(resolve, 10));
     }
     const ready = catalog.chapters.filter(c => c.pageCount);
-    assert.equal((el('chapter-grid').innerHTML.match(/<article /g) || []).length, catalog.chapters.length);
-    assert.equal((el('chapter-grid').innerHTML.match(/class="cover"/g) || []).length, ready.length);
     assert.ok(el('collection-status').innerHTML.includes(catalog.totalPages.toLocaleString()));
+    assert.equal(el('toc-list').innerHTML, '', 'Do not build a 120-chapter list on startup');
+    assert.equal(requests.length, 1, 'Home fetches only the catalog');
     async function imageLoads(src) {
       assert.ok(src.startsWith(base + 'assets/'), src);
       const response = await fetch(src);
@@ -64,21 +78,37 @@ for (const prefix of ['/', '/suiko_manga/', '/renamed-project/']) {
       const bytes = Buffer.from(await response.arrayBuffer());
       assert.equal(bytes.toString('ascii', 8, 12), 'WEBP');
     }
-    for (const match of el('chapter-grid').innerHTML.matchAll(/<img[^>]+src="([^"]+)"/g)) await imageLoads(match[1]);
+    await imageLoads(el('story-cover').src);
+    el('home-toc').onclick();
+    assert.equal((el('toc-list').innerHTML.match(/class="toc-item"/g) || []).length, ready.length);
+    assert.ok(!el('toc-list').innerHTML.includes('<img'), 'Episode picker has no cover downloads');
+    el('toc-search').value = '２５';
+    el('toc-search').listeners.input();
+    assert.equal((el('toc-list').innerHTML.match(/class="toc-item"/g) || []).length, 1);
+    assert.ok(el('toc-list').innerHTML.includes('第25回'));
+    el('toc-search').value = '';
+    el('toc-sort').onclick();
+    assert.ok(el('toc-list').innerHTML.startsWith('<button class="toc-item" data-chapter="25"'));
     // Visit each published chapter, checking first/last page and boundary buttons.
     for (const chapter of ready) {
       await vm.runInContext(`navigate(${chapter.number},1)`, context);
-      assert.equal(el('previous-page').disabled, true);
+      assert.equal(el('previous-page').disabled, chapter.number === ready[0].number);
       await imageLoads(el('page-image').src);
-      el('next-page').onclick();
+      await el('next-page').onclick();
       assert.equal(Number(el('page-select').value), 2);
       await imageLoads(el('page-image').src);
-      el('previous-page').onclick();
+      await el('previous-page').onclick();
       assert.equal(Number(el('page-select').value), 1);
       await vm.runInContext(`navigate(${chapter.number},9999)`, context);
       assert.equal(Number(el('page-select').value), chapter.pageCount);
-      assert.equal(el('next-page').disabled, true);
+      assert.equal(el('next-page').disabled, chapter.number === ready.at(-1).number);
       await imageLoads(el('page-image').src);
+      if (chapter.number !== ready.at(-1).number) {
+        await el('next-page').onclick();
+        assert.ok(location.hash.includes(`chapter=${chapter.number + 1}&page=1`));
+        await el('previous-page').onclick();
+        assert.ok(location.hash.includes(`chapter=${chapter.number}&page=${chapter.pageCount}`));
+      }
     }
     const last = ready.at(-1);
     assert.equal(el('next-chapter').disabled, true);
@@ -97,6 +127,23 @@ for (const prefix of ['/', '/suiko_manga/', '/renamed-project/']) {
     assert.equal(Number(el('page-select').value), 17);
     vm.runInContext('library()', context);
     assert.equal(el('library').hidden, false);
+    assert.equal(el('resume').hidden, false);
+    assert.ok(el('resume-detail').textContent.includes('17 / 17'));
+    assert.equal(bodyClasses.has('reading'), false);
+    await el('resume-button').onclick();
+    assert.ok(location.hash.includes('chapter=25&page=17'));
+    // A swipe must not also trigger the synthetic edge click that follows it.
+    el('reading-mode').onchange({target: {value: 'paged'}});
+    await vm.runInContext('navigate(1,1)', context);
+    el('page-stage').listeners.touchstart({touches: [{clientX: 100, clientY: 200}]});
+    el('page-stage').listeners.touchend({changedTouches: [{clientX: 210, clientY: 202}], cancelable: true, preventDefault() {}});
+    assert.equal(Number(el('page-select').value), 2);
+    el('tap-next').onclick();
+    assert.equal(Number(el('page-select').value), 2);
+    clock += 1000;
+    await el('tap-next').onclick();
+    assert.equal(Number(el('page-select').value), 3);
+    assert.equal(JSON.parse(stored.get('water-margin-reading-v1')).page, 3);
     assert.ok(requests.every(url => url.startsWith(base + 'data/')));
     assert.deepEqual(errors, []);
     const index = fs.readFileSync(path.join(publicDir, 'index.html'), 'utf8');
