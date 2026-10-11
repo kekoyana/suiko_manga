@@ -1,0 +1,324 @@
+{
+  "tool": "built-in image_gen",
+  "format": "lossless WebP",
+  "pages": [
+    {
+      "number": 21,
+      "title": "二つの道",
+      "sourceImage": "exec-4638fc09-5a6c-4238-964c-c4e4f36179cc.png",
+      "selectedImage": "exec-4638fc09-5a6c-4238-964c-c4e4f36179cc.png",
+      "output": "public/assets/ch025/continuation-21-51/p021.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "cd2058670e74e8da5c3359001a5d509b2998a047be3308e186a41158594c3c40"
+    },
+    {
+      "number": 22,
+      "title": "戻れない選択",
+      "sourceImage": "exec-2422de3c-1582-40d5-a1bc-e05255fbf935.png",
+      "selectedImage": "exec-2422de3c-1582-40d5-a1bc-e05255fbf935.png",
+      "output": "public/assets/ch025/continuation-21-51/p022.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "98509a5d5bb72156e9e859e3c8b2ca41d8b00a1f830867e6be1c689748fa9bbb"
+    },
+    {
+      "number": 23,
+      "title": "悪計",
+      "sourceImage": "exec-9edef586-3f47-47df-9d8a-43d8260dc956.png",
+      "selectedImage": "exec-9edef586-3f47-47df-9d8a-43d8260dc956.png",
+      "output": "public/assets/ch025/continuation-21-51/p023.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "65ba6bdf2ec499462429c030efad0656861c7344c205b3dc18b2b41410ad3d28"
+    },
+    {
+      "number": 24,
+      "title": "小さな包み",
+      "sourceImage": "exec-de9cda7c-ee03-46f7-8676-e0f8fbfa7ab0.png",
+      "selectedImage": "exec-de9cda7c-ee03-46f7-8676-e0f8fbfa7ab0.png",
+      "output": "public/assets/ch025/continuation-21-51/p024.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "c356fde69cf6db209ddda18e57d779a66c8795389b2670c554958d402e1e07a5"
+    },
+    {
+      "number": 25,
+      "title": "震える手",
+      "sourceImage": "exec-9c429703-538a-4eea-aef2-adf66f330d18.png",
+      "selectedImage": "exec-9c429703-538a-4eea-aef2-adf66f330d18.png",
+      "output": "public/assets/ch025/continuation-21-51/p025.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "de80ae1211d8720952781789bcb36b9c00962e510b1a17a43085fb4fd25f5d2c"
+    },
+    {
+      "number": 26,
+      "title": "偽りの涙",
+      "sourceImage": "exec-a9c086b3-a299-4baf-ad73-77470ebbe001.png",
+      "selectedImage": "exec-a9c086b3-a299-4baf-ad73-77470ebbe001.png",
+      "output": "public/assets/ch025/continuation-21-51/p026.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "4173522e20563f33a663f3cb3345f250f2587dd3f03af97d172546076c8eaed6"
+    },
+    {
+      "number": 27,
+      "title": "許すという言葉",
+      "sourceImage": "exec-6461b4bf-5448-41ba-8895-5cd742b61057.png",
+      "selectedImage": "exec-e286132b-678f-4de5-959d-48e956fb09f9.png",
+      "output": "public/assets/ch025/continuation-21-51/p027.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "799d34a7dd5f7060d7ce3b3ab74f6eb28ce37577b993ce9b8ac1acf18286642a",
+      "repairPrompt": "添付の漫画27ページを編集。変更は左下コマの『弟にも言わぬ』という吹き出しの尻尾だけ。この台詞は武大郎の画面外からの声なので、尻尾を金蓮の顔へ向けず、コマ右端の外側へ伸ばして画面外からの台詞と明確にしてください。文字『弟にも言わぬ』そのものは一字も変えない。人物の顔、身体、衣装、表情、色、絵柄、背景、コマ割り、他の全ての吹き出し、全台詞、ページ番号27は完全に維持。特に左下コマの金蓮の顔や他のコマは描き変えない。注釈や別の文字は追加しない。"
+    },
+    {
+      "number": 28,
+      "title": "約束",
+      "sourceImage": "exec-4bda1429-abe3-47a5-9b3b-7ea309b90297.png",
+      "selectedImage": "exec-4bda1429-abe3-47a5-9b3b-7ea309b90297.png",
+      "output": "public/assets/ch025/continuation-21-51/p028.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "14579ed81031e3c8b7f45be25ec91ec327e5de37cf9d5d66aa2e85e7d9a09d35"
+    },
+    {
+      "number": 29,
+      "title": "三更",
+      "sourceImage": "exec-2cf39103-924f-48c2-b0f0-4dfa96b65fe7.png",
+      "selectedImage": "exec-2cf39103-924f-48c2-b0f0-4dfa96b65fe7.png",
+      "output": "public/assets/ch025/continuation-21-51/p029.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "97f49337914617cf611fcd05c02a629d3d370f47967f44e5d21347786d04acaf"
+    },
+    {
+      "number": 30,
+      "title": "寝台のそば",
+      "sourceImage": "exec-5476c1c2-eb2c-4dd8-8ace-f34f7eb3da9c.png",
+      "selectedImage": "exec-5476c1c2-eb2c-4dd8-8ace-f34f7eb3da9c.png",
+      "output": "public/assets/ch025/continuation-21-51/p030.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "4877af760d6519cc2df624922f72e29de5e4df2f7c5cdb1590effb3723d5efa4"
+    },
+    {
+      "number": 31,
+      "title": "苦い薬",
+      "sourceImage": "exec-8a93460e-e22b-4f87-af5a-72a7e1807863.png",
+      "selectedImage": "exec-8a93460e-e22b-4f87-af5a-72a7e1807863.png",
+      "output": "public/assets/ch025/continuation-21-51/p031.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "3bb8fd0218d944765f2c140f9fe908171376736de53591a040951304690bf3c1"
+    },
+    {
+      "number": 32,
+      "title": "異変",
+      "sourceImage": "exec-44a98101-e014-41e6-8330-608f621aac58.png",
+      "selectedImage": "exec-65966288-d9ce-418c-99b1-358a668cd34c.png",
+      "output": "public/assets/ch025/continuation-21-51/p032.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "193068d9b45cb30f6b969ade723cce7008a0aa5ec76a39b5ea0d9304d2519e90",
+      "repairPrompt": "添付は漫画32ページです。編集は寝具の色だけ。全てのコマで赤茶色の掛布と枕の赤茶部分を、前後のページと同じ落ち着いた青灰色と淡い金色の伝統的な模様に変える。武大郎の黄土色の衣服は変更しない。人物の顔、衣装、ポーズ、表情、背景、光、構図、コマ割り、全ての日本語台詞と吹き出し、ページ番号32、白い余白は一切変えず維持する。寝具の色以外は変更しない。"
+    },
+    {
+      "number": 33,
+      "title": "届かない声",
+      "sourceImage": "exec-dd66cdd2-024e-4783-b78b-277337632c5f.png",
+      "selectedImage": "exec-dd66cdd2-024e-4783-b78b-277337632c5f.png",
+      "output": "public/assets/ch025/continuation-21-51/p033.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "3bbd8dc55565a35427268047cb713ee54e2d2d7d26a66a82163b84d13c4d6a75"
+    },
+    {
+      "number": 34,
+      "title": "灯の下",
+      "sourceImage": "exec-5460957c-237a-4268-9022-95e8141ba1a4.png",
+      "selectedImage": "exec-5460957c-237a-4268-9022-95e8141ba1a4.png",
+      "output": "public/assets/ch025/continuation-21-51/p034.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "21277909d7e8e3f7f4220911c85fbbeb344acd930d404b7d99a705ebfb7c0f2d"
+    },
+    {
+      "number": 35,
+      "title": "壁の向こう",
+      "sourceImage": "exec-1e593f48-cbee-4d22-8bf4-701feb7a2222.png",
+      "selectedImage": "exec-1e593f48-cbee-4d22-8bf4-701feb7a2222.png",
+      "output": "public/assets/ch025/continuation-21-51/p035.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "89b83230fc534c3d3925403f0547c4514e11dce0ebc61a4a8b4b2c6b3cdcf621"
+    },
+    {
+      "number": 36,
+      "title": "王婆が来る",
+      "sourceImage": "exec-b3e0cb84-df2b-418e-9401-c97517806602.png",
+      "selectedImage": "exec-b3e0cb84-df2b-418e-9401-c97517806602.png",
+      "output": "public/assets/ch025/continuation-21-51/p036.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "3dc92ae5a3f5cb75c444d836dd2130123b8c4b197e342d6048964f998577a577"
+    },
+    {
+      "number": 37,
+      "title": "白い布",
+      "sourceImage": "exec-cf5d4cef-8e4a-4a3f-b305-5ad9967af1db.png",
+      "selectedImage": "exec-cf5d4cef-8e4a-4a3f-b305-5ad9967af1db.png",
+      "output": "public/assets/ch025/continuation-21-51/p037.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "5a17653e2118745000b9fe114f076bfed805c94e3920b52b7167a41869a420fc"
+    },
+    {
+      "number": 38,
+      "title": "泣き声",
+      "sourceImage": "exec-2661ee98-304f-4adc-b919-a522f804e4bb.png",
+      "selectedImage": "exec-2661ee98-304f-4adc-b919-a522f804e4bb.png",
+      "output": "public/assets/ch025/continuation-21-51/p038.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "0205cbf9ae23f382d18dcfd9dac6b5226d045ec01853d2c37ec9b2d242702d81"
+    },
+    {
+      "number": 39,
+      "title": "夜明けの知らせ",
+      "sourceImage": "exec-0cc5159a-cabc-4dc6-aa8d-111e9c3f3145.png",
+      "selectedImage": "exec-0cc5159a-cabc-4dc6-aa8d-111e9c3f3145.png",
+      "output": "public/assets/ch025/continuation-21-51/p039.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "fd9118fa2c821f74030bf35d0c7f85fc8f9e392b9589c12112068c83e8a3dad6"
+    },
+    {
+      "number": 40,
+      "title": "棺",
+      "sourceImage": "exec-79c92495-abbb-46a7-aefb-96d373756184.png",
+      "selectedImage": "exec-a6c1cc3f-350e-4853-a598-944dfe6aebad.png",
+      "output": "public/assets/ch025/continuation-21-51/p040.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "86a6f553998c123f4fd0fa6223905b2eb698357dcc51b1a0aeddc363be80a745",
+      "repairPrompt": "添付の水滸伝漫画40ページを限定的に編集。この男性は武大郎に似ているが武大郎はすでに亡くなっており、葬儀の背景に描いてはいけないため、指定の背景人物だけを除去する。\n左上コマで、棺を運ぶ職人二人の後ろ、灰青の喪服の女性の左隣に立つ、黒い頭巾・黒い口髭・黄土色の上着の成人男性一人だけを取り除く。その場所は宋代の家の玄関の背景で自然に埋める。他の人物やコマには触れない。\n指定以外の全ての構図、人物の顔と衣装、表情、色、絵柄、コマ枠、全ての日本語台詞・ナレーション、ページ番号40、白い余白を完全に維持する。文字の描き変えや追加は不要。新しい人物は追加しない。対象以外は一切変えない。"
+    },
+    {
+      "number": 41,
+      "title": "弔問",
+      "sourceImage": "exec-b6162e76-3a9a-4bf0-8d19-e0c060799ad7.png",
+      "selectedImage": "exec-0c8901bd-cd38-4818-a4e2-b7f9bf39a381.png",
+      "output": "public/assets/ch025/continuation-21-51/p041.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "693d1a106d0f56b994acdccb940a299293c007457e76e5d89385c5e13f583156",
+      "repairPrompt": "添付の水滸伝漫画41ページを限定的に編集。この男性は武大郎に似ているが武大郎はすでに亡くなっており、葬儀の背景に描いてはいけないため、指定の背景人物だけを除去する。\n左上コマと左下コマの奥に立っている、黒い頭巾・黒い口髭・黄土色の上着の成人男性を両方とも取り除く。代わりに宋代の木造室内の背景を自然に補う。右上コマの背中を向けてお辞儀する弔問客には触れない。手前の灰色頭巾で灰色の髭の年配男性、老女王婆、喪服の金蓮、他の全人物は維持。\n指定以外の全ての構図、人物の顔と衣装、表情、色、絵柄、コマ枠、全ての日本語台詞・ナレーション、ページ番号41、白い余白を完全に維持する。文字の描き変えや追加は不要。新しい人物は追加しない。対象以外は一切変えない。"
+    },
+    {
+      "number": 42,
+      "title": "口を閉ざす町",
+      "sourceImage": "exec-d6df658c-f006-470b-b0ea-7d1ccfd0d523.png",
+      "selectedImage": "exec-db00b16d-0897-416d-ac5f-198279215306.png",
+      "output": "public/assets/ch025/continuation-21-51/p042.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "efddb6e1634ec1d53067ba047b8998a984ab986cd51eace56a016dd4255961e5",
+      "repairPrompt": "添付の水滸伝漫画42ページを限定的に編集。この男性は武大郎に似ているが武大郎はすでに亡くなっており、葬儀の背景に描いてはいけないため、指定の背景人物だけを除去する。\n右上コマで、灰青の喪服の金蓮の左隣にいる、黒い頭巾・黒い口髭・黄土色の上着の成人男性一人だけを取り除く。宋代の家の入口と木の柱を自然に補う。他のコマの人物、喪服の金蓮、老女王婆、通行人と隣人は全て維持。\n指定以外の全ての構図、人物の顔と衣装、表情、色、絵柄、コマ枠、全ての日本語台詞・ナレーション、ページ番号42、白い余白を完全に維持する。文字の描き変えや追加は不要。新しい人物は追加しない。対象以外は一切変えない。"
+    },
+    {
+      "number": 43,
+      "title": "何九叔",
+      "sourceImage": "exec-842c2018-a045-400f-a187-3760f7f6e125.png",
+      "selectedImage": "exec-158544f3-c1c2-4463-a8ad-44c080223f76.png",
+      "output": "public/assets/ch025/continuation-21-51/p043.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "2de86370cd5c09989999863373d720784f5049b8c474e561da5c713adb153413",
+      "repairPrompt": "添付の漫画43ページを限定編集。右上コマにいる金蓮は夫の葬儀中なので、顔と髪型とポーズは保ったまま、黄色の花飾りを外し、服を前後の場面に合わせて白い襟と袖の淡い灰青色の上着、暗い灰色の裙、灰色の帯の喪服にする。右上コマの金蓮の衣装と花飾り以外は変更しない。王婆、働き手、何九叔、背景、他の3コマ、全ての日本語文字と吹き出し、ナレーション、コマ割り、ページ番号43、色調、白余白は全て完全に維持。"
+    },
+    {
+      "number": 44,
+      "title": "呼び止める男",
+      "sourceImage": "exec-7b9d38e0-1c56-404f-98fc-2a54ee22bfdc.png",
+      "selectedImage": "exec-7b9d38e0-1c56-404f-98fc-2a54ee22bfdc.png",
+      "output": "public/assets/ch025/continuation-21-51/p044.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "1e3b588cbe9b1dc3881f1951b442080418404c46fdc7faefae550985ad5146f8"
+    },
+    {
+      "number": 45,
+      "title": "不意の酒席",
+      "sourceImage": "exec-c0433af8-5814-4496-8185-fc87f60a7926.png",
+      "selectedImage": "exec-c0433af8-5814-4496-8185-fc87f60a7926.png",
+      "output": "public/assets/ch025/continuation-21-51/p045.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "a8850bbd230265a94584f8766487e2347eb5c9f63463310187ff44503d1240be"
+    },
+    {
+      "number": 46,
+      "title": "卓上の銀",
+      "sourceImage": "exec-9fe4da83-aee2-48ec-bd13-9cd307d84281.png",
+      "selectedImage": "exec-9fe4da83-aee2-48ec-bd13-9cd307d84281.png",
+      "output": "public/assets/ch025/continuation-21-51/p046.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "65d9e53f91f54849fa4248dc7c7d82da96937e2e63d629b334229b59d4d39ad3"
+    },
+    {
+      "number": 47,
+      "title": "言外の脅し",
+      "sourceImage": "exec-400775de-248a-4d01-b1d6-2157550c24e3.png",
+      "selectedImage": "exec-400775de-248a-4d01-b1d6-2157550c24e3.png",
+      "output": "public/assets/ch025/continuation-21-51/p047.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "27d29d708b5a2c2fd9a606e0f45e268d89c6a008211e7f0ed3297fb54253342b"
+    },
+    {
+      "number": 48,
+      "title": "重い足取り",
+      "sourceImage": "exec-56eebe29-aad1-4338-b8e4-4964a088dd91.png",
+      "selectedImage": "exec-68715b12-78e2-484d-81aa-ad4248a6647d.png",
+      "output": "public/assets/ch025/continuation-21-51/p048.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "1f82b05cc758b5f6916367efca246c01728dda774d833967237fa75140bbd989",
+      "repairPrompt": "添付の漫画48ページを編集。変更は全4コマの時間帯と照明だけ。これは昼間の酒楼から武大の家までの移動なので、夜の青い空を穏やかな明るい昼の空へ、全コマの照明を午後の自然な日光に統一する。宋代の路地と家に柔らかい日差し、日中の自然な陰影。提灯そのものは装飾として残すが夜の光源にしない。何九叔、西門慶、衣装、顔、ポーズ、コマ割り、全ての日本語台詞と吹き出し、ページ番号48、白い余白、背景の建物、家の白い弔い布は一切変更しない。日中の照明以外は全てそのまま。"
+    },
+    {
+      "number": 49,
+      "title": "弔いの家",
+      "sourceImage": "exec-bddb833a-b3dd-4ca9-8bcc-b8b0f7df0ccf.png",
+      "selectedImage": "exec-bddb833a-b3dd-4ca9-8bcc-b8b0f7df0ccf.png",
+      "output": "public/assets/ch025/continuation-21-51/p049.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "bc0354a5a113a7a8c3e4b477105e023623e42025b54d1036de817897e63ecff0"
+    },
+    {
+      "number": 50,
+      "title": "白布の下",
+      "sourceImage": "exec-0bc34c8a-5d7b-46e4-b38f-c2142e08f555.png",
+      "selectedImage": "exec-0bc34c8a-5d7b-46e4-b38f-c2142e08f555.png",
+      "output": "public/assets/ch025/continuation-21-51/p050.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "811e4ca86658d80716ff4abd1a351380e62c8f47d68d3dedff04beda1ba39727"
+    },
+    {
+      "number": 51,
+      "title": "見てしまったもの",
+      "sourceImage": "exec-ad2b79a5-9d14-4997-aa86-b15c1291664e.png",
+      "selectedImage": "exec-b3c55b14-819a-41ae-aefe-5e3cb420f070.png",
+      "output": "public/assets/ch025/continuation-21-51/p051.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "ece5bc7f5cf364d193bed9381602ed5926847e325571322d3e1a1dbbd9f54ced",
+      "repairPrompt": "画像1の漫画51ページを限定編集。画像2の50ページは人物の見た目だけの参照。51ページで驚いて倒れる男性は武大郎ではなく何九叔で、前の50ページと同じ年配の人物にする。51ページの全コマの何九叔の髪の両脇を灰色、口髭を灰色、顎の短い髭を灰色にし、画像2の何九叔と同じ面長の年配の顔と皺、白髪交じりの外見に揃える。黒灰色の頭巾、灰褐色の長衣、体のポーズ、驚きや失神の表情は維持。王婆と金蓮、背景、全ての台詞、構図、コマ割り、白い余白、下の『第25回 終』『第26回へ続く』と番号51は一切変更しない。参照の50ページを複製せず、51ページの何九叔の人物の外見だけを整える。"
+    }
+  ]
+}
