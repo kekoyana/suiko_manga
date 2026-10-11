@@ -139,7 +139,7 @@ for (const prefix of ['/', '/suiko_manga/', '/renamed-project/']) {
     vm.runInContext('library()', context);
     assert.equal(el('library').hidden, false);
     assert.equal(el('resume').hidden, false);
-    assert.ok(el('resume-detail').textContent.includes('17 / 17'));
+    assert.ok(el('resume-detail').textContent.includes(`17 / ${last.pageCount}`));
     assert.equal(bodyClasses.has('reading'), false);
     await el('resume-button').onclick();
     assert.ok(location.hash.includes('chapter=25&page=17'));
