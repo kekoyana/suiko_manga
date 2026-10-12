@@ -1,0 +1,149 @@
+{
+  "tool": "built-in image_gen",
+  "format": "lossless WebP",
+  "pages": [
+    {
+      "number": 1,
+      "title": "誘いと拒絶",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a12b4c-7682-7d91-9ab8-d2549fb45d1d/exec-91003005-87da-4e2d-8840-b8388c508d44.png",
+      "output": "public/assets/ch028/complete/p001.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "71b28be905958cf4adfb36c2998a6a1ab2c16067981960896c6d6972a29e9b3e",
+      "pixelMatch": true,
+      "visualReview": "checked"
+    },
+    {
+      "number": 2,
+      "title": "目を覚ました役人",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a12b4c-7682-7d91-9ab8-d2549fb45d1d/exec-59025563-e415-4a2c-a272-2659f7af770c.png",
+      "output": "public/assets/ch028/complete/p002.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "8dce95a3f7a7fffea619a53240ad4a3b3df33ae8b9b97c575ecf08859cd14bd5",
+      "pixelMatch": true,
+      "visualReview": "checked"
+    },
+    {
+      "number": 3,
+      "title": "葡萄棚の酒席",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a12b4c-7682-7d91-9ab8-d2549fb45d1d/exec-fd635037-4f0c-44da-9f12-518435ccab8d.png",
+      "output": "public/assets/ch028/complete/p003.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "b05c7f636d9844ac79014a258bbaa83cfa259b4b06dcc2f1e1c17f87f4c0e55a",
+      "pixelMatch": true,
+      "visualReview": "checked"
+    },
+    {
+      "number": 4,
+      "title": "江湖の話",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a12b4c-7682-7d91-9ab8-d2549fb45d1d/exec-b427ac0b-2c50-4362-803b-e86fa7b5cad0.png",
+      "output": "public/assets/ch028/complete/p004.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "62dbbebaa217a626e0a62452a8b423b5fc72d3ed94ed432d0d5607423fdff8f4",
+      "pixelMatch": true,
+      "visualReview": "checked"
+    },
+    {
+      "number": 5,
+      "title": "義兄弟",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a12b4c-7682-7d91-9ab8-d2549fb45d1d/exec-4bd22f75-e8fd-479d-9c30-a7fe4f7d0000.png",
+      "output": "public/assets/ch028/complete/p005.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "7918027e2579a919fdf9c06cb660474236c1318c8690765880c9ff16901d2494",
+      "pixelMatch": true,
+      "visualReview": "checked"
+    },
+    {
+      "number": 6,
+      "title": "別れ",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a12b4c-7682-7d91-9ab8-d2549fb45d1d/exec-e1b68b4f-06c6-46ea-8840-14b29044e324.png",
+      "output": "public/assets/ch028/complete/p006.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "57e59c0c261951f1cf8ca6c2b7e585b665655fcbc2e6e815fe0b4c709cedf0c4",
+      "pixelMatch": true,
+      "visualReview": "checked"
+    },
+    {
+      "number": 7,
+      "title": "安平寨",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a12b4c-7682-7d91-9ab8-d2549fb45d1d/exec-0124d798-d99f-4fe2-87f0-347ddb483865.png",
+      "output": "public/assets/ch028/complete/p007.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "ce10283ed67d0e35e4de5bb03a1ed983cf33af2674e868dad0178c7433fe210d",
+      "pixelMatch": true,
+      "visualReview": "checked"
+    },
+    {
+      "number": 8,
+      "title": "囚人たちの忠告",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a12b4c-7682-7d91-9ab8-d2549fb45d1d/exec-fba0a4ad-6c32-4315-83bf-cf902f1ce5b4.png",
+      "output": "public/assets/ch028/complete/p008.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "8fa1c9e29d04dc6003947d26126a1fe06ab550e05fc405be808dd3f16b9d1532",
+      "pixelMatch": true,
+      "visualReview": "checked"
+    },
+    {
+      "number": 9,
+      "title": "差撥",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a12b4c-7682-7d91-9ab8-d2549fb45d1d/exec-8b955f78-77ca-4c04-962a-81621374c8bb.png",
+      "output": "public/assets/ch028/complete/p009.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "f792b6428aa4012bf8a19a55caf6bd1445c1ce272dd6a3524c7c00936b7a5d24",
+      "pixelMatch": true,
+      "visualReview": "checked"
+    },
+    {
+      "number": 10,
+      "title": "百の棒",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a12b4c-7682-7d91-9ab8-d2549fb45d1d/exec-d7e93143-495b-4002-8f45-c7912c5d107e.png",
+      "output": "public/assets/ch028/complete/p010.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "15e38c069780e7b7adda650ad25a6909f5770ee385c0aa226e0ff82f045c8204",
+      "pixelMatch": true,
+      "visualReview": "checked"
+    },
+    {
+      "number": 11,
+      "title": "救いの耳打ち",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a12b4c-7682-7d91-9ab8-d2549fb45d1d/exec-17b7b4e3-7100-4fbf-83fc-d926db885692.png",
+      "output": "public/assets/ch028/complete/p011.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "fe77571e5ad77d2ad06f6d2f2ae34206fc9cc966eba364faa5129c6dc21f4733",
+      "pixelMatch": true,
+      "visualReview": "checked"
+    },
+    {
+      "number": 12,
+      "title": "不気味な温情",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a12b4c-7682-7d91-9ab8-d2549fb45d1d/exec-1ce07caa-44a7-46b1-b1fc-1bd475499488.png",
+      "output": "public/assets/ch028/complete/p012.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "387a78548de6c866514b486077357b92e6ab63d99af23e845c93d3e68cec7a77",
+      "pixelMatch": true,
+      "visualReview": "checked"
+    },
+    {
+      "number": 13,
+      "title": "届いた料理",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a12b4c-7682-7d91-9ab8-d2549fb45d1d/exec-e36eea8a-b08e-4e65-956a-24d77bb0b03c.png",
+      "output": "public/assets/ch028/complete/p013.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "6ac2d0bc2744a6b32c38b54dbb69577db43f668348344de980fe31bf4ec50728",
+      "pixelMatch": true,
+      "visualReview": "checked"
+    }
+  ]
+}

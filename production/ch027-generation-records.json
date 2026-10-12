@@ -49,13 +49,14 @@
     {
       "number": 5,
       "title": "町の支え",
-      "sourceImage": "/home/kekoyana/.codex/generated_images/01a12b4c-7682-7d91-9ab8-d2549fb45d1d/exec-79b5812c-504b-4f08-ae2a-af48bc7c061c.png",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a12b4c-7682-7d91-9ab8-d2549fb45d1d/exec-8beed948-8e6e-4a1f-83c8-c041963cf8ed.png",
       "output": "public/assets/ch027/complete/p005.webp",
-      "width": 1071,
-      "height": 1469,
-      "sha256": "5d2b297796f5589df87245d9e96f3431cce022cbe62b16dccfce72836aab5524",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "cd203838a0d51a5c0b7ee36e6379cf62448dfc3b5b052138f8f246ee83b9c836",
       "pixelMatch": true,
-      "visualReview": "repair-pending"
+      "visualReview": "checked",
+      "repairPrompt": "一枚目は修正対象の5ページ、二枚目は人物参照の6ページ。5ページの左下コマで武松の隣を歩いている女性だけを、6ページ右下の年配女性・王婆と同じ顔と衣装に直す。王婆は60代の女性で、灰色の髪、しわのある女性の顔、茶色の布頭巾、茶色の着物、黒い前掛け。口髭も顎髭も一切ない女性。首の木製の枷と歩く姿勢は維持。この女性以外の人物と他の全コマ・台詞・色・背景・番号5を変更しない。6ページそのものは出力しない。"
     },
     {
       "number": 6,
@@ -71,24 +72,26 @@
     {
       "number": 7,
       "title": "明らかになった事件",
-      "sourceImage": "/home/kekoyana/.codex/generated_images/01a12b4c-7682-7d91-9ab8-d2549fb45d1d/exec-39922576-bc07-4a08-a531-9c0f216a3ef4.png",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a12b4c-7682-7d91-9ab8-d2549fb45d1d/exec-194f6f43-6af7-46cc-926c-885151d3856a.png",
       "output": "public/assets/ch027/complete/p007.webp",
-      "width": 1071,
-      "height": 1469,
-      "sha256": "6202d1b6fec9b98ba8110f5e2226245132ef4616fb5e4bd1e42dd0bdb5580db3",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "deef46724df36a0305e54d3f14bb4705d49659f51a6136742d797f273ade7d81",
       "pixelMatch": true,
-      "visualReview": "repair-pending"
+      "repairPrompt": "既存の完成漫画ページの限定修正。右上コマの証拠は、小さい黒い破片を正確に二個だけと、銀塊一個にする。黒い破片三個のうち余分な一個を除く。証拠を持つ陳文昭の服は他のコマと同じ暗い青緑の官服に揃える。顔、指、銀塊、他の五コマ、全台詞・番号7を維持。 指定箇所以外の構図、色、台詞は維持。人物は全員成人。二枚目の画像がある場合、そこにいる髭のない灰緑服・灰色服の男性二人が店の手伝いの正しい外見。",
+      "visualReview": "checked"
     },
     {
       "number": 8,
       "title": "二か月",
-      "sourceImage": "/home/kekoyana/.codex/generated_images/01a12b4c-7682-7d91-9ab8-d2549fb45d1d/exec-b859ed5a-3597-4ed4-8080-89161dc86c0e.png",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a12b4c-7682-7d91-9ab8-d2549fb45d1d/exec-3573b16b-0d96-4000-aacb-f3c83937bce8.png",
       "output": "public/assets/ch027/complete/p008.webp",
-      "width": 1071,
-      "height": 1469,
-      "sha256": "a160b674fb79ece8ac8f019c9eb87ca65ee99e718c0a77c9a68fc65dd032e5e9",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "e07db0d760b8da9df365bd2edde856e8da97e2eaf33f5d748edc4a59334c4bca",
       "pixelMatch": true,
-      "visualReview": "repair-pending"
+      "repairPrompt": "既存の完成漫画ページの限定修正。右下コマの窓の外の雪をすべて除き、初夏前の緑の葉と普通の庭に変更する。次の道中は六月なので冬景色ではない。窓の格子、武松の顔・服・姿勢、他の全コマ、台詞と番号8を維持。 指定箇所以外の構図、色、台詞は維持。人物は全員成人。二枚目の画像がある場合、そこにいる髭のない灰緑服・灰色服の男性二人が店の手伝いの正しい外見。",
+      "visualReview": "checked"
     },
     {
       "number": 9,
@@ -203,6 +206,195 @@
     {
       "number": 19,
       "title": "倒れた三人",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a12b4c-7682-7d91-9ab8-d2549fb45d1d/exec-082d621a-b462-4d14-871b-256fb942bcd0.png",
+      "output": "public/assets/ch027/complete/p019.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "ee20214ca5246758a4a26dae8e49e24387070e117a236d482cb03e249d68ecc7",
+      "pixelMatch": true,
+      "repairPrompt": "既存の完成漫画ページの限定修正。左下コマの、役人を運ぶ店の手伝い二人を護送役とは別の成人男性に変更。一人は丸顔で髭なしの灰緑色無地服・黒布頭巾、もう一人は太い眉で髭なしの灰色無地服・黒布頭巾。護送役二人は別室で眠っており、この二人は店の手伝い。指定コマの手伝いだけを変更し、武松・孫二娘・眠る役人・台詞・その他のコマ・番号を維持。 指定箇所以外の構図、色、台詞は維持。人物は全員成人。二枚目の画像がある場合、そこにいる髭のない灰緑服・灰色服の男性二人が店の手伝いの正しい外見。",
+      "visualReview": "checked"
+    },
+    {
+      "number": 20,
+      "title": "重い包み",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a12b4c-7682-7d91-9ab8-d2549fb45d1d/exec-4fba2c7a-32f4-4c9f-a9c4-39a09a132090.png",
+      "output": "public/assets/ch027/complete/p020.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "e716a62c8c42b3b376a187430191007778dad0e32c1c2f420bc0f5bd1f0695b7",
+      "pixelMatch": true,
+      "repairPrompt": "既存の完成漫画ページの限定修正。中段左右の武松を持ち上げる二人を護送役とは別の成人男性に変更。一人は丸顔で髭なしの灰緑色無地服・黒布頭巾、もう一人は太い眉で髭なしの灰色無地服・黒布頭巾。護送役二人は別室で眠っており、この二人は店の手伝い。指定コマの手伝いだけを変更し、武松・孫二娘・眠る役人・台詞・その他のコマ・番号を維持。 指定箇所以外の構図、色、台詞は維持。人物は全員成人。二枚目の画像がある場合、そこにいる髭のない灰緑服・灰色服の男性二人が店の手伝いの正しい外見。",
+      "visualReview": "checked"
+    },
+    {
+      "number": 21,
+      "title": "閉じていた目",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a12b4c-7682-7d91-9ab8-d2549fb45d1d/exec-17bc957c-5d23-49cf-bb8d-8f2bc902c6c1.png",
+      "output": "public/assets/ch027/complete/p021.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "87ce892433f6ac7678831d0c218d346315590bcd1949a7e7cedf37ad4e6b44e6",
+      "pixelMatch": true,
+      "repairPrompt": "既存の完成漫画ページの限定修正。左下コマで手を上げる二人を護送役とは別の成人男性に変更。一人は丸顔で髭なしの灰緑色無地服・黒布頭巾、もう一人は太い眉で髭なしの灰色無地服・黒布頭巾。護送役二人は別室で眠っており、この二人は店の手伝い。指定コマの手伝いだけを変更し、武松・孫二娘・眠る役人・台詞・その他のコマ・番号を維持。 指定箇所以外の構図、色、台詞は維持。人物は全員成人。二枚目の画像がある場合、そこにいる髭のない灰緑服・灰色服の男性二人が店の手伝いの正しい外見。",
+      "visualReview": "checked"
+    },
+    {
+      "number": 22,
+      "title": "母夜叉、捕らわる",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a12b4c-7682-7d91-9ab8-d2549fb45d1d/exec-2b380153-aa10-4f27-9d04-419d6f442e3f.png",
+      "output": "public/assets/ch027/complete/p022.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "c07cd8ba60f32e9423ab6a319d8423f3cc73016cbdef2fe5cf8fffdcabac6b44",
+      "pixelMatch": true,
+      "visualReview": "checked"
+    },
+    {
+      "number": 23,
+      "title": "菜園子張青",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a12b4c-7682-7d91-9ab8-d2549fb45d1d/exec-17018966-5a53-4af8-b8a5-8e291fd4f6bf.png",
+      "output": "public/assets/ch027/complete/p023.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "09dee0420da34bb60b54bff2860e98589d5fc75b77d82da83047059ffe27f019",
+      "pixelMatch": true,
+      "repairPrompt": "完成漫画ページの整合性を修正。全コマで武松の首に付いた木製の枷を完全に除く。すでに外されている場面なので、首と胸には青灰色の服と白襟だけを描く。全コマで店の亭主・張青（口髭と顎髭の男性）の上着を無地の白い上着へ、頭巾を青緑の布頭巾へ変更する。張青の顔・髭・灰色帯・黒いズボンは維持。武松と孫二娘の顔と服、全台詞、コマ割り、背景、ページ番号23は維持。",
+      "visualReview": "checked"
+    },
+    {
+      "number": 24,
+      "title": "名を聞いて",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a12b4c-7682-7d91-9ab8-d2549fb45d1d/exec-2f4f285c-be75-4ee2-af66-74e3bbe53c41.png",
+      "output": "public/assets/ch027/complete/p024.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "3be1ef9f688e8b9147cfbb1e8796cde2e86a3045d4d37442a0492cfa8a1ce2e5",
+      "pixelMatch": true,
+      "visualReview": "checked"
+    },
+    {
+      "number": 25,
+      "title": "店の裏側",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a12b4c-7682-7d91-9ab8-d2549fb45d1d/exec-477ace16-c156-4de1-bdb1-070e33f59f5e.png",
+      "output": "public/assets/ch027/complete/p025.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "f2609a325fdcb69a5fb0ef28362a422718da7204efd9ac3777de818e7891b114",
+      "pixelMatch": true,
+      "visualReview": "checked"
+    },
+    {
+      "number": 26,
+      "title": "魯智深の名",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a12b4c-7682-7d91-9ab8-d2549fb45d1d/exec-a95115fe-62fb-4e2c-94ee-d600f84ad035.png",
+      "output": "public/assets/ch027/complete/p026.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "613fb0d3f33e3172d8af3706bb5320e15e4e7eae36d37e45f60ed6637c6075f5",
+      "pixelMatch": true,
+      "visualReview": "checked"
+    },
+    {
+      "number": 27,
+      "title": "遺された道具",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a12b4c-7682-7d91-9ab8-d2549fb45d1d/exec-b303e9bd-0cb0-4743-892b-ba3bae09046b.png",
+      "output": "public/assets/ch027/complete/p027.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "b18c5fba924436815c1c0d9de9c63dde4fd00a8b07f5a0dfebf6b8858c0faa32",
+      "pixelMatch": true,
+      "visualReview": "checked"
+    },
+    {
+      "number": 28,
+      "title": "救ってくれ",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a12b4c-7682-7d91-9ab8-d2549fb45d1d/exec-28056171-6f94-441f-9911-2633ec300c82.png",
+      "output": "public/assets/ch027/complete/p028.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "9371ffe27f38a79d203f13324e2d07935d93d13f87bba818161e4aa21143cff1",
+      "pixelMatch": true,
+      "visualReview": "checked"
+    }
+  ],
+  "previousVersions": [
+    {
+      "number": 1,
+      "title": "最後の頼み",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a12b4c-7682-7d91-9ab8-d2549fb45d1d/exec-5a958df2-3dcc-46d0-813b-5a752978c838.png",
+      "output": "public/assets/ch027/complete/p001.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "9067dddbe2ef6bf4f81a07ab8f784628cf3c5169ad0d8bb85a233d54d4fc7bde",
+      "pixelMatch": true
+    },
+    {
+      "number": 2,
+      "title": "自首",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a12b4c-7682-7d91-9ab8-d2549fb45d1d/exec-ea74f64e-76d4-462c-a4a5-7e63b478fdbc.png",
+      "output": "public/assets/ch027/complete/p002.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "5c58f997e30e7098f6bb6694b5b399bf6e333017b149c04d4f5fc5a3f55e7d5e",
+      "pixelMatch": true
+    },
+    {
+      "number": 23,
+      "title": "菜園子張青",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a12b4c-7682-7d91-9ab8-d2549fb45d1d/exec-a6ed966c-4828-4149-a1a3-7a3eb401f616.png",
+      "output": "public/assets/ch027/complete/p023.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "0e807a70d1fd1562a7d8d7791c99f43131d8e321566e4ccac24bb6bab49d7c12",
+      "pixelMatch": true
+    },
+    {
+      "number": 24,
+      "title": "名を聞いて",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a12b4c-7682-7d91-9ab8-d2549fb45d1d/exec-8d6eac31-239a-4beb-9341-7101fedf9c88.png",
+      "output": "public/assets/ch027/complete/p024.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "0b64c8df68a0a1313063a71f4ea9cb0303dfa3b35e51bb4fa322fac44fda6910",
+      "pixelMatch": true
+    },
+    {
+      "number": 5,
+      "title": "町の支え",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a12b4c-7682-7d91-9ab8-d2549fb45d1d/exec-79b5812c-504b-4f08-ae2a-af48bc7c061c.png",
+      "output": "public/assets/ch027/complete/p005.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "5d2b297796f5589df87245d9e96f3431cce022cbe62b16dccfce72836aab5524",
+      "pixelMatch": true,
+      "visualReview": "repair-pending"
+    },
+    {
+      "number": 7,
+      "title": "明らかになった事件",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a12b4c-7682-7d91-9ab8-d2549fb45d1d/exec-39922576-bc07-4a08-a531-9c0f216a3ef4.png",
+      "output": "public/assets/ch027/complete/p007.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "6202d1b6fec9b98ba8110f5e2226245132ef4616fb5e4bd1e42dd0bdb5580db3",
+      "pixelMatch": true,
+      "visualReview": "repair-pending"
+    },
+    {
+      "number": 8,
+      "title": "二か月",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a12b4c-7682-7d91-9ab8-d2549fb45d1d/exec-b859ed5a-3597-4ed4-8080-89161dc86c0e.png",
+      "output": "public/assets/ch027/complete/p008.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "a160b674fb79ece8ac8f019c9eb87ca65ee99e718c0a77c9a68fc65dd032e5e9",
+      "pixelMatch": true,
+      "visualReview": "repair-pending"
+    },
+    {
+      "number": 19,
+      "title": "倒れた三人",
       "sourceImage": "/home/kekoyana/.codex/generated_images/01a12b4c-7682-7d91-9ab8-d2549fb45d1d/exec-d22eaeaa-8824-48ea-be49-30c9d898cf1a.png",
       "output": "public/assets/ch027/complete/p019.webp",
       "width": 1071,
@@ -232,28 +424,26 @@
       "sha256": "de40be0af528f2d13115e7bbe38424c1be192d81cd70511bec5f8c91ab2501be",
       "pixelMatch": true,
       "visualReview": "repair-pending"
-    }
-  ],
-  "previousVersions": [
-    {
-      "number": 1,
-      "title": "最後の頼み",
-      "sourceImage": "/home/kekoyana/.codex/generated_images/01a12b4c-7682-7d91-9ab8-d2549fb45d1d/exec-5a958df2-3dcc-46d0-813b-5a752978c838.png",
-      "output": "public/assets/ch027/complete/p001.webp",
-      "width": 1071,
-      "height": 1469,
-      "sha256": "9067dddbe2ef6bf4f81a07ab8f784628cf3c5169ad0d8bb85a233d54d4fc7bde",
-      "pixelMatch": true
     },
     {
-      "number": 2,
-      "title": "自首",
-      "sourceImage": "/home/kekoyana/.codex/generated_images/01a12b4c-7682-7d91-9ab8-d2549fb45d1d/exec-ea74f64e-76d4-462c-a4a5-7e63b478fdbc.png",
-      "output": "public/assets/ch027/complete/p002.webp",
-      "width": 1071,
-      "height": 1469,
-      "sha256": "5c58f997e30e7098f6bb6694b5b399bf6e333017b149c04d4f5fc5a3f55e7d5e",
-      "pixelMatch": true
+      "number": 5,
+      "title": "町の支え",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a12b4c-7682-7d91-9ab8-d2549fb45d1d/exec-d5135408-0864-4eb3-82ab-59d00ae52c0b.png",
+      "output": "public/assets/ch027/complete/p005.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "478103fa24847bd5fb99f6587156ecc38a1ddc5c231b5448810950d5b41ad4a2",
+      "pixelMatch": true,
+      "repairPrompt": "既存の完成漫画ページの限定修正。左下コマの武松の隣の女性は若い女性ではなく王婆。ほかのコマと同じ年配の女性、灰色の髪、茶色の頭巾、茶色の着物、黒い前掛けに直す。首の木製の枷はそのまま、台詞・他の人物・背景・番号5を維持。 指定箇所以外の構図、色、台詞は維持。人物は全員成人。二枚目の画像がある場合、そこにいる髭のない灰緑服・灰色服の男性二人が店の手伝いの正しい外見。",
+      "visualReview": "repair-pending"
     }
-  ]
+  ],
+  "cover": {
+    "sourceImage": "/home/kekoyana/.codex/generated_images/01a12b4c-7682-7d91-9ab8-d2549fb45d1d/exec-4e40945d-612e-438a-8f90-8c19fb6a7f06.png",
+    "output": "public/assets/ch027/cover-6589f8eccd3100d0.webp",
+    "width": 1070,
+    "height": 1470,
+    "sha256": "6589f8eccd3100d08df98810a7f30e8c2036c993302223b7dff6c143ff2e40ce",
+    "pixelMatch": true
+  }
 }

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "title": "水滸伝 漫画書庫",
-  "completedThrough": 26,
-  "totalPages": 991,
+  "completedThrough": 27,
+  "totalPages": 1019,
   "milestone": 20,
   "chapters": [
     {
@@ -215,10 +215,11 @@
     },
     {
       "number": 27,
-      "title": "第27回",
-      "status": "coming",
-      "pageCount": 0,
-      "cover": null
+      "title": "母夜叉、孟州道で酒を売る／武都頭、十字坡で張青に会う",
+      "status": "complete",
+      "pageCount": 28,
+      "cover": "/assets/ch027/cover-6589f8eccd3100d0.webp",
+      "manifest": "/data/ch027-a1833c9f63bc.json"
     },
     {
       "number": 28,

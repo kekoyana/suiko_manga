@@ -14,9 +14,11 @@ page = plan['pages'][number - 1]
 output = ROOT / f'public/assets/ch{chapter:03}/complete/p{number:03}.webp'
 output.parent.mkdir(parents=True, exist_ok=True)
 image = Image.open(source).convert('RGB')
-image.save(output, 'WEBP', lossless=True, method=0)
-with Image.open(output) as saved:
+output_tmp = output.with_name(output.name + '.partial')
+image.save(output_tmp, 'WEBP', lossless=True, method=0)
+with Image.open(output_tmp) as saved:
     assert saved.convert('RGB').tobytes() == image.tobytes()
+output_tmp.replace(output)
 records_path = ROOT / f'production/ch{chapter:03}-generation-records.json'
 records = json.loads(records_path.read_text()) if records_path.exists() else {
     'tool': 'built-in image_gen', 'format': 'lossless WebP', 'pages': []}
