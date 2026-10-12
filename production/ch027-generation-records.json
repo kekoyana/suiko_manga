@@ -1,0 +1,182 @@
+{
+  "tool": "built-in image_gen",
+  "format": "lossless WebP",
+  "pages": [
+    {
+      "number": 1,
+      "title": "最後の頼み",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a12b4c-7682-7d91-9ab8-d2549fb45d1d/exec-1f568b7f-8ceb-4d42-9e7b-709d649072c8.png",
+      "output": "public/assets/ch027/complete/p001.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "4635fb65da334b1ceda46b96f2ca13ef43371f588eda8ed84a8630daf69ee788",
+      "pixelMatch": true,
+      "visualReview": "checked"
+    },
+    {
+      "number": 2,
+      "title": "自首",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a12b4c-7682-7d91-9ab8-d2549fb45d1d/exec-8108b94a-6e72-4469-8373-94fa3c3cc2d3.png",
+      "output": "public/assets/ch027/complete/p002.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "8837a609153f0a83ac539559142e0ce7ec0fa247c68c3baf56c6aaca8794c352",
+      "pixelMatch": true,
+      "visualReview": "checked"
+    },
+    {
+      "number": 3,
+      "title": "牢へ",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a12b4c-7682-7d91-9ab8-d2549fb45d1d/exec-446ccba9-53bf-49c1-97fa-3f739cda228c.png",
+      "output": "public/assets/ch027/complete/p003.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "cf81998b1abf229740db3a613ed5452e5f25c15bd6782cc09e742a437f3bf452",
+      "pixelMatch": true,
+      "visualReview": "checked"
+    },
+    {
+      "number": 4,
+      "title": "書き換えられた調書",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a12b4c-7682-7d91-9ab8-d2549fb45d1d/exec-10aa0c83-2cd7-4eda-85a4-ef4669a23d39.png",
+      "output": "public/assets/ch027/complete/p004.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "dbc34f0750913c354370c6617b87b45311db4815995a89cb887fbf72f8b4c043",
+      "pixelMatch": true,
+      "visualReview": "checked"
+    },
+    {
+      "number": 5,
+      "title": "町の支え",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a12b4c-7682-7d91-9ab8-d2549fb45d1d/exec-79b5812c-504b-4f08-ae2a-af48bc7c061c.png",
+      "output": "public/assets/ch027/complete/p005.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "5d2b297796f5589df87245d9e96f3431cce022cbe62b16dccfce72836aab5524",
+      "pixelMatch": true,
+      "visualReview": "repair-pending"
+    },
+    {
+      "number": 6,
+      "title": "陳文昭",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a12b4c-7682-7d91-9ab8-d2549fb45d1d/exec-10bf03d2-c781-4b9f-a465-601a25bff4ae.png",
+      "output": "public/assets/ch027/complete/p006.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "416ddf2fb6a2c7fb4d5cfe3d354811d08ab1802a02a1c4f57d4b8ad4a6ee9064",
+      "pixelMatch": true,
+      "visualReview": "checked"
+    },
+    {
+      "number": 7,
+      "title": "明らかになった事件",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a12b4c-7682-7d91-9ab8-d2549fb45d1d/exec-39922576-bc07-4a08-a531-9c0f216a3ef4.png",
+      "output": "public/assets/ch027/complete/p007.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "6202d1b6fec9b98ba8110f5e2226245132ef4616fb5e4bd1e42dd0bdb5580db3",
+      "pixelMatch": true,
+      "visualReview": "repair-pending"
+    },
+    {
+      "number": 8,
+      "title": "二か月",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a12b4c-7682-7d91-9ab8-d2549fb45d1d/exec-b859ed5a-3597-4ed4-8080-89161dc86c0e.png",
+      "output": "public/assets/ch027/complete/p008.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "a160b674fb79ece8ac8f019c9eb87ca65ee99e718c0a77c9a68fc65dd032e5e9",
+      "pixelMatch": true,
+      "visualReview": "repair-pending"
+    },
+    {
+      "number": 9,
+      "title": "判決",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a12b4c-7682-7d91-9ab8-d2549fb45d1d/exec-8994e700-5566-42d8-b31c-c60c515549d5.png",
+      "output": "public/assets/ch027/complete/p009.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "5eedb84f0b7dedf4d20e18daf3ac4a1f4669ad28e6aa2815a7607d12064bae3f",
+      "pixelMatch": true,
+      "visualReview": "checked"
+    },
+    {
+      "number": 10,
+      "title": "王婆の末路",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a12b4c-7682-7d91-9ab8-d2549fb45d1d/exec-dcf3ef28-0e1b-4400-b462-88610fddc759.png",
+      "output": "public/assets/ch027/complete/p010.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "ed27c84d228029c8fb339bdbd05076836d02f5035f57bd41c801b5733902b8cb",
+      "pixelMatch": true,
+      "visualReview": "checked"
+    },
+    {
+      "number": 11,
+      "title": "孟州への道",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a12b4c-7682-7d91-9ab8-d2549fb45d1d/exec-62f7346a-fa7b-4b8a-89b7-f41c0bdb13ac.png",
+      "output": "public/assets/ch027/complete/p011.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "7bc863408acda03d2b4d8b044638fb28c1f64eb37c16af229f26621976532ee7",
+      "pixelMatch": true,
+      "visualReview": "checked"
+    },
+    {
+      "number": 12,
+      "title": "炎暑",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a12b4c-7682-7d91-9ab8-d2549fb45d1d/exec-d746168f-0659-4b5a-bde3-f95bd798eecc.png",
+      "output": "public/assets/ch027/complete/p012.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "c302d7772e74b336352cab0697983fc3ae7e53338f45e317824a3c6a89276c18",
+      "pixelMatch": true,
+      "visualReview": "checked"
+    },
+    {
+      "number": 13,
+      "title": "十字坡",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a12b4c-7682-7d91-9ab8-d2549fb45d1d/exec-80e8805b-6bca-41ef-bd9b-7a5e3535cec8.png",
+      "output": "public/assets/ch027/complete/p013.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "ab308358c018948ba204bebb9e470c78c021734349c0a73382c89c69275c973c",
+      "pixelMatch": true,
+      "visualReview": "checked"
+    },
+    {
+      "number": 14,
+      "title": "母夜叉の店",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a12b4c-7682-7d91-9ab8-d2549fb45d1d/exec-26fdd5f3-a20c-457b-9b8e-c24426924e11.png",
+      "output": "public/assets/ch027/complete/p014.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "712bb6874fa4d92d6876a113a8417ee9baa0ea5050d36f4abc43c469679f2b4f",
+      "pixelMatch": true,
+      "visualReview": "checked"
+    }
+  ],
+  "previousVersions": [
+    {
+      "number": 1,
+      "title": "最後の頼み",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a12b4c-7682-7d91-9ab8-d2549fb45d1d/exec-5a958df2-3dcc-46d0-813b-5a752978c838.png",
+      "output": "public/assets/ch027/complete/p001.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "9067dddbe2ef6bf4f81a07ab8f784628cf3c5169ad0d8bb85a233d54d4fc7bde",
+      "pixelMatch": true
+    },
+    {
+      "number": 2,
+      "title": "自首",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a12b4c-7682-7d91-9ab8-d2549fb45d1d/exec-ea74f64e-76d4-462c-a4a5-7e63b478fdbc.png",
+      "output": "public/assets/ch027/complete/p002.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "5c58f997e30e7098f6bb6694b5b399bf6e333017b149c04d4f5fc5a3f55e7d5e",
+      "pixelMatch": true
+    }
+  ]
+}
