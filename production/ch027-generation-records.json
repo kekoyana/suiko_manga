@@ -155,6 +155,83 @@
       "sha256": "712bb6874fa4d92d6876a113a8417ee9baa0ea5050d36f4abc43c469679f2b4f",
       "pixelMatch": true,
       "visualReview": "checked"
+    },
+    {
+      "number": 15,
+      "title": "饅頭への疑い",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a12b4c-7682-7d91-9ab8-d2549fb45d1d/exec-fbd46b83-467e-4fb9-b440-7c5ccae60b6e.png",
+      "output": "public/assets/ch027/complete/p015.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "27d9945063817d874a58b07d21425eb9846d7443837fa52a1b4c9d9501b82d87",
+      "pixelMatch": true,
+      "visualReview": "checked"
+    },
+    {
+      "number": 16,
+      "title": "探り合い",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a12b4c-7682-7d91-9ab8-d2549fb45d1d/exec-341c3bd3-e867-42e5-b17c-3453dc9023b1.png",
+      "output": "public/assets/ch027/complete/p016.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "03cea243e0388521ae0f8d45e49055db97799e67e7641c248a79ded0e36a02ad",
+      "pixelMatch": true,
+      "visualReview": "checked"
+    },
+    {
+      "number": 17,
+      "title": "特別な酒",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a12b4c-7682-7d91-9ab8-d2549fb45d1d/exec-c8a856f9-fbee-404d-abc0-ee8fd6e118eb.png",
+      "output": "public/assets/ch027/complete/p017.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "0aa51c98e240347324a9ca8c8db0422f53626126bbc4127da526f300185b5d38",
+      "pixelMatch": true,
+      "visualReview": "checked"
+    },
+    {
+      "number": 18,
+      "title": "空になった碗",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a12b4c-7682-7d91-9ab8-d2549fb45d1d/exec-a58789f4-1e7e-4aab-8586-97894c7093fe.png",
+      "output": "public/assets/ch027/complete/p018.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "c57b9fbed19d008fc501893579b7d22ac0d82fef8ea01832a5a687deb9bcf82b",
+      "pixelMatch": true,
+      "visualReview": "checked"
+    },
+    {
+      "number": 19,
+      "title": "倒れた三人",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a12b4c-7682-7d91-9ab8-d2549fb45d1d/exec-d22eaeaa-8824-48ea-be49-30c9d898cf1a.png",
+      "output": "public/assets/ch027/complete/p019.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "575e79bca71300269e40716fd45934ba5e95c0dbb715549b73e43d592dc4ea31",
+      "pixelMatch": true,
+      "visualReview": "repair-pending"
+    },
+    {
+      "number": 20,
+      "title": "重い包み",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a12b4c-7682-7d91-9ab8-d2549fb45d1d/exec-84942870-99e5-4efa-9797-a348d1fd0a74.png",
+      "output": "public/assets/ch027/complete/p020.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "ac53acb1ffa15cb7855a7b6c8d0cb56626734347e0f2459e7edb996bcf159789",
+      "pixelMatch": true,
+      "visualReview": "repair-pending"
+    },
+    {
+      "number": 21,
+      "title": "閉じていた目",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a12b4c-7682-7d91-9ab8-d2549fb45d1d/exec-c2e24b30-a767-4c10-a9fb-7537199419f1.png",
+      "output": "public/assets/ch027/complete/p021.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "de40be0af528f2d13115e7bbe38424c1be192d81cd70511bec5f8c91ab2501be",
+      "pixelMatch": true,
+      "visualReview": "repair-pending"
     }
   ],
   "previousVersions": [
