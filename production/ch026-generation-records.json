@@ -554,5 +554,13 @@
       "sha256": "50b431932ffef6e3f1379698c0008fdcc513e3b327b01b689e079776b7f879e1",
       "pixelMatch": true
     }
-  ]
+  ],
+  "cover": {
+    "sourceImage": "/home/kekoyana/.codex/generated_images/01a12b4c-7682-7d91-9ab8-d2549fb45d1d/exec-b4b019ba-3550-4ae1-a850-902e5c2cf4b0.png",
+    "output": "public/assets/ch026/cover-d5a5a8ac70697955.webp",
+    "width": 1070,
+    "height": 1470,
+    "sha256": "d5a5a8ac706979555e458024b79a35fbbbfa25eb2015bff507521417af284bd9",
+    "pixelMatch": true
+  }
 }

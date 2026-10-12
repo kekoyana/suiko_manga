@@ -93,7 +93,7 @@ for (const prefix of ['/', '/suiko_manga/', '/renamed-project/']) {
     assert.ok(el('toc-list').innerHTML.includes('第25回'));
     el('toc-search').value = '';
     el('toc-sort').onclick();
-    assert.ok(el('toc-list').innerHTML.startsWith('<button class="toc-item" data-chapter="25"'));
+    assert.ok(el('toc-list').innerHTML.startsWith(`<button class="toc-item" data-chapter="${ready.at(-1).number}"`));
     // Visit each published chapter, checking first/last page and boundary buttons.
     for (const chapter of ready) {
       const viewCount = pageViews.length;
@@ -132,7 +132,7 @@ for (const prefix of ['/', '/suiko_manga/', '/renamed-project/']) {
     for (const match of el('scroll-pages').innerHTML.matchAll(/<img[^>]+src="([^"]+)"/g)) await imageLoads(match[1]);
     el('zoom-open').onclick(); await imageLoads(el('zoom-image').src);
     el('image-retry').onclick(); await imageLoads(el('page-image').src);
-    location.hash = '#chapter=25&page=17';
+    location.hash = `#chapter=${last.number}&page=17`;
     vm.runInContext('route()', context);
     await new Promise(resolve => setImmediate(resolve));
     assert.equal(Number(el('page-select').value), 17);
@@ -142,7 +142,7 @@ for (const prefix of ['/', '/suiko_manga/', '/renamed-project/']) {
     assert.ok(el('resume-detail').textContent.includes(`17 / ${last.pageCount}`));
     assert.equal(bodyClasses.has('reading'), false);
     await el('resume-button').onclick();
-    assert.ok(location.hash.includes('chapter=25&page=17'));
+    assert.ok(location.hash.includes(`chapter=${last.number}&page=17`));
     // A swipe must not also trigger the synthetic edge click that follows it.
     el('reading-mode').onchange({target: {value: 'paged'}});
     await vm.runInContext('navigate(1,1)', context);
