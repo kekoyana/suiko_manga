@@ -1,0 +1,509 @@
+{
+  "tool": "built-in image_gen",
+  "format": "lossless WebP",
+  "pages": [
+    {
+      "number": 1,
+      "title": "三つの条件",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a133cd-b842-77e1-883c-8194eb3b0262/exec-3b29c226-67be-42e1-9556-268f60bc2e81.png",
+      "output": "public/assets/ch030/complete/p001.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "448354dca0787d85814633a01b76df74d360e31400b295653f818fc28e9e51a3",
+      "pixelMatch": true,
+      "visualReview": "checked",
+      "visualReviewAt": "2026-10-13T16:46:17.494705+00:00"
+    },
+    {
+      "number": 2,
+      "title": "皆の前で",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a1337b-b24b-71c3-8111-af8cae3bec65/exec-aff48840-d5cf-4742-a169-e81ec551ef89.png",
+      "output": "public/assets/ch030/complete/p002.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "d33c32111717299dbb85794e16780a9231e2a61ab938b6c03a0653c555f9997d",
+      "pixelMatch": true,
+      "visualReview": "checked",
+      "visualReviewAt": "2026-10-13T16:46:17.494705+00:00"
+    },
+    {
+      "number": 3,
+      "title": "店を返す",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a1337b-b24b-71c3-8111-af8cae3bec65/exec-b005f913-6a2d-4732-8bdb-ea1585292f53.png",
+      "output": "public/assets/ch030/complete/p003.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "8d73950d09cec58bd2ebb3b7b74b221c8c72f717a5144f2b39c2762ca1b7988f",
+      "pixelMatch": true,
+      "visualReview": "checked",
+      "visualReviewAt": "2026-10-13T16:46:17.494705+00:00"
+    },
+    {
+      "number": 4,
+      "title": "再開",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a1337b-b24b-71c3-8111-af8cae3bec65/exec-6e2ad573-92cb-4cee-ab16-03a0afc42648.png",
+      "output": "public/assets/ch030/complete/p004.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "fc9216388d8ae1c9087fbb8f6b34f37c484c76a2dd23e78edfc8186f0fe2ee08",
+      "pixelMatch": true,
+      "visualReview": "checked",
+      "visualReviewAt": "2026-10-13T16:46:17.494705+00:00"
+    },
+    {
+      "number": 5,
+      "title": "張都監からの使い",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a1337b-b24b-71c3-8111-af8cae3bec65/exec-921f3cd3-3b52-4b31-b914-cb3b0da988d3.png",
+      "output": "public/assets/ch030/complete/p005.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "c1c6c97b78813c3eb6d17166344358da22ca96c3bc9d63867e3c9664e854acd2",
+      "pixelMatch": true,
+      "visualReview": "checked",
+      "visualReviewAt": "2026-10-13T16:46:17.494705+00:00"
+    },
+    {
+      "number": 6,
+      "title": "歓待",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a1337b-b24b-71c3-8111-af8cae3bec65/exec-a8035f62-0632-4b16-bd4c-52ee25559f7c.png",
+      "output": "public/assets/ch030/complete/p006.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "948b29ec9cbec2be49bc7c43be8d00fde4f950a8d0abd27c3dc52166f40c0292",
+      "pixelMatch": true,
+      "visualReview": "checked",
+      "visualReviewAt": "2026-10-13T16:46:17.494705+00:00"
+    },
+    {
+      "number": 7,
+      "title": "屋敷の親随",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a1337b-b24b-71c3-8111-af8cae3bec65/exec-8ea6142c-66a8-44a7-be8b-eed2d936645a.png",
+      "output": "public/assets/ch030/complete/p007.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "329ead88da3bb420962dd8bee7564fae7b719f6307cf52fa0532aa033099b2ef",
+      "pixelMatch": true,
+      "visualReview": "checked",
+      "visualReviewAt": "2026-10-13T16:46:17.494705+00:00"
+    },
+    {
+      "number": 8,
+      "title": "贈り物の箱",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a1337b-b24b-71c3-8111-af8cae3bec65/exec-5efd4659-0c32-43bb-be97-ec76db45435b.png",
+      "output": "public/assets/ch030/complete/p008.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "3c9ebe6b255f90f53d073e94aa2beabec9a7cb017b7a4ed70a7c76e371b0fd7b",
+      "pixelMatch": true,
+      "visualReview": "checked",
+      "visualReviewAt": "2026-10-13T16:46:17.494705+00:00"
+    },
+    {
+      "number": 9,
+      "title": "遠ざかる友",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a1337b-b24b-71c3-8111-af8cae3bec65/exec-a8f31534-02dc-4a7c-8272-f9d603e0f214.png",
+      "output": "public/assets/ch030/complete/p009.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "26b2459a644ba88be1764886779c55ea4fd85cfaadcc495f754c9f3ea2d20143",
+      "pixelMatch": true,
+      "visualReview": "checked",
+      "visualReviewAt": "2026-10-13T16:46:17.494705+00:00"
+    },
+    {
+      "number": 10,
+      "title": "中秋の宴",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a1337b-b24b-71c3-8111-af8cae3bec65/exec-dc410279-93e4-441d-9569-693a6b7d6162.png",
+      "output": "public/assets/ch030/complete/p010.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "3f82a94cd9c9373723ddd19b368932ab9709aefcb2f61f899007086d9f6767ac",
+      "pixelMatch": true,
+      "visualReview": "checked",
+      "visualReviewAt": "2026-10-13T16:46:17.494705+00:00"
+    },
+    {
+      "number": 11,
+      "title": "玉蘭",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a1337b-b24b-71c3-8111-af8cae3bec65/exec-d45301db-19d7-4066-bbe5-8a3f5c4df453.png",
+      "output": "public/assets/ch030/complete/p011.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "62f2775ed82a0d45b3a05cd3b637bc8cf35ee9767c69f777d16bcc2f1856c5ef",
+      "pixelMatch": true,
+      "visualReview": "checked",
+      "visualReviewAt": "2026-10-13T16:46:17.494705+00:00"
+    },
+    {
+      "number": 12,
+      "title": "縁談",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a133cd-b842-77e1-883c-8194eb3b0262/exec-4364ad7d-9df8-4a5c-9ca8-28ea9791fd70.png",
+      "output": "public/assets/ch030/complete/p012.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "1b707e45e4fb608c55a6c00892e6b839b2184f342b276dde99f21a7e51e891fa",
+      "pixelMatch": true,
+      "visualReview": "checked",
+      "visualReviewAt": "2026-10-13T16:46:17.494705+00:00"
+    },
+    {
+      "number": 13,
+      "title": "三更",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a1337b-b24b-71c3-8111-af8cae3bec65/exec-bceba74c-a212-49aa-befb-3c288b5c26b6.png",
+      "output": "public/assets/ch030/complete/p013.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "bfdfd885fba5aba0fc1caac4838d3bc9754a409dcfc4a587fb5ee0084ff810e7",
+      "pixelMatch": true,
+      "visualReview": "checked",
+      "visualReviewAt": "2026-10-13T16:46:17.494705+00:00"
+    },
+    {
+      "number": 14,
+      "title": "追跡",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a1337b-b24b-71c3-8111-af8cae3bec65/exec-76c399d1-46f5-4b48-8135-cfb4d1d3616a.png",
+      "output": "public/assets/ch030/complete/p014.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "f144681aa9affb775e08957f15eeacef227974c8f7682cc25412cbf5d5b752a4",
+      "pixelMatch": true,
+      "visualReview": "checked",
+      "visualReviewAt": "2026-10-13T16:46:17.494705+00:00"
+    },
+    {
+      "number": 15,
+      "title": "仕組まれた捕縛",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a1337b-b24b-71c3-8111-af8cae3bec65/exec-bac7f7d4-2f72-4194-9178-bb2bbb20f3bb.png",
+      "output": "public/assets/ch030/complete/p015.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "2f3774a808f0f0635f583e761a40158f4f9a59a48d1291ce4012654fb3fe342a",
+      "pixelMatch": true,
+      "visualReview": "checked",
+      "visualReviewAt": "2026-10-13T16:46:17.494705+00:00"
+    },
+    {
+      "number": 16,
+      "title": "箱の中の銀器",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a1337b-b24b-71c3-8111-af8cae3bec65/exec-4668f86d-db22-4071-88b4-c047b2d52984.png",
+      "output": "public/assets/ch030/complete/p016.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "278df00c3d94fd70712bce2a798b5953834eb8a8a5eb6f84f84c05565aa0d639",
+      "pixelMatch": true,
+      "visualReview": "checked",
+      "visualReviewAt": "2026-10-13T16:46:17.494705+00:00"
+    },
+    {
+      "number": 17,
+      "title": "冤罪",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a1337b-b24b-71c3-8111-af8cae3bec65/exec-f140fec5-d0ce-465a-81f1-142ec78498c2.png",
+      "output": "public/assets/ch030/complete/p017.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "784cedb184a7100595d107ae81a7578483a0181b5c8f256746e6e4677dbf5bee",
+      "pixelMatch": true,
+      "visualReview": "checked",
+      "visualReviewAt": "2026-10-13T16:46:17.494705+00:00"
+    },
+    {
+      "number": 18,
+      "title": "死囚牢",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a1337b-b24b-71c3-8111-af8cae3bec65/exec-34ca8db9-2f16-4fc1-9270-50ee38b9ae15.png",
+      "output": "public/assets/ch030/complete/p018.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "0579b5c52ba854b5595ac46bb725a0182f4e393e9b0801780f652f3d5ea2dd1f",
+      "pixelMatch": true,
+      "visualReview": "checked",
+      "visualReviewAt": "2026-10-13T16:46:17.494705+00:00"
+    },
+    {
+      "number": 19,
+      "title": "施恩、動く",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a1337b-b24b-71c3-8111-af8cae3bec65/exec-bd853373-9a5a-441b-aae7-22a2ceb37103.png",
+      "output": "public/assets/ch030/complete/p019.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "e13fe3de20143212bd5fb3710714334028d32b7d7b7bd028b71a0600a603b86a",
+      "pixelMatch": true,
+      "visualReview": "checked",
+      "visualReviewAt": "2026-10-13T16:46:17.494705+00:00"
+    },
+    {
+      "number": 20,
+      "title": "康節級の話",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a1337b-b24b-71c3-8111-af8cae3bec65/exec-b5338d6b-6fa8-4bde-935b-673caeed195e.png",
+      "output": "public/assets/ch030/complete/p020.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "a58201e6275ae045b40f1851ab490715eeb74707aded6282816655d005dfdc74",
+      "pixelMatch": true,
+      "visualReview": "checked",
+      "visualReviewAt": "2026-10-13T16:46:17.494705+00:00"
+    },
+    {
+      "number": 21,
+      "title": "葉孔目",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a1337b-b24b-71c3-8111-af8cae3bec65/exec-76419fd6-d38d-4d9f-8d89-f2e7cc5ae8f9.png",
+      "output": "public/assets/ch030/complete/p021.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "4613789ddb9306b62396864f86dd0cc4d63f681659d706fe5ff3a6c5caca5e60",
+      "pixelMatch": true,
+      "visualReview": "checked",
+      "visualReviewAt": "2026-10-13T16:46:17.494705+00:00"
+    },
+    {
+      "number": 22,
+      "title": "一度目の見舞い",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a133cd-b842-77e1-883c-8194eb3b0262/exec-85145423-28e7-473b-abf0-dce1b67eaee5.png",
+      "output": "public/assets/ch030/complete/p022.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "dc89325f45a93cf0f3681c3bdd555749c71604fcca252c7e3a54f961cb7aa8b8",
+      "pixelMatch": true,
+      "visualReview": "checked",
+      "visualReviewAt": "2026-10-13T16:46:17.494705+00:00"
+    },
+    {
+      "number": 23,
+      "title": "二度目",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a133cd-b842-77e1-883c-8194eb3b0262/exec-16cc2329-037b-4a67-a451-f2f15ac37e86.png",
+      "output": "public/assets/ch030/complete/p023.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "d0c26b8f5b5a8cd1af3d23cbe2961348b78c25ed3d9e88cf3fa09ff045cd0b81",
+      "pixelMatch": true,
+      "visualReview": "checked",
+      "visualReviewAt": "2026-10-13T16:46:17.494705+00:00"
+    },
+    {
+      "number": 24,
+      "title": "三度目",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a133cd-b842-77e1-883c-8194eb3b0262/exec-2274b21e-d46b-4cda-9200-84862ea5a53a.png",
+      "output": "public/assets/ch030/complete/p024.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "8bf8ac9406ee0dc7e794988109ef0556321c2bd4f255578b061b8e47447cbbdf",
+      "pixelMatch": true,
+      "visualReview": "checked",
+      "visualReviewAt": "2026-10-13T16:46:17.494705+00:00"
+    },
+    {
+      "number": 25,
+      "title": "閉ざされた見舞い",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a1337b-b24b-71c3-8111-af8cae3bec65/exec-8aac01c8-b7ec-4d09-9021-74fe24a31a5e.png",
+      "output": "public/assets/ch030/complete/p025.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "b34d08b69de5139e888d76d754b94a41ce148cadc6dc6ea96581e1b587e8e697",
+      "pixelMatch": true,
+      "visualReview": "checked",
+      "visualReviewAt": "2026-10-13T16:46:17.494705+00:00"
+    },
+    {
+      "number": 26,
+      "title": "六十日の判決",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a1337b-b24b-71c3-8111-af8cae3bec65/exec-8cca9821-72f7-46f0-8d28-41def7c811d6.png",
+      "output": "public/assets/ch030/complete/p026.webp",
+      "width": 1071,
+      "height": 1468,
+      "sha256": "a1a1c6a9241e58b225f064f603915f59b3949a48bf318acab22566525dab70d5",
+      "pixelMatch": true,
+      "visualReview": "checked",
+      "visualReviewAt": "2026-10-13T16:46:17.494705+00:00"
+    },
+    {
+      "number": 27,
+      "title": "傷を負った友",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a133cd-b842-77e1-883c-8194eb3b0262/exec-b08171a4-57d0-494d-98ca-022be2974496.png",
+      "output": "public/assets/ch030/complete/p027.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "0c6e969a575803aaaeeb1b3af7d24efd26de024be9952253ef0a55076deaf745",
+      "pixelMatch": true,
+      "visualReview": "checked",
+      "visualReviewAt": "2026-10-13T16:46:17.494705+00:00"
+    },
+    {
+      "number": 28,
+      "title": "別れの忠告",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a133cd-b842-77e1-883c-8194eb3b0262/exec-0747b716-11a8-44fe-9e40-4a5b1fdf6c30.png",
+      "output": "public/assets/ch030/complete/p028.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "e1415c04e5cd498124c6f6ecb680d42daf4eae77e73c12d93f125efdb0678f51",
+      "pixelMatch": true,
+      "visualReview": "checked",
+      "visualReviewAt": "2026-10-13T16:46:17.494705+00:00"
+    },
+    {
+      "number": 29,
+      "title": "四人の殺意",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a133cd-b842-77e1-883c-8194eb3b0262/exec-5f7931b3-af62-4c60-95eb-451d61ffcc4c.png",
+      "output": "public/assets/ch030/complete/p029.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "702edafbfe99526390a54a91ddeed1a457e02b5b20fdeeba5075fb95dd000992",
+      "pixelMatch": true,
+      "visualReview": "checked",
+      "visualReviewAt": "2026-10-13T16:46:17.494705+00:00"
+    },
+    {
+      "number": 30,
+      "title": "飛雲浦",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a133cd-b842-77e1-883c-8194eb3b0262/exec-2b90f46b-0df4-4cb5-b96e-2abf3ee9ef14.png",
+      "output": "public/assets/ch030/complete/p030.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "e8945fb7018d9834bcd627760f76c756d8ad1df4070251787a002008606d8c11",
+      "pixelMatch": true,
+      "visualReview": "checked",
+      "visualReviewAt": "2026-10-13T16:46:17.494705+00:00"
+    },
+    {
+      "number": 31,
+      "title": "枷を破る",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a133cd-b842-77e1-883c-8194eb3b0262/exec-9bd95b8d-ed90-4fa6-bcdd-30c57c9fd213.png",
+      "output": "public/assets/ch030/complete/p031.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "df5520ca29f90f6a7704b8c264d0b91f50235f5e55bc886aa884a3d59333d4ef",
+      "pixelMatch": true,
+      "visualReview": "checked",
+      "visualReviewAt": "2026-10-13T16:46:17.494705+00:00"
+    },
+    {
+      "number": 32,
+      "title": "孟州へ戻る",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a133cd-b842-77e1-883c-8194eb3b0262/exec-e0e05555-a211-49d8-a074-79b9d5ccf6ae.png",
+      "output": "public/assets/ch030/complete/p032.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "46dd0f61bc1c5c2b116dabaaf4c0cf8763044db2e80d4d46396ab9300159f82f",
+      "pixelMatch": true,
+      "visualReview": "checked",
+      "visualReviewAt": "2026-10-13T16:46:17.494705+00:00"
+    }
+  ],
+  "previousVersions": [
+    {
+      "number": 1,
+      "title": "三つの条件",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a1337b-b24b-71c3-8111-af8cae3bec65/exec-dc0bd77e-acb8-4431-9b95-92ec399eb881.png",
+      "output": "public/assets/ch030/complete/p001.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "def80fc2ebbe40c6560e513468ae239c1cde80d69ed14ffd6ddb3c7bb039ba9a",
+      "pixelMatch": true
+    },
+    {
+      "number": 12,
+      "title": "縁談",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a1337b-b24b-71c3-8111-af8cae3bec65/exec-91adc898-7ec3-414c-aea7-fc6dd8d49ae9.png",
+      "output": "public/assets/ch030/complete/p012.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "05d42eeec34140bf79bd190d3945e7fa22154bb8315dd3c11c0a6f76209ccba6",
+      "pixelMatch": true
+    },
+    {
+      "number": 22,
+      "title": "一度目の見舞い",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a1337b-b24b-71c3-8111-af8cae3bec65/exec-91babe44-9320-4e0e-9a64-7434a21bc94a.png",
+      "output": "public/assets/ch030/complete/p022.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "f9cafc6299b5c25ea289a97d9bb40e9d0ec4a8a4fc8a29c0147e67d7979a5aef",
+      "pixelMatch": true
+    },
+    {
+      "number": 23,
+      "title": "二度目",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a1337b-b24b-71c3-8111-af8cae3bec65/exec-55b75213-5d63-4546-a3d1-9f6403b7b3c8.png",
+      "output": "public/assets/ch030/complete/p023.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "03b730b6fbb1ed4877dbeaec9e30e0c75a13ca6beffeddb485d4ad6c18c4c389",
+      "pixelMatch": true
+    },
+    {
+      "number": 24,
+      "title": "三度目",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a1337b-b24b-71c3-8111-af8cae3bec65/exec-b1a18805-fd01-47cd-9299-b0998d516854.png",
+      "output": "public/assets/ch030/complete/p024.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "26eac49dd6d3450d127a0c4106f396a7bffed284bcc798fa3337cb60c6119ecb",
+      "pixelMatch": true
+    },
+    {
+      "number": 31,
+      "title": "枷を破る",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a133cd-b842-77e1-883c-8194eb3b0262/exec-67c2b3cb-5e5c-4f3a-abca-89de235f541c.png",
+      "output": "public/assets/ch030/complete/p031.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "3b1c75f181f3c321a8a4fd86e75a347b6195b9185ff49644a703b950dfceb64b",
+      "pixelMatch": true
+    },
+    {
+      "number": 32,
+      "title": "孟州へ戻る",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a133cd-b842-77e1-883c-8194eb3b0262/exec-aa6d28d4-aa3d-4b47-a169-d7cff0d931fb.png",
+      "output": "public/assets/ch030/complete/p032.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "f3b34dbc7d4efca2556d7b4b336b1290aea065a7ca06b5e5e4b1a6f5a8ca1fe9",
+      "pixelMatch": true
+    }
+  ],
+  "completedRepairs": [
+    {
+      "chapter": 30,
+      "number": 1,
+      "instruction": "三つの約束を求める場面は酒屋の外の大通り。全6コマの背景を宋代の屋外の通りへ変更し、人物、衣装、表情、台詞、コマ配置と番号1は維持。"
+    },
+    {
+      "chapter": 30,
+      "number": 12,
+      "instruction": "右下の5コマ目は「ありがたく、お受けします」と武松が答える場面。張都監のクローズアップを、紺色の金刺繍服と黒灰頭巾の髭なしの武松の顔に置き換え、吹き出しの尾を武松へ向ける。他の5コマ、台詞、玉蘭、6コマ配置と番号12を維持。"
+    },
+    {
+      "chapter": 30,
+      "number": 22,
+      "instruction": "右上、右中、左中の武松、左下の食箱を受け取る武松の口髭と顎髭を消す。武松は髭なしの若い成人男性で頬には小さな縦の暗色刺青。他の施恩、康節級、役人の髭は維持。人物の顔、衣装、姿勢、背景、台詞、全6コマとページ番号を維持。"
+    },
+    {
+      "chapter": 30,
+      "number": 23,
+      "instruction": "左上の格子内の武松、左中の武松、左下の牢内で座る武松の口髭と顎髭を消す。武松は髭なしの若い成人男性で頬には小さな縦の暗色刺青。他の施恩、康節級、役人の髭は維持。人物の顔、衣装、姿勢、背景、台詞、全6コマとページ番号を維持。"
+    },
+    {
+      "chapter": 30,
+      "number": 24,
+      "instruction": "右上、左上、右中の武松の口髭と顎髭を消す。武松は髭なしの若い成人男性で頬には小さな縦の暗色刺青。他の施恩、康節級、役人の髭は維持。人物の顔、衣装、姿勢、背景、台詞、全6コマとページ番号を維持。"
+    },
+    {
+      "chapter": 30,
+      "number": 31,
+      "instruction": "木枷を壊す前の最初3コマに武松の首枷を追加。護送役の髭を維持。"
+    },
+    {
+      "chapter": 30,
+      "number": 32,
+      "instruction": "飛雲浦に登場しない蔣門神本人を右上・右中から除去。弟子だけが拘束される。"
+    }
+  ],
+  "cover": {
+    "sourceImage": "/home/kekoyana/.codex/generated_images/01a133cd-b842-77e1-883c-8194eb3b0262/exec-c528337e-aca7-483c-9e20-26700c71e478.png",
+    "output": "public/assets/ch030/cover-c26072ab0696aa58.webp",
+    "width": 1071,
+    "height": 1469,
+    "sha256": "c26072ab0696aa582c9290142b4e20c243ca48f14d24faf67dcbeed27d332608",
+    "pixelMatch": true,
+    "visualReview": "checked",
+    "visualReviewAt": "2026-10-13T16:58:02.113739+00:00"
+  }
+}

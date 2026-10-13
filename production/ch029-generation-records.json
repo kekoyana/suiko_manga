@@ -1,0 +1,335 @@
+{
+  "tool": "built-in image_gen",
+  "format": "lossless WebP",
+  "pages": [
+    {
+      "number": 1,
+      "title": "快活林",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a12b4c-7682-7d91-9ab8-d2549fb45d1d/exec-baca6e0a-be0c-43fc-a7a2-2aa7f4d0a1cf.png",
+      "output": "public/assets/ch029/complete/p001.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "4b3692aa44b17b201f9adae1642440136650f9e99bc672be57d4a64f698345c6",
+      "pixelMatch": true,
+      "visualReview": "checked",
+      "visualReviewAt": "2026-10-13T16:46:17.494705+00:00"
+    },
+    {
+      "number": 2,
+      "title": "蔣門神",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a12b4c-7682-7d91-9ab8-d2549fb45d1d/exec-561efeba-0814-4bb6-afc7-8cf8798b2214.png",
+      "output": "public/assets/ch029/complete/p002.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "161f3ba2cac2bdfc76fb14ff13963e3b9467f19cdfedb01e2b170618e89f344b",
+      "pixelMatch": true,
+      "visualReview": "checked",
+      "visualReviewAt": "2026-10-13T16:46:17.494705+00:00"
+    },
+    {
+      "number": 3,
+      "title": "奪われた店",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a133cd-b842-77e1-883c-8194eb3b0262/exec-a5e2f58e-8edf-4117-8a39-6ae041db5f1b.png",
+      "output": "public/assets/ch029/complete/p003.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "e7edbe649b2110f714d0922d44ef02abc8cba23949b2dedba36800a8c16a7c7f",
+      "pixelMatch": true,
+      "visualReview": "checked",
+      "visualReviewAt": "2026-10-13T16:46:17.494705+00:00"
+    },
+    {
+      "number": 4,
+      "title": "三つの頭か",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a133cd-b842-77e1-883c-8194eb3b0262/exec-d9ee93af-8d25-463f-ad8d-45cc73217766.png",
+      "output": "public/assets/ch029/complete/p004.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "b5509a393bb153f83fb7e309d49b2ec941c60ee43a01d86d9e129da823bfc685",
+      "pixelMatch": true,
+      "visualReview": "checked",
+      "visualReviewAt": "2026-10-13T16:46:17.494705+00:00"
+    },
+    {
+      "number": 5,
+      "title": "施恩と義兄弟に",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a12b4c-7682-7d91-9ab8-d2549fb45d1d/exec-9f45874b-58d4-4d1e-a0c3-9d00c9087505.png",
+      "output": "public/assets/ch029/complete/p005.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "5b9df755d545ef7b0d2e49877d67723fbf07c85e164e7a28d6523e0e2ed22ad4",
+      "pixelMatch": true,
+      "visualReview": "checked",
+      "visualReviewAt": "2026-10-13T16:46:17.494705+00:00"
+    },
+    {
+      "number": 6,
+      "title": "延期",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a133cd-b842-77e1-883c-8194eb3b0262/exec-abfafa7f-0ab7-4327-a96c-0a99a07bbdcf.png",
+      "output": "public/assets/ch029/complete/p006.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "799c3146b4c9aa11616f186b279745cd4e782dfc7971cb272027916ff9b2d15c",
+      "pixelMatch": true,
+      "visualReview": "checked",
+      "visualReviewAt": "2026-10-13T16:46:17.494705+00:00"
+    },
+    {
+      "number": 7,
+      "title": "酒があってこそ",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a12b4c-7682-7d91-9ab8-d2549fb45d1d/exec-061b7551-1638-461f-ae3e-75c011d2db01.png",
+      "output": "public/assets/ch029/complete/p007.webp",
+      "width": 1071,
+      "height": 1468,
+      "sha256": "b49bf634e831f5d37dffc6a201fce161978e965e80ac9f39e89ef6c097f171b8",
+      "pixelMatch": true,
+      "visualReview": "checked",
+      "visualReviewAt": "2026-10-13T16:46:17.494705+00:00"
+    },
+    {
+      "number": 8,
+      "title": "黄土色の上着",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a12b4c-7682-7d91-9ab8-d2549fb45d1d/exec-87a5abab-c23a-4786-8948-159c2c2c5498.png",
+      "output": "public/assets/ch029/complete/p008.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "22299c40091032b3bb32ab928bb1a891cec501fc2daf8a54b582823cb7fead3e",
+      "pixelMatch": true,
+      "visualReview": "checked",
+      "visualReviewAt": "2026-10-13T16:46:17.494705+00:00"
+    },
+    {
+      "number": 9,
+      "title": "三碗の約束",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a12b4c-7682-7d91-9ab8-d2549fb45d1d/exec-266dfce2-a71f-4cb0-b893-8d58277cd9ac.png",
+      "output": "public/assets/ch029/complete/p009.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "18c78d353f0ce1ce2ac4b87a73d87975c27ec40295eb95f3cd47ec61b55910d4",
+      "pixelMatch": true,
+      "visualReview": "checked",
+      "visualReviewAt": "2026-10-13T16:46:17.494705+00:00"
+    },
+    {
+      "number": 10,
+      "title": "最初の酒屋",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a12b4c-7682-7d91-9ab8-d2549fb45d1d/exec-6cacfa69-d755-4df1-adac-3891f70f8990.png",
+      "output": "public/assets/ch029/complete/p010.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "22fe3ee2c0f6143c0a1c3c8563b06c3ec5e05428daac73a6c98bd9ef6b5f6dbf",
+      "pixelMatch": true,
+      "visualReview": "checked",
+      "visualReviewAt": "2026-10-13T16:46:17.494705+00:00"
+    },
+    {
+      "number": 11,
+      "title": "酒旗を越えて",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a1337b-b24b-71c3-8111-af8cae3bec65/exec-de5bfda9-413d-4652-999f-2356cf7d85dc.png",
+      "output": "public/assets/ch029/complete/p011.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "c8e8bad62a6fc0f31257c81722ae47f56dfee6a1bd674a5657cd94e8fc3634c2",
+      "pixelMatch": true,
+      "visualReview": "checked",
+      "visualReviewAt": "2026-10-13T16:46:17.494705+00:00"
+    },
+    {
+      "number": 12,
+      "title": "別行動",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a1337b-b24b-71c3-8111-af8cae3bec65/exec-a24d1f3a-0b0f-4e42-af29-32057bf9f51c.png",
+      "output": "public/assets/ch029/complete/p012.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "5ec9337580506510254ac79b61cad97550dad17653f49c384439abe58a19ca79",
+      "pixelMatch": true,
+      "visualReview": "checked",
+      "visualReviewAt": "2026-10-13T16:46:17.494705+00:00"
+    },
+    {
+      "number": 13,
+      "title": "樹の下の巨漢",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a1337b-b24b-71c3-8111-af8cae3bec65/exec-bc2c2731-1aa9-40ec-8a28-54ff4bd24764.png",
+      "output": "public/assets/ch029/complete/p013.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "cea705b485ef8572d8f77d0616fb1c15c7c5bf9fe85b68ebd407e9684c6055dc",
+      "pixelMatch": true,
+      "visualReview": "checked",
+      "visualReviewAt": "2026-10-13T16:46:17.494705+00:00"
+    },
+    {
+      "number": 14,
+      "title": "一杯目",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a1337b-b24b-71c3-8111-af8cae3bec65/exec-cf120985-a2b1-4e18-a155-a9e968512e42.png",
+      "output": "public/assets/ch029/complete/p014.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "2ef0f98491a735193f0ddda374c1be5b618ffe96c56b953db634685ab4ac147c",
+      "pixelMatch": true,
+      "visualReview": "checked",
+      "visualReviewAt": "2026-10-13T16:46:17.494705+00:00"
+    },
+    {
+      "number": 15,
+      "title": "取り替える酒",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a1337b-b24b-71c3-8111-af8cae3bec65/exec-15461f9b-8c53-405c-954d-db667637cb83.png",
+      "output": "public/assets/ch029/complete/p015.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "2aa9ea325c7ac2a902e890fea7458408e825f271bcd4f8da03dbb372b6fff550",
+      "pixelMatch": true,
+      "visualReview": "checked",
+      "visualReviewAt": "2026-10-13T16:46:17.494705+00:00"
+    },
+    {
+      "number": 16,
+      "title": "挑発",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a1337b-b24b-71c3-8111-af8cae3bec65/exec-bd36eecf-6bb6-440d-b2ff-da938644633b.png",
+      "output": "public/assets/ch029/complete/p016.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "f8769bab1880dcfbe6facd32b6cede27a52e0d875c8c7b5627285098afb91143",
+      "pixelMatch": true,
+      "visualReview": "checked",
+      "visualReviewAt": "2026-10-13T16:46:17.494705+00:00"
+    },
+    {
+      "number": 17,
+      "title": "三つの酒甕",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a1337b-b24b-71c3-8111-af8cae3bec65/exec-94998b95-6cf4-4e3d-9e26-368f389d2431.png",
+      "output": "public/assets/ch029/complete/p017.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "7e7e4f124c1d3c07469e40a37c6e05aa278f897f2f5f6994959eeb709ee0ad7f",
+      "pixelMatch": true,
+      "visualReview": "checked",
+      "visualReviewAt": "2026-10-13T16:46:17.494705+00:00"
+    },
+    {
+      "number": 18,
+      "title": "呼びに走る男",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a1337b-b24b-71c3-8111-af8cae3bec65/exec-dda6ff7a-1c67-4c2f-ab0a-ec6b0b035614.png",
+      "output": "public/assets/ch029/complete/p018.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "840429d946a36e036f3e434c6936689c896b5b9d6d245392a9b2ac4c9f4112a4",
+      "pixelMatch": true,
+      "visualReview": "checked",
+      "visualReviewAt": "2026-10-13T16:46:17.494705+00:00"
+    },
+    {
+      "number": 19,
+      "title": "玉環歩、鴛鴦脚",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a133cd-b842-77e1-883c-8194eb3b0262/exec-97175b95-8ac2-4837-a49f-757688288fc8.png",
+      "output": "public/assets/ch029/complete/p019.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "0af35dccfb91b4d508293f083ca1e83305202394984c6e48bc3d5de11e9e6e42",
+      "pixelMatch": true,
+      "visualReview": "checked",
+      "visualReviewAt": "2026-10-13T16:46:17.494705+00:00"
+    },
+    {
+      "number": 20,
+      "title": "降参",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a133cd-b842-77e1-883c-8194eb3b0262/exec-43ce43f0-2b24-462d-ae7e-a2bb954cf898.png",
+      "output": "public/assets/ch029/complete/p020.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "db788eedaaf7daa48aeee8ec39ed953fa2d1c417f3f722e0bfc198123d70100a",
+      "pixelMatch": true,
+      "visualReview": "checked",
+      "visualReviewAt": "2026-10-13T16:46:17.494705+00:00"
+    }
+  ],
+  "previousVersions": [
+    {
+      "number": 3,
+      "title": "奪われた店",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a12b4c-7682-7d91-9ab8-d2549fb45d1d/exec-1fb8ef55-63da-465c-97e9-aae540e8e4f1.png",
+      "output": "public/assets/ch029/complete/p003.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "5b16e31629a701e85f1889bbd586986deed20faf2fe30a071aa0b77667e88603",
+      "pixelMatch": true
+    },
+    {
+      "number": 19,
+      "title": "玉環歩、鴛鴦脚",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a1337b-b24b-71c3-8111-af8cae3bec65/exec-328532d7-b1d6-493b-83bf-380e4387f90c.png",
+      "output": "public/assets/ch029/complete/p019.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "300097fd445bc3702edd66d3894a80e54d871ba4d27a50537accc3b1749ecff6",
+      "pixelMatch": true
+    },
+    {
+      "number": 20,
+      "title": "降参",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a1337b-b24b-71c3-8111-af8cae3bec65/exec-de7d4124-e8a1-4c4f-8f95-1d611ac49aef.png",
+      "output": "public/assets/ch029/complete/p020.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "477805867ab0cc0be7151473c0a0337fc2dcf3b6c7393d948a2ce21697b1c7ac",
+      "pixelMatch": true
+    },
+    {
+      "number": 4,
+      "title": "三つの頭か",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a12b4c-7682-7d91-9ab8-d2549fb45d1d/exec-b076274d-9996-414c-9a89-7ac26ff05285.png",
+      "output": "public/assets/ch029/complete/p004.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "3a195ece78edeada4b3d4513baf2660db3fe933c67684ac9ae1c97ba0d3edebf",
+      "pixelMatch": true
+    },
+    {
+      "number": 6,
+      "title": "延期",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a12b4c-7682-7d91-9ab8-d2549fb45d1d/exec-50c70980-057a-408b-8392-b8832b09c346.png",
+      "output": "public/assets/ch029/complete/p006.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "431cced41018d449b1c0b4f6523d1dd03e4d8de5be68c32d7f5d240aa9a11f77",
+      "pixelMatch": true
+    }
+  ],
+  "completedRepairs": [
+    {
+      "chapter": 29,
+      "number": 3,
+      "instruction": "右上と右中の回想コマでは、施恩はこの争いの前には怪我をしていないので、頭の白い包帯と腕の吊り布を除く。緑の服、灰帯、黒い髪の髷、顔と動作は維持。左中で療養している施恩の頬にある武松と同じ黒い刺青を消す。施恩には刺青はない。左中と右下の現在・療養の包帯と吊り布は維持。他の顔、人物、台詞、全コマと番号3を維持。"
+    },
+    {
+      "chapter": 29,
+      "number": 19,
+      "instruction": "対決は前ページで武松が出た酒屋の外の大通り。全6コマの背景を宋代の屋外の通りへ統一し、青空と店の外観、地面を描く。人物の顔、衣装、各動作、読順、6コマ、ページ番号19は維持。流血なし。"
+    },
+    {
+      "chapter": 29,
+      "number": 20,
+      "instruction": "全6コマの背景を宋代の屋外の大通りに変更。人物の顔、衣装、姿勢、台詞、6コマと番号20は維持。下白余白に「第29回 終」「第30回へ続く」を追加。流血なし。"
+    },
+    {
+      "chapter": 29,
+      "number": 4,
+      "instruction": "施恩の頬の刺青だけを除去。頭包帯と腕の吊り布を維持。"
+    },
+    {
+      "chapter": 29,
+      "number": 6,
+      "instruction": "施恩の頬の刺青だけを除去。頭包帯と腕の吊り布を維持。"
+    }
+  ],
+  "cover": {
+    "sourceImage": "/home/kekoyana/.codex/generated_images/01a133cd-b842-77e1-883c-8194eb3b0262/exec-c690e64f-b1a8-4e53-a847-859ca9f67af1.png",
+    "output": "public/assets/ch029/cover-981e15d9c007eec5.webp",
+    "width": 1070,
+    "height": 1470,
+    "sha256": "981e15d9c007eec58f3fc430be99a2d2c43c5e993bb7f74ffbd073cff0330470",
+    "pixelMatch": true,
+    "visualReview": "checked",
+    "visualReviewAt": "2026-10-13T16:58:02.113739+00:00"
+  }
+}

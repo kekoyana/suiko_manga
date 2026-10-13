@@ -1,0 +1,49 @@
+{
+  "checkedAt": "2026-10-13T17:00:23.819139+00:00",
+  "tool": "built-in image_gen",
+  "chapters": {
+    "26": {
+      "pages": 40,
+      "cover": "public/assets/ch026/cover-d5a5a8ac70697955.webp",
+      "status": "passed"
+    },
+    "27": {
+      "pages": 28,
+      "cover": "public/assets/ch027/cover-6589f8eccd3100d0.webp",
+      "status": "passed"
+    },
+    "28": {
+      "pages": 20,
+      "cover": "public/assets/ch028/cover-10fbb5a6cb20d95d.webp",
+      "status": "passed"
+    },
+    "29": {
+      "pages": 20,
+      "cover": "public/assets/ch029/cover-981e15d9c007eec5.webp",
+      "status": "passed"
+    },
+    "30": {
+      "pages": 32,
+      "cover": "public/assets/ch030/cover-c26072ab0696aa58.webp",
+      "status": "passed"
+    }
+  },
+  "pageCount": 140,
+  "checks": [
+    "contiguous page numbers",
+    "image decode and dimensions",
+    "asset SHA-256",
+    "lossless source pixel verification recorded",
+    "visual review recorded",
+    "cover decode and SHA-256"
+  ],
+  "readerTests": {
+    "passed": 7,
+    "failed": 0
+  },
+  "catalog": {
+    "completedThrough": 30,
+    "totalPages": 1091,
+    "referencedWebPFiles": 1121
+  }
+}

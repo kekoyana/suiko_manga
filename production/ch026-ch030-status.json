@@ -1,13 +1,13 @@
 {
-  "state": "in-progress",
+  "state": "production-complete",
   "targetChapter": 30,
-  "branch": "coco/ch026-ch030",
+  "branch": "main",
   "savedPages": {
     "26": 40,
     "27": 28,
-    "28": 13,
-    "29": 0,
-    "30": 0
+    "28": 20,
+    "29": 20,
+    "30": 32
   },
   "plannedPages": {
     "26": 40,
@@ -16,23 +16,22 @@
     "29": 20,
     "30": 32
   },
-  "nextGeneration": {
-    "chapter": 28,
-    "page": 14
-  },
+  "nextGeneration": null,
   "imageTool": "built-in image_gen",
-  "remainingCovers": [
-    28,
-    29,
-    30
-  ],
+  "remainingCovers": [],
   "pendingRepairs": [],
-  "publication": "chapter 26 live; chapter 27 registered locally and being validated",
+  "publication": "Chapters 1–30 complete and registered for GitHub Pages deployment from main",
   "verification": {
-    "generatedPages": 81,
+    "generatedPages": 140,
+    "covers": 5,
     "hashesDimensionsDecode": "passed",
-    "existingReaderTests": 7,
-    "catalogReferences": "passed (published chapters 1–25)"
+    "visualReview": "all chapter 26–30 pages checked",
+    "readerTests": {
+      "passed": 7,
+      "failed": 0
+    },
+    "catalogReferences": "passed: 120 chapters, 1091 pages, 1121 WebP files",
+    "report": "production/ch026-ch030-verification.json"
   },
-  "publishedCommit": "2081456"
+  "completedAt": "2026-10-13T17:04:56.342609+00:00"
 }

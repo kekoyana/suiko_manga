@@ -144,6 +144,92 @@
       "sha256": "6ac2d0bc2744a6b32c38b54dbb69577db43f668348344de980fe31bf4ec50728",
       "pixelMatch": true,
       "visualReview": "checked"
+    },
+    {
+      "number": 14,
+      "title": "何も起きない夜",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a12b4c-7682-7d91-9ab8-d2549fb45d1d/exec-e21f1139-cd54-4f8c-b520-f1793de97af6.png",
+      "output": "public/assets/ch028/complete/p014.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "03c61e98cbdc53bdeadc0dd584860cf72a39ab552eac580cd5b71e25ef54ae28",
+      "pixelMatch": true,
+      "visualReview": "checked"
+    },
+    {
+      "number": 15,
+      "title": "新しい部屋",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a12b4c-7682-7d91-9ab8-d2549fb45d1d/exec-648db67a-82a5-4a55-8614-ee61d5d4b9e9.png",
+      "output": "public/assets/ch028/complete/p015.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "038213405121503c7ddfaa34b31d525539ca0d50769893afdf2823df42ebdeae",
+      "pixelMatch": true,
+      "visualReview": "checked"
+    },
+    {
+      "number": 16,
+      "title": "暑さの中の仕事",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a12b4c-7682-7d91-9ab8-d2549fb45d1d/exec-34e61ad8-64f9-449c-b18a-14089e1a9b34.png",
+      "output": "public/assets/ch028/complete/p016.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "42f3ec9698c3792301dc617a3ead036b15641ac559808224aedda529e4cda508",
+      "pixelMatch": true,
+      "visualReview": "checked"
+    },
+    {
+      "number": 17,
+      "title": "主は誰だ",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a12b4c-7682-7d91-9ab8-d2549fb45d1d/exec-8b53ecfb-3c88-4e78-b6aa-7528eee7b406.png",
+      "output": "public/assets/ch028/complete/p017.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "e53316ffda13741308be726bfbfdd0ca0705bec450b922ccd7a15885b39b7455",
+      "pixelMatch": true,
+      "visualReview": "checked"
+    },
+    {
+      "number": 18,
+      "title": "施恩との対面",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a12b4c-7682-7d91-9ab8-d2549fb45d1d/exec-65384d6e-d4ef-4bb1-8284-775524ce7886.png",
+      "output": "public/assets/ch028/complete/p018.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "ab24bb32aa67df692745ec2909fa9ff9cb418b42a6976c7d9caf87d19a92762d",
+      "pixelMatch": true,
+      "visualReview": "checked"
+    },
+    {
+      "number": 19,
+      "title": "石墩",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a12b4c-7682-7d91-9ab8-d2549fb45d1d/exec-e2286521-0aa2-4e54-98a6-56fea470fd05.png",
+      "output": "public/assets/ch028/complete/p019.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "5c05104acc05dc7b7a68112f719fcb0783be8656bacc333b54fab41845c00904",
+      "pixelMatch": true,
+      "visualReview": "checked"
+    },
+    {
+      "number": 20,
+      "title": "頼みを話せ",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a12b4c-7682-7d91-9ab8-d2549fb45d1d/exec-e62d7a97-7400-49f5-b53e-6b0133d209df.png",
+      "output": "public/assets/ch028/complete/p020.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "8dde561d0c54d3208e954120d6b356780aa42657c47cedeb26d4e9b297813b8d",
+      "pixelMatch": true,
+      "visualReview": "checked"
     }
-  ]
+  ],
+  "cover": {
+    "sourceImage": "/home/kekoyana/.codex/generated_images/01a12b4c-7682-7d91-9ab8-d2549fb45d1d/exec-bcea73e2-4f7d-45a5-b2ff-1df73fac0954.png",
+    "output": "public/assets/ch028/cover-10fbb5a6cb20d95d.webp",
+    "width": 1070,
+    "height": 1470,
+    "sha256": "10fbb5a6cb20d95d16b2ccd9dc0c4821143a432d0fae61023ac06c155b9a393c",
+    "pixelMatch": true,
+    "prompt": "水滸伝の第28回の完成表紙を一枚。精細なフルカラー歴史漫画、縦長、一枚絵でコマ割りなし。中央手前に武松、20代の筋肉質の成人男性、黒頭巾、青灰色上着・白襟・茶帯、頬の小さい黒い刺青。武松は石墩の隣に立ち、枷はつけない。後ろに施恩、24〜25歳の成人男性、細い口髭と小さな顎髭、青緑上着・白襟・灰帯、頭に白い包帯、右腕に白い吊り布。二人の顔と衣装は参照と一致させる。他の人物は描かない。背景は安平寨の木造の庭、古い丸い石墩、午後の木漏れ日。静かな疑問と友情の予感。上部に正確な日本語文字『水滸伝』『第28回』、下部に『安平寨の恩』を読みやすい明朝風字体で配置。ページ番号、台詞、武器、流血、裸体なし。"
+  }
 }

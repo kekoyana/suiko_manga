@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "title": "水滸伝 漫画書庫",
-  "completedThrough": 27,
-  "totalPages": 1019,
+  "completedThrough": 30,
+  "totalPages": 1091,
   "milestone": 20,
   "chapters": [
     {
@@ -223,24 +223,27 @@
     },
     {
       "number": 28,
-      "title": "第28回",
-      "status": "coming",
-      "pageCount": 0,
-      "cover": null
+      "title": "武松、安平寨に入る／施恩、快活林を取り戻そうとする",
+      "status": "complete",
+      "pageCount": 20,
+      "cover": "/assets/ch028/cover-10fbb5a6cb20d95d.webp",
+      "manifest": "/data/ch028-7ebc7dbcc7c6.json"
     },
     {
       "number": 29,
-      "title": "第29回",
-      "status": "coming",
-      "pageCount": 0,
-      "cover": null
+      "title": "施恩、重ねて義を結ぶ／武松、酔って蔣門神を打つ",
+      "status": "complete",
+      "pageCount": 20,
+      "cover": "/assets/ch029/cover-981e15d9c007eec5.webp",
+      "manifest": "/data/ch029-cde28a730323.json"
     },
     {
       "number": 30,
-      "title": "第30回",
-      "status": "coming",
-      "pageCount": 0,
-      "cover": null
+      "title": "施恩、三たび死囚牢を訪れる／武松、飛雲浦で大立ち回り",
+      "status": "complete",
+      "pageCount": 32,
+      "cover": "/assets/ch030/cover-c26072ab0696aa58.webp",
+      "manifest": "/data/ch030-74d5c17f90ea.json"
     },
     {
       "number": 31,
