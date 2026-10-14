@@ -97,7 +97,7 @@ function library() {
   $('fatal').hidden = true;
   $('footer').hidden = false;
   $('reader').removeAttribute('aria-busy');
-  document.title = '水滸伝｜漫画書庫';
+  document.title = '水滸伝｜ChatGPTで制作する漫画書庫';
   renderResume();
   window.scrollTo(0, 0);
   window.mangaAnalytics?.pageView();

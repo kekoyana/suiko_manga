@@ -73,7 +73,7 @@ for (const prefix of ['/', '/suiko_manga/', '/renamed-project/']) {
     assert.ok(el('collection-status').innerHTML.includes(catalog.totalPages.toLocaleString()));
     assert.equal(pageViews.length, 1);
     assert.equal(pageViews[0].hash, '');
-    assert.equal(pageViews[0].title, '水滸伝｜漫画書庫');
+    assert.equal(pageViews[0].title, '水滸伝｜ChatGPTで制作する漫画書庫');
     assert.equal(el('toc-list').innerHTML, '', 'Do not build a 120-chapter list on startup');
     assert.equal(requests.length, 1, 'Home fetches only the catalog');
     async function imageLoads(src) {
@@ -185,7 +185,7 @@ test('staging preserves all assets and data; 404 returns home even from nested p
 function analyticsFixture(hostname = 'kekoyana.github.io', pathname = '/suiko_manga/', gtag) {
   const location = {hostname, pathname, href: `https://${hostname}${pathname}`};
   const tags = [];
-  const document = {title: '水滸伝｜漫画書庫', referrer: 'https://example.test/',
+  const document = {title: '水滸伝｜ChatGPTで制作する漫画書庫', referrer: 'https://example.test/',
     createElement: () => ({}), head: {appendChild: tag => tags.push(tag)}};
   const window = {gtag};
   const context = vm.createContext({window, location, document});
@@ -222,7 +222,7 @@ test('GA4 records final chapter/page URLs, titles and referrers without duplicat
   assert.equal(views().at(-1)[2].page_referrer, firstPage);
   assert.equal(views().at(-1)[2].send_to, 'G-7E7653QC6V');
   location.href = home;
-  document.title = '水滸伝｜漫画書庫';
+  document.title = '水滸伝｜ChatGPTで制作する漫画書庫';
   window.mangaAnalytics.pageView();
   assert.equal(views().length, 4, 'Returning home is a new view');
 });
