@@ -1,0 +1,97 @@
+[
+  {
+    "number": 4,
+    "issue": "手配札の似顔絵を変装前の武松（黒布頭巾、青服、数珠と鉄鉢巻なし）へ修正。",
+    "visualReview": "checked"
+  },
+  {
+    "number": 6,
+    "issue": "孔亮の連れに描かれた燕順・王英・鄭天寿に似た三人を一般客へ修正。",
+    "visualReview": "checked"
+  },
+  {
+    "number": 7,
+    "issue": "武松の紅帯を灰茶帯に修正し黒僧衣を統一。",
+    "visualReview": "checked"
+  },
+  {
+    "number": 14,
+    "issue": "下段右の孔明の笠の下に混ざった鉄鉢巻を除去。孔明は普通の黒髪と笠のみ。",
+    "visualReview": "checked"
+  },
+  {
+    "number": 15,
+    "issue": "下段右を宋江が武松を支え「まずは座ろう」、下段左を武松の台詞にして脚本順へ修正。宋江の紅帯を灰茶へ。",
+    "visualReview": "checked"
+  },
+  {
+    "number": 17,
+    "issue": "現在の武松の額に混ざった灰色布帯を除去。全現在コマは前髪だけ、灰服。",
+    "visualReview": "checked"
+  },
+  {
+    "number": 21,
+    "issue": "中段左の武松の「度牒と手紙、双刀と数珠を頼む」は前頁台詞の混入。吹き出しを除去し孔兄弟が書類を返す絵のみとする。",
+    "visualReview": "checked"
+  },
+  {
+    "number": 26,
+    "issue": "上段右の清風山頂に追加された巨大寺院群を除去し奇岩松の自然山頂へ。",
+    "visualReview": "checked"
+  },
+  {
+    "number": 27,
+    "issue": "下段を交換し右に宋江「どうか、命だけは」、左に山寨へ登る松明列。",
+    "visualReview": "checked"
+  },
+  {
+    "number": 28,
+    "issue": "上段左を三脚の虎皮椅子へ修正。下段右の宋江を広間内部の柱へ揃え、室内に雪を降らせない。",
+    "visualReview": "checked"
+  },
+  {
+    "number": 30,
+    "issue": "宋江の灰紫服から錦模様を除き素朴な無地にする。頭巾の花飾りを除去。",
+    "visualReview": "checked"
+  },
+  {
+    "number": 31,
+    "issue": "宋江の服の薄い錦模様を除き無地灰紫へ。頭巾の小さな飾りを除去。",
+    "visualReview": "checked"
+  },
+  {
+    "number": 32,
+    "issue": "衣装修正は完了。修正画像で中段右台詞の後半が欠けたため、全文「鄆城の及時雨、宋公明か。」へ復元する。",
+    "visualReview": "checked"
+  },
+  {
+    "number": 33,
+    "issue": "宋江の灰紫衣と借りた棗紅上着の錦模様を除き無地へ。",
+    "visualReview": "checked"
+  },
+  {
+    "number": 34,
+    "issue": "上段右の脚本外の宋江の吹き出しを除去し、宋江と燕順が語らう絵だけにする。",
+    "visualReview": "checked"
+  },
+  {
+    "number": 35,
+    "issue": "上段右は王英と女性ではなく普通の山賊が宋江・燕順へ報告する場面。中段右の王英はこの場にいないので除去し燕順のみ。下段左に王英が手を引く姿も入れる。",
+    "visualReview": "checked"
+  },
+  {
+    "number": 37,
+    "issue": "中段右、宋江が卓へ両手をつく絵を床に膝をついて王英へ拝礼する絵に修正。台詞は保つ。",
+    "visualReview": "checked"
+  },
+  {
+    "number": 38,
+    "issue": "上段右は山道を下る轎。軍人が担ぐ絵から、灰茶服の轎夫四人が担ぎ軍人はまだ同行しない場面へ修正。上段左で初めて軍人が迎える。",
+    "visualReview": "checked"
+  },
+  {
+    "number": 40,
+    "issue": "上段左「花栄を訪ねます。世話になりました」の尾を手前の宋江へ。全コマ宋江の灰紫服から錦模様を除き無地へ。鄭天寿に追加された顎髭を除き短い口髭だけへ。",
+    "visualReview": "checked"
+  }
+]

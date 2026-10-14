@@ -1,20 +1,21 @@
 {
-  "state": "publishing",
+  "state": "publishing-chapter32",
   "targetChapter": 50,
   "plannedPages": {
     "31": 32,
     "32": 40
   },
   "savedPages": {
-    "31": 32
+    "31": 32,
+    "32": 40
   },
   "nextGeneration": {
-    "chapter": 32,
+    "chapter": 33,
     "page": 1
   },
   "imageTool": "built-in image_gen",
   "pendingRepairs": [],
-  "publication": "Chapters 1–30 published; 31–50 pending",
+  "publication": "Chapters 1–31 published; 32 complete and awaiting deployment; 33–50 pending",
   "remainingCovers": [],
   "repairPassSavedPages": [
     5,
@@ -51,5 +52,12 @@
     19,
     21,
     24
-  ]
+  ],
+  "publishedCommit": "8c204be9995dd8af4990d65f9e3fd6f69e96ebcb",
+  "publishedWorkflow": 38545213070,
+  "published31AssetSha256Verified": true,
+  "chapter32RepairFile": "production/ch032-repairs-pending.json",
+  "quotaResetAt": "2026-10-15T00:42:22+09:00",
+  "resumeReservationId": "40c7ca7a-a5df-4432-8cee-99a3fa59daf0",
+  "sourceReview32": "production/ch032-source-review.json"
 }

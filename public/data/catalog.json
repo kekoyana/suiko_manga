@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "title": "水滸伝 漫画書庫",
-  "completedThrough": 31,
-  "totalPages": 1123,
+  "completedThrough": 32,
+  "totalPages": 1163,
   "milestone": 20,
   "chapters": [
     {
@@ -255,10 +255,11 @@
     },
     {
       "number": 32,
-      "title": "第32回",
-      "status": "coming",
-      "pageCount": 0,
-      "cover": null
+      "title": "武行者、酔って孔亮を打つ／錦毛虎、義によって宋江を放つ",
+      "status": "complete",
+      "pageCount": 40,
+      "cover": "/assets/ch032/cover-3d9cfd9b9da04e9d.webp",
+      "manifest": "/data/ch032-596036131982.json"
     },
     {
       "number": 33,
