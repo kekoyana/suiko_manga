@@ -1,0 +1,668 @@
+{
+  "tool": "built-in image_gen",
+  "format": "lossless WebP",
+  "pages": [
+    {
+      "number": 1,
+      "title": "孟州の夕暮れ",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a138c0-18cf-7180-85cb-09a7b89122e3/exec-d0af605e-5efd-42e5-842c-9d8ad788c245.png",
+      "output": "public/assets/ch031/complete/p001.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "154244931f7a69605d7a3286fdfa9e2dabe129d4bf3f6c606044ff8d281b934a",
+      "pixelMatch": true,
+      "visualReview": "checked"
+    },
+    {
+      "number": 2,
+      "title": "馬院の灯",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a138c0-18cf-7180-85cb-09a7b89122e3/exec-042cbdca-5b40-41d2-95b0-abfdd915f9e9.png",
+      "output": "public/assets/ch031/complete/p002.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "630fe25e1fea6fa36b465eaaad732275d68cb121637ee97c7c08c64d062c247d",
+      "pixelMatch": true,
+      "visualReview": "checked"
+    },
+    {
+      "number": 3,
+      "title": "鴛鴦楼にいる",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a138c0-18cf-7180-85cb-09a7b89122e3/exec-aa838e3b-f815-4049-87cc-f30c071f0d68.png",
+      "output": "public/assets/ch031/complete/p003.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "0f77b33662d7de9b75f30d9d4e4e72473d03dea01e3afe188afb7e7db3bf6a49",
+      "pixelMatch": true,
+      "visualReview": "checked"
+    },
+    {
+      "number": 4,
+      "title": "塀の向こう",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a138c0-18cf-7180-85cb-09a7b89122e3/exec-46215443-0cab-4122-a26d-9fce25dec25a.png",
+      "output": "public/assets/ch031/complete/p004.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "89b0364c3d22aacf706f19dcf853518eb43b14f69ac6575f5b51186c5aec73b9",
+      "pixelMatch": true,
+      "visualReview": "checked"
+    },
+    {
+      "number": 5,
+      "title": "厨房の声",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a138c0-18cf-7180-85cb-09a7b89122e3/exec-9c59cbe1-7de1-45da-9962-51906ed95fe0.png",
+      "output": "public/assets/ch031/complete/p005.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "9d104d69c165e8f7069a59a170114097d43f8cc1ba06f63d6788113eba6fcff9",
+      "pixelMatch": true,
+      "visualReview": "checked"
+    },
+    {
+      "number": 6,
+      "title": "消える灯火",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a138c0-18cf-7180-85cb-09a7b89122e3/exec-8dbf3530-aaad-4f02-9ccc-dbf73bd790a6.png",
+      "output": "public/assets/ch031/complete/p006.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "39adf5039505a5bbaf091aa33a4ad0c44197c9fb2730118ec7759e705ab29516",
+      "pixelMatch": true,
+      "visualReview": "checked"
+    },
+    {
+      "number": 7,
+      "title": "階段の上",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a138c0-18cf-7180-85cb-09a7b89122e3/exec-c425fa5a-2323-43cf-948e-4fc9812db3fe.png",
+      "output": "public/assets/ch031/complete/p007.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "4c5e0c67ab9a270793061b6cdddee5f86d694571996d49c1b743d9a328c5b270",
+      "pixelMatch": true,
+      "visualReview": "checked"
+    },
+    {
+      "number": 8,
+      "title": "陰謀の証言",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a138c0-18cf-7180-85cb-09a7b89122e3/exec-3d9672d4-3a5e-47cb-89fb-b6f0d2751a18.png",
+      "output": "public/assets/ch031/complete/p008.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "14d06a5dac1283c5d82f36dd4de4e6fc9d3c701102dd55899a301e428318736b",
+      "pixelMatch": true,
+      "visualReview": "checked"
+    },
+    {
+      "number": 9,
+      "title": "復讐の楼",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a13998-009b-7e73-a7f5-f14796996423/exec-74b7fa0b-2a6b-4015-ba9d-3ff14080ae4a.png",
+      "output": "public/assets/ch031/complete/p009.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "08d33451dab4d84209973d9c86dc601db284cbd57bdcf08d47867e415f5c52b2",
+      "pixelMatch": true,
+      "visualReview": "checked"
+    },
+    {
+      "number": 10,
+      "title": "張団練",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a13998-009b-7e73-a7f5-f14796996423/exec-3f7a2e13-931b-44a1-92eb-719d98e1d9c1.png",
+      "output": "public/assets/ch031/complete/p010.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "11d33431ff68ccbcb7dbec538ae833e9833a9e7cf738c5a14e41364cf7334e7c",
+      "pixelMatch": true,
+      "visualReview": "checked"
+    },
+    {
+      "number": 11,
+      "title": "名を残す",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a138c0-18cf-7180-85cb-09a7b89122e3/exec-53552d7a-bd94-479e-b19d-30c0f1f007a4.png",
+      "output": "public/assets/ch031/complete/p011.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "6d39b242c0ac96bd381eb4b2bf736cab4020bae2858d3e7c931180e57dcb67da",
+      "pixelMatch": true,
+      "visualReview": "checked"
+    },
+    {
+      "number": 12,
+      "title": "戻れぬ夜",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a138c0-18cf-7180-85cb-09a7b89122e3/exec-73637f04-5847-4483-8ba8-231cfcb18e6e.png",
+      "output": "public/assets/ch031/complete/p012.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "22413d3bc8f16a4a5e4bdbe7b5bf13053afd5f69ab6829ebcc42cf1ae570c367",
+      "pixelMatch": true,
+      "visualReview": "checked"
+    },
+    {
+      "number": 13,
+      "title": "屋敷の悲劇",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a13998-009b-7e73-a7f5-f14796996423/exec-c329d9bd-f66a-4982-92b5-ff761119b2f1.png",
+      "output": "public/assets/ch031/complete/p013.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "9839e40f60b954c9994df32e25ac5a8f7d1aa5298a03ce6f283d9d34279985e6",
+      "pixelMatch": true,
+      "visualReview": "checked"
+    },
+    {
+      "number": 14,
+      "title": "城を越えて",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a138c0-18cf-7180-85cb-09a7b89122e3/exec-b6fd64dc-a803-4fb7-befa-1229bc0a34da.png",
+      "output": "public/assets/ch031/complete/p014.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "27ffdfa5077ba558451a7231b651737a9ffb71c6fff26766d7a01c3186f36525",
+      "pixelMatch": true,
+      "visualReview": "checked"
+    },
+    {
+      "number": 15,
+      "title": "夜明けの古廟",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a138c0-18cf-7180-85cb-09a7b89122e3/exec-e623ef73-1b8f-4f89-80bc-4904819ce5c4.png",
+      "output": "public/assets/ch031/complete/p015.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "f9cf0697f4ee48d0fbe631f1f12faa7b46765f9ee8f052d2d3387661ab461bfc",
+      "pixelMatch": true,
+      "visualReview": "checked"
+    },
+    {
+      "number": 16,
+      "title": "捕らわれる",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a138c0-18cf-7180-85cb-09a7b89122e3/exec-9e51ebf8-ff70-478a-9688-a7116c2a7735.png",
+      "output": "public/assets/ch031/complete/p016.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "3b577e5a110625f793f28c63deae15f79cb071083ec3248304fad50d2b67e69b",
+      "pixelMatch": true,
+      "visualReview": "checked"
+    },
+    {
+      "number": 17,
+      "title": "見覚えのある声",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a13998-009b-7e73-a7f5-f14796996423/exec-9c242e58-7504-46e3-bfd0-f8209daf602c.png",
+      "output": "public/assets/ch031/complete/p017.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "096ba147dcc25af459c18c24612ac28dd12d8578028c4f0544e8a74b5afedffb",
+      "pixelMatch": true,
+      "visualReview": "checked"
+    },
+    {
+      "number": 18,
+      "title": "十字坡の再会",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a138c0-18cf-7180-85cb-09a7b89122e3/exec-effb06f4-bacd-4076-a21a-de02e7e84864.png",
+      "output": "public/assets/ch031/complete/p018.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "4fce76c155ac84bd300d916e9cdf1c16df3937fae03b6e4b837a959129ded03b",
+      "pixelMatch": true,
+      "visualReview": "checked"
+    },
+    {
+      "number": 19,
+      "title": "経緯を語る",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a13998-009b-7e73-a7f5-f14796996423/exec-56ff6ca1-fa03-436f-a2db-6db902e3e8ee.png",
+      "output": "public/assets/ch031/complete/p019.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "9e4a15c7ab057d019e03c54f36bc334062b788c3110601a0acd3354d5d6b39ab",
+      "pixelMatch": true,
+      "visualReview": "checked"
+    },
+    {
+      "number": 20,
+      "title": "夜の代償",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a138c0-18cf-7180-85cb-09a7b89122e3/exec-f920dd83-8939-4c48-82f0-dc1b1cd48a81.png",
+      "output": "public/assets/ch031/complete/p020.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "2ad0cb60096338dbe4bbb11dd43d97660ba53135648695c4bd6f1843e4be9015",
+      "pixelMatch": true,
+      "visualReview": "checked"
+    },
+    {
+      "number": 21,
+      "title": "休息",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a13998-009b-7e73-a7f5-f14796996423/exec-8f2c3ccb-8489-414f-86fb-029d01a193b5.png",
+      "output": "public/assets/ch031/complete/p021.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "f07f9d6dc2268d3ab8f07676a26073ce53caca8a8f5eddeb039dc84a22a2b0d7",
+      "pixelMatch": true,
+      "visualReview": "checked"
+    },
+    {
+      "number": 22,
+      "title": "捜索の網",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a138c0-18cf-7180-85cb-09a7b89122e3/exec-cddb0fae-df4c-47b5-80c2-1d853f6186d7.png",
+      "output": "public/assets/ch031/complete/p022.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "f79f976e9153d5bcef9a1d925ec3c66baa8cf202e7ea8a461a492ecf2d8c9ccc",
+      "pixelMatch": true,
+      "visualReview": "checked"
+    },
+    {
+      "number": 23,
+      "title": "二龍山へ",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a138c0-18cf-7180-85cb-09a7b89122e3/exec-b51ea6c4-4b7f-4b2b-b372-3969ec858168.png",
+      "output": "public/assets/ch031/complete/p023.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "e50693f9aac97ecb2849ee967ba7a16ef7bec97d844b9aaec4bd6f976a929e57",
+      "pixelMatch": true,
+      "visualReview": "checked"
+    },
+    {
+      "number": 24,
+      "title": "孫二娘の知恵",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a13998-009b-7e73-a7f5-f14796996423/exec-37878fc9-a326-4fd8-b000-47892a25759c.png",
+      "output": "public/assets/ch031/complete/p024.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "70ee0a28c1fde788a33f3c3f04b2227281a2dae92680c1349c94acafe8a3786f",
+      "pixelMatch": true,
+      "visualReview": "checked"
+    },
+    {
+      "number": 25,
+      "title": "行者の道具",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a13998-009b-7e73-a7f5-f14796996423/exec-7dfbb404-6092-4763-a8d9-582a1a9bfee0.png",
+      "output": "public/assets/ch031/complete/p025.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "f89b29dbaabe83b95c5e872af2b1fdb92510d7f4eaa462449e15a215423d1183",
+      "pixelMatch": true,
+      "visualReview": "checked"
+    },
+    {
+      "number": 26,
+      "title": "新しい姿",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a13998-009b-7e73-a7f5-f14796996423/exec-13dfd206-510f-4fb9-a33d-0a8e7614159d.png",
+      "output": "public/assets/ch031/complete/p026.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "2194947d805f20cd3d80d00ae0c8814ec1ee8a788b35dfe185161eef27b75fc9",
+      "pixelMatch": true,
+      "visualReview": "checked"
+    },
+    {
+      "number": 27,
+      "title": "武行者",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a13998-009b-7e73-a7f5-f14796996423/exec-3503ec1e-90b5-445c-b094-0cafca4e466a.png",
+      "output": "public/assets/ch031/complete/p027.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "0d273a623ce8dde9bfcfa0e26812f9d5094f69db364ec5598c71373c601a816a",
+      "pixelMatch": true,
+      "visualReview": "checked"
+    },
+    {
+      "number": 28,
+      "title": "旅立ちの忠告",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a13998-009b-7e73-a7f5-f14796996423/exec-9b35c676-675f-4588-a2a0-6df99abce301.png",
+      "output": "public/assets/ch031/complete/p028.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "f7c8fe315f577bb031f8b991a944dcd7373bc97578168adae4eb9f19806c522f",
+      "pixelMatch": true,
+      "visualReview": "checked"
+    },
+    {
+      "number": 29,
+      "title": "蜈蚣嶺",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a13998-009b-7e73-a7f5-f14796996423/exec-a9f08aa7-6fb7-443f-8ce3-b5f605b7f73b.png",
+      "output": "public/assets/ch031/complete/p029.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "2f96f2895370981153f6429010ccdd2d489d1369f4f6d5693d5dbe5419b06141",
+      "pixelMatch": true,
+      "visualReview": "checked"
+    },
+    {
+      "number": 30,
+      "title": "山の庵",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a13998-009b-7e73-a7f5-f14796996423/exec-780087fd-d584-484c-91b3-a348e4592d17.png",
+      "output": "public/assets/ch031/complete/p030.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "7dfd8244b0d41276eb88fe340a08f458ee0ce920ea46997fe725cf62c47941ba",
+      "pixelMatch": true,
+      "visualReview": "checked"
+    },
+    {
+      "number": 31,
+      "title": "双剣と双刀",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a13998-009b-7e73-a7f5-f14796996423/exec-4beeb51d-44c6-4a36-8cda-7691801024d5.png",
+      "output": "public/assets/ch031/complete/p031.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "51f788b3838fce96a310a550c6b73c43596d9318c3f4ae373019a0a2fc335b1c",
+      "pixelMatch": true,
+      "visualReview": "checked"
+    },
+    {
+      "number": 32,
+      "title": "月下の決着",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a13998-009b-7e73-a7f5-f14796996423/exec-f2a29998-e7b8-49b3-b7ba-64dde7fb4678.png",
+      "output": "public/assets/ch031/complete/p032.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "d9a0603d0c5d1dbc7d20483bc8307a9febe2bfda384956a41271e18707988abf",
+      "pixelMatch": true,
+      "visualReview": "checked"
+    }
+  ],
+  "previousVersions": [
+    {
+      "number": 5,
+      "title": "厨房の声",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a138c0-18cf-7180-85cb-09a7b89122e3/exec-f5e66325-9c84-4a33-991f-6a85d35d341e.png",
+      "output": "public/assets/ch031/complete/p005.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "be87ab22959dca529f45e0858bef11d11f0523087d88ddc840325e624af0b099",
+      "pixelMatch": true
+    },
+    {
+      "number": 7,
+      "title": "階段の上",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a138c0-18cf-7180-85cb-09a7b89122e3/exec-3e8af716-dffd-4b97-9d0f-99bc879acbd2.png",
+      "output": "public/assets/ch031/complete/p007.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "3fce0c80d6b6b39a9a1ad28ca57c321cd449c9ec0e5d250049c8871c6c0d0cbf",
+      "pixelMatch": true
+    },
+    {
+      "number": 8,
+      "title": "陰謀の証言",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a138c0-18cf-7180-85cb-09a7b89122e3/exec-b7f744cd-ea4e-43cb-a585-71eed48b7a68.png",
+      "output": "public/assets/ch031/complete/p008.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "6516dce65608092196cfdb8400167e1451b2eb9f534f7d8a8ca4359334ef1d5e",
+      "pixelMatch": true
+    },
+    {
+      "number": 9,
+      "title": "復讐の楼",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a138c0-18cf-7180-85cb-09a7b89122e3/exec-b524a149-fd84-40b8-bbeb-e2c33597c1ff.png",
+      "output": "public/assets/ch031/complete/p009.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "741923485467731009abd3c9383428072334112cfd793a074230391a7b9e68bc",
+      "pixelMatch": true
+    },
+    {
+      "number": 10,
+      "title": "張団練",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a138c0-18cf-7180-85cb-09a7b89122e3/exec-2f8fd570-88be-4f16-b56f-f483937099c0.png",
+      "output": "public/assets/ch031/complete/p010.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "adb472a45c4363c8a7b2e9586983ac04bd8621b43a0b7e6c2bc9612615fb916b",
+      "pixelMatch": true
+    },
+    {
+      "number": 12,
+      "title": "戻れぬ夜",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a138c0-18cf-7180-85cb-09a7b89122e3/exec-917c7aa7-b529-4887-9532-3e0f3dda2d15.png",
+      "output": "public/assets/ch031/complete/p012.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "96b23df7fcaabc98dc1b6090d6cb9418c4522534adb60601917497300e16037a",
+      "pixelMatch": true
+    },
+    {
+      "number": 13,
+      "title": "屋敷の悲劇",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a138c0-18cf-7180-85cb-09a7b89122e3/exec-f237d898-5348-4424-95c9-ca7b5197b3fa.png",
+      "output": "public/assets/ch031/complete/p013.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "d4aabf0701059e9210a8be2246763772176e8b1ba630d3d7f1639a61eef26ed6",
+      "pixelMatch": true
+    },
+    {
+      "number": 17,
+      "title": "見覚えのある声",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a138c0-18cf-7180-85cb-09a7b89122e3/exec-7380f1a2-fd88-4c2b-9e5f-ead0b4c8db68.png",
+      "output": "public/assets/ch031/complete/p017.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "333da00b2c09e0b5f5f268b5048460f6297b7dd4190365a84dda651e9e1b767f",
+      "pixelMatch": true
+    },
+    {
+      "number": 18,
+      "title": "十字坡の再会",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a138c0-18cf-7180-85cb-09a7b89122e3/exec-fae31ba8-7750-4a92-98a9-c8ea6c695c3b.png",
+      "output": "public/assets/ch031/complete/p018.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "31a9b6e5cc97e50eda623597b8541123498435b8e351b0ad5b0ff6dcf0af3379",
+      "pixelMatch": true
+    },
+    {
+      "number": 19,
+      "title": "経緯を語る",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a138c0-18cf-7180-85cb-09a7b89122e3/exec-5ec39efd-5858-4699-a334-1547005f3527.png",
+      "output": "public/assets/ch031/complete/p019.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "ca5577c29a6a20d260d617204108121330b8a4122072d0482939bb8854018ec8",
+      "pixelMatch": true
+    },
+    {
+      "number": 20,
+      "title": "夜の代償",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a138c0-18cf-7180-85cb-09a7b89122e3/exec-b2f10b28-d535-43d7-8a2c-eaeacfbcf8c5.png",
+      "output": "public/assets/ch031/complete/p020.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "dacb6be7d50d5fe074f968847c1615603258fbf43ab029effb8e317b17780b4e",
+      "pixelMatch": true
+    },
+    {
+      "number": 21,
+      "title": "休息",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a138c0-18cf-7180-85cb-09a7b89122e3/exec-85c81071-354e-4527-8e86-6e60afe54a1f.png",
+      "output": "public/assets/ch031/complete/p021.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "c78758ddf7c1821fa49e7e3e1d2b4e6e8f343b8f2772bdb5cf52ccef2f17173f",
+      "pixelMatch": true
+    },
+    {
+      "number": 22,
+      "title": "捜索の網",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a138c0-18cf-7180-85cb-09a7b89122e3/exec-bf654e48-24d6-49de-b8ff-e3b2e5572e93.png",
+      "output": "public/assets/ch031/complete/p022.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "1ed495ad31ede8d36087de3ecf6d0f7d9c3838a7a175d95fad14ee40701f4e19",
+      "pixelMatch": true
+    },
+    {
+      "number": 23,
+      "title": "二龍山へ",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a138c0-18cf-7180-85cb-09a7b89122e3/exec-f8c32437-6978-487c-9b0f-60efcba1734c.png",
+      "output": "public/assets/ch031/complete/p023.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "d9a449f2ea4df505b5434cf549c6146ee2a2cf1a8f9224fea72d6bddfca6a0b2",
+      "pixelMatch": true
+    },
+    {
+      "number": 24,
+      "title": "孫二娘の知恵",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a138c0-18cf-7180-85cb-09a7b89122e3/exec-6b5d0d9a-e2d0-4853-9751-d934ebd9f32d.png",
+      "output": "public/assets/ch031/complete/p024.webp",
+      "width": 1071,
+      "height": 1468,
+      "sha256": "56bcb3a8e20016b7568d721b8cecfa733e1a649e1c72ec9ff84fd6cc19f2d94d",
+      "pixelMatch": true
+    },
+    {
+      "number": 9,
+      "title": "復讐の楼",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a138c0-18cf-7180-85cb-09a7b89122e3/exec-8677bbe2-6e1b-4192-8ae8-8defad23556c.png",
+      "output": "public/assets/ch031/complete/p009.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "1f115e9a830821568057a36d5a8062cf9349a1ed0892b16a82e88ccda8fbf934",
+      "pixelMatch": true
+    },
+    {
+      "number": 10,
+      "title": "張団練",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a138c0-18cf-7180-85cb-09a7b89122e3/exec-3d31c2d4-4278-48c4-8b76-f5a0da1f6233.png",
+      "output": "public/assets/ch031/complete/p010.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "eda6e83eac2e53094222c130275b2cc43581a7b7b44d6f877d6a3f2d156f6ea1",
+      "pixelMatch": true
+    },
+    {
+      "number": 13,
+      "title": "屋敷の悲劇",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a138c0-18cf-7180-85cb-09a7b89122e3/exec-d389dbb3-a496-4d11-91fa-6b4e252e42c7.png",
+      "output": "public/assets/ch031/complete/p013.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "672dc377626f3b55bcbdc8e14f5a686707125227e7924767dda028a32ae25b39",
+      "pixelMatch": true
+    },
+    {
+      "number": 17,
+      "title": "見覚えのある声",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a138c0-18cf-7180-85cb-09a7b89122e3/exec-ffd051d8-b50b-494c-9cd2-69723c9dcef7.png",
+      "output": "public/assets/ch031/complete/p017.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "ee0d3cda1c3dd791550133840f4c27929a3e554b37f6000420681b6c345b3b0a",
+      "pixelMatch": true
+    },
+    {
+      "number": 19,
+      "title": "経緯を語る",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a138c0-18cf-7180-85cb-09a7b89122e3/exec-42aa4bad-82ab-4b29-85c0-6abae961cdca.png",
+      "output": "public/assets/ch031/complete/p019.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "5a1f1731959b9313ce82f6617583882929156df9ad7a8e981c0e6057dabddb2f",
+      "pixelMatch": true
+    },
+    {
+      "number": 21,
+      "title": "休息",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a138c0-18cf-7180-85cb-09a7b89122e3/exec-cca1dd59-7f85-4030-aee9-53939419f850.png",
+      "output": "public/assets/ch031/complete/p021.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "6ced7777b0417bd4ee2b09813f91c7a69a4873ec435f309abed64a4743b30258",
+      "pixelMatch": true
+    },
+    {
+      "number": 24,
+      "title": "孫二娘の知恵",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a138c0-18cf-7180-85cb-09a7b89122e3/exec-d30cbf5f-bd99-4db4-b89a-00c1bf089753.png",
+      "output": "public/assets/ch031/complete/p024.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "cd097939b795740b64580150201a7f1495c6cbddf5abcd806c62fe16b89afdcd",
+      "pixelMatch": true
+    },
+    {
+      "number": 25,
+      "title": "行者の道具",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a138c0-18cf-7180-85cb-09a7b89122e3/exec-7c259ce5-da36-45a6-a061-fb946b35084d.png",
+      "output": "public/assets/ch031/complete/p025.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "c8eafee86ef23c05d472916bf682f2ec5116d1e6b2d1a4a81690eb4ff8403cca",
+      "pixelMatch": true
+    },
+    {
+      "number": 26,
+      "title": "新しい姿",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a138c0-18cf-7180-85cb-09a7b89122e3/exec-b9ff1b23-7b0c-4fc3-909a-16ceb0a14b57.png",
+      "output": "public/assets/ch031/complete/p026.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "aded22a16566a441749f7140d2516ef0cf8de634cae2f0e41977eb0de5de8501",
+      "pixelMatch": true
+    },
+    {
+      "number": 27,
+      "title": "武行者",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a138c0-18cf-7180-85cb-09a7b89122e3/exec-2b5c0af4-7ffa-4b88-98d5-fb039b036871.png",
+      "output": "public/assets/ch031/complete/p027.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "3e00bd10e260d44d91f243272123c07779d572409d13c704aac834c917f1f157",
+      "pixelMatch": true
+    },
+    {
+      "number": 28,
+      "title": "旅立ちの忠告",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a138c0-18cf-7180-85cb-09a7b89122e3/exec-d3e95c5d-3dc1-4145-ad36-ecd2e140ad85.png",
+      "output": "public/assets/ch031/complete/p028.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "1740bb66bdc27bbbfe5ef5c695764cc962c6fe48030b7c59baa4c894c9c5c8c1",
+      "pixelMatch": true
+    },
+    {
+      "number": 29,
+      "title": "蜈蚣嶺",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a138c0-18cf-7180-85cb-09a7b89122e3/exec-3c2844f0-9016-4d6a-84d9-d86779d8ee09.png",
+      "output": "public/assets/ch031/complete/p029.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "cbb75f39c3fcf567a3ccd02b029b4c69cf575f7b19a328a57f87ff35030ee04e",
+      "pixelMatch": true
+    },
+    {
+      "number": 30,
+      "title": "山の庵",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a138c0-18cf-7180-85cb-09a7b89122e3/exec-bc6cb31a-86c9-4526-9d10-bdeb77c2e89d.png",
+      "output": "public/assets/ch031/complete/p030.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "f5d8aeaaaa03e0d4a709a8291277f6df42a69d0a61be0221a94d783e5ab68600",
+      "pixelMatch": true
+    },
+    {
+      "number": 31,
+      "title": "双剣と双刀",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a138c0-18cf-7180-85cb-09a7b89122e3/exec-9733f9ba-3276-4ec6-90b5-184f035db1d9.png",
+      "output": "public/assets/ch031/complete/p031.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "9bdf5f045d77777ac62c4c70efb94a81d303e317bb8b4451b3ccf4dff72c4946",
+      "pixelMatch": true
+    },
+    {
+      "number": 32,
+      "title": "月下の決着",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a138c0-18cf-7180-85cb-09a7b89122e3/exec-a52bbcf4-3110-44f9-851e-8968165135a6.png",
+      "output": "public/assets/ch031/complete/p032.webp",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "b276aed36d5d8f6f33cd70ca78ef7980e28109cb0083b4a437b20e83a5f061db",
+      "pixelMatch": true
+    }
+  ],
+  "cover": {
+    "sourceImage": "/home/kekoyana/.codex/generated_images/01a138c0-18cf-7180-85cb-09a7b89122e3/exec-ba7bdcf1-2b76-464c-88fb-ad3edc89c448.png",
+    "output": "public/assets/ch031/cover-f7a6a38bd6c35de7.webp",
+    "width": 1070,
+    "height": 1470,
+    "sha256": "f7a6a38bd6c35de7e4f2541b79c62fb6b8d7f3090baec596954eb3571c216532",
+    "pixelMatch": true
+  }
+}

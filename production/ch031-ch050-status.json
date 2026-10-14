@@ -1,0 +1,55 @@
+{
+  "state": "publishing",
+  "targetChapter": 50,
+  "plannedPages": {
+    "31": 32,
+    "32": 40
+  },
+  "savedPages": {
+    "31": 32
+  },
+  "nextGeneration": {
+    "chapter": 32,
+    "page": 1
+  },
+  "imageTool": "built-in image_gen",
+  "pendingRepairs": [],
+  "publication": "Chapters 1–30 published; 31–50 pending",
+  "remainingCovers": [],
+  "repairPassSavedPages": [
+    5,
+    7,
+    8,
+    9,
+    10,
+    12,
+    13,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "additionalRepairFile": "production/ch031-repairs-additional.json",
+  "outline32": "production/ch032-outline.json",
+  "additionalRepairsVerified": [
+    9,
+    10,
+    13,
+    17,
+    19,
+    21,
+    24
+  ]
+}

@@ -8,6 +8,10 @@ catalog_path=ROOT/'public/data/catalog.json'
 catalog=json.loads(catalog_path.read_text())
 selected=[int(c) for c in sys.argv[1:]] or list(range(26,31))
 for c in selected:
+ if c not in counts:
+  plan=json.loads((ROOT/f'production/ch{c:03}-pages.json').read_text())
+  counts[c]=len(plan['pages'])
+  titles[c]=plan['title']
  records=json.loads((ROOT/f'production/ch{c:03}-generation-records.json').read_text())
  assert [p['number'] for p in records['pages']]==list(range(1,counts[c]+1)),c
  pages=[]

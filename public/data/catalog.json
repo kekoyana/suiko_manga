@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "title": "水滸伝 漫画書庫",
-  "completedThrough": 30,
-  "totalPages": 1091,
+  "completedThrough": 31,
+  "totalPages": 1123,
   "milestone": 20,
   "chapters": [
     {
@@ -247,10 +247,11 @@
     },
     {
       "number": 31,
-      "title": "第31回",
-      "status": "coming",
-      "pageCount": 0,
-      "cover": null
+      "title": "張都監、鴛鴦楼で血に染まる／武行者、夜の蜈蚣嶺を行く",
+      "status": "complete",
+      "pageCount": 32,
+      "cover": "/assets/ch031/cover-f7a6a38bd6c35de7.webp",
+      "manifest": "/data/ch031-9918d1a44a80.json"
     },
     {
       "number": 32,
