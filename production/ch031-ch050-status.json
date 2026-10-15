@@ -5,21 +5,27 @@
     "31": 32,
     "32": 40,
     "33": 40,
-    "34": 40
+    "34": 40,
+    "35": 48
   },
   "savedPages": {
     "31": 32,
     "32": 40,
     "33": 40,
-    "34": 40
+    "34": 40,
+    "35": 48
   },
-  "nextGeneration": null,
+  "nextGeneration": {
+    "chapter": 35,
+    "page": null,
+    "task": "repairs and cover"
+  },
   "imageTool": "built-in image_gen",
   "pendingRepairs": {
-    "chapter": 34,
+    "chapter": 35,
     "pages": []
   },
-  "publication": "Chapters 1–33 published; 34–50 pending",
+  "publication": "Chapters1–34 published;35–50 pending",
   "remainingCovers": [],
   "repairPassSavedPages": [
     5,
@@ -57,8 +63,8 @@
     21,
     24
   ],
-  "publishedCommit": "2f014dc12e05730d6e753f2e51053a1e359a005b",
-  "publishedWorkflow": 38679638359,
+  "publishedCommit": "f3d83b4cb0dee45538bb21d4563a615e9c823308",
+  "publishedWorkflow": 38778749075,
   "published31AssetSha256Verified": true,
   "chapter32RepairFile": "production/ch032-repairs-pending.json",
   "sourceReview32": "production/ch032-source-review.json",
@@ -81,7 +87,9 @@
   "quotaResetAt": "2026-10-16T00:47:33+09:00",
   "quotaResetUnix": 1792079253,
   "resumeReservationId": "317f2484-f5e1-4760-a011-8ef864584905",
-  "nextAction": "Publish verified chapter34; script and produce35–50",
+  "nextAction": "Verify and publish35, continue36–50",
   "quotaLastConfirmedAt": "2026-10-15T23:00:55+09:00",
-  "quotaStatus": "resumed 2026-10-16; generation available"
+  "quotaStatus": "resumed 2026-10-16; generation available",
+  "published34AssetSha256Verified": true,
+  "savedPages35": 48
 }

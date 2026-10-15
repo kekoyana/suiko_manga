@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "title": "水滸伝 漫画書庫",
-  "completedThrough": 34,
-  "totalPages": 1243,
+  "completedThrough": 35,
+  "totalPages": 1291,
   "milestone": 20,
   "chapters": [
     {
@@ -279,10 +279,11 @@
     },
     {
       "number": 35,
-      "title": "第35回",
-      "status": "coming",
-      "pageCount": 0,
-      "cover": null
+      "title": "石将軍、村店に書を寄す／小李広、梁山に雁を射る",
+      "status": "complete",
+      "pageCount": 48,
+      "cover": "/assets/ch035/cover-f57bfe41dc918aab.webp",
+      "manifest": "/data/ch035-ca89f5b6ae79.json"
     },
     {
       "number": 36,

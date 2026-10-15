@@ -1,0 +1,16 @@
+{
+  "chapter": 35,
+  "source": "https://zh.wikisource.org/wiki/水滸傳_(120回本)/第035回",
+  "reviewedOn": "2026-10-16",
+  "scriptCoverage": "48 pages through original final siege of Song family manor",
+  "checks": [
+    "Qingfeng entry led by Song Jiang Hua Rong Yan Shun Wang Ying; Zheng stays at mountain",
+    "Liu family reprisal and wife death acknowledged without graphic imagery; Wang Ying conflict retained",
+    "Marriage and evacuation with military disguise; Lu Fang Guo Sheng duel and severed tassel",
+    "Shi Yong letter, false bereavement, Song departs alone on foot with staff and sandals",
+    "Nine join Liangshan without Song; third goose and 21 leadership ranks",
+    "Father alive and arranged letter; amnesty and absent Zhu Lei; manor surrounded at end"
+  ],
+  "visualReview": "checked",
+  "reviewNotes": "全48頁を生成時目視、人物混入・赤房・下馬・話者・右左順を修正再確認。原典末の一更包囲まで。46頁質問を同義の私の罪は？へ簡潔化。"
+}
