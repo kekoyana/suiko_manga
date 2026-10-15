@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "title": "水滸伝 漫画書庫",
-  "completedThrough": 32,
-  "totalPages": 1163,
+  "completedThrough": 33,
+  "totalPages": 1203,
   "milestone": 20,
   "chapters": [
     {
@@ -263,10 +263,11 @@
     },
     {
       "number": 33,
-      "title": "第33回",
-      "status": "coming",
-      "pageCount": 0,
-      "cover": null
+      "title": "宋江、夜に小鰲山を見る／花栄、清風寨で大いに騒ぐ",
+      "status": "complete",
+      "pageCount": 40,
+      "cover": "/assets/ch033/cover-f940b756c623b393.webp",
+      "manifest": "/data/ch033-afe7270c6b49.json"
     },
     {
       "number": 34,

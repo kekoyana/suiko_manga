@@ -1,21 +1,23 @@
 {
-  "state": "publishing-chapter32",
+  "state": "validating-chapter33",
   "targetChapter": 50,
   "plannedPages": {
     "31": 32,
-    "32": 40
+    "32": 40,
+    "33": 40
   },
   "savedPages": {
     "31": 32,
-    "32": 40
+    "32": 40,
+    "33": 40
   },
   "nextGeneration": {
-    "chapter": 33,
+    "chapter": 34,
     "page": 1
   },
   "imageTool": "built-in image_gen",
   "pendingRepairs": [],
-  "publication": "Chapters 1–31 published; 32 complete and awaiting deployment; 33–50 pending",
+  "publication": "Chapters 1–32 published; 33–50 pending",
   "remainingCovers": [],
   "repairPassSavedPages": [
     5,
@@ -53,11 +55,14 @@
     21,
     24
   ],
-  "publishedCommit": "8c204be9995dd8af4990d65f9e3fd6f69e96ebcb",
-  "publishedWorkflow": 38545213070,
+  "publishedCommit": "90fa3c719fdf19f94360bd9d1b1593f85e8c85bb",
+  "publishedWorkflow": 38612165813,
   "published31AssetSha256Verified": true,
   "chapter32RepairFile": "production/ch032-repairs-pending.json",
   "quotaResetAt": "2026-10-15T00:42:22+09:00",
   "resumeReservationId": "40c7ca7a-a5df-4432-8cee-99a3fa59daf0",
-  "sourceReview32": "production/ch032-source-review.json"
+  "sourceReview32": "production/ch032-source-review.json",
+  "published32AssetSha256Verified": true,
+  "chapter33RepairFile": "production/ch033-repairs-pending.json",
+  "savedPages33": 40
 }

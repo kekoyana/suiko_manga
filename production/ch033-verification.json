@@ -1,0 +1,12 @@
+{
+  "chapter": 33,
+  "pages": 40,
+  "cover": true,
+  "sourceReview": "production/ch033-source-review.json",
+  "allPageSha256Verified": true,
+  "losslessPixelMatch": true,
+  "visualReview": "40 pages and cover checked",
+  "pendingRepairs": 0,
+  "publicValidation": "120 chapters, 1203 pages, 1236 WebP references valid",
+  "readerTests": "7 checks passed across separate invocations; staging repeated with asset writes paused after transient partial file race"
+}
