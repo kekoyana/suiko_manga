@@ -1,23 +1,25 @@
 {
-  "state": "validating-chapter33",
+  "state": "producing",
   "targetChapter": 50,
   "plannedPages": {
     "31": 32,
     "32": 40,
-    "33": 40
+    "33": 40,
+    "34": 40
   },
   "savedPages": {
     "31": 32,
     "32": 40,
-    "33": 40
+    "33": 40,
+    "34": 40
   },
-  "nextGeneration": {
-    "chapter": 34,
-    "page": 1
-  },
+  "nextGeneration": null,
   "imageTool": "built-in image_gen",
-  "pendingRepairs": [],
-  "publication": "Chapters 1–32 published; 33–50 pending",
+  "pendingRepairs": {
+    "chapter": 34,
+    "pages": []
+  },
+  "publication": "Chapters 1–33 published; 34–50 pending",
   "remainingCovers": [],
   "repairPassSavedPages": [
     5,
@@ -55,14 +57,31 @@
     21,
     24
   ],
-  "publishedCommit": "90fa3c719fdf19f94360bd9d1b1593f85e8c85bb",
-  "publishedWorkflow": 38612165813,
+  "publishedCommit": "2f014dc12e05730d6e753f2e51053a1e359a005b",
+  "publishedWorkflow": 38679638359,
   "published31AssetSha256Verified": true,
   "chapter32RepairFile": "production/ch032-repairs-pending.json",
-  "quotaResetAt": "2026-10-15T00:42:22+09:00",
-  "resumeReservationId": "40c7ca7a-a5df-4432-8cee-99a3fa59daf0",
   "sourceReview32": "production/ch032-source-review.json",
   "published32AssetSha256Verified": true,
   "chapter33RepairFile": "production/ch033-repairs-pending.json",
-  "savedPages33": 40
+  "savedPages33": 40,
+  "chapter34RepairFile": "production/ch034-repairs-pending.json",
+  "published33AssetSha256Verified": true,
+  "characterReference34": {
+    "QinMing": "public/assets/ch034/complete/p011.webp",
+    "HuaRong": "public/assets/ch033/complete/p002.webp",
+    "HuangXin": "public/assets/ch033/complete/p034.webp",
+    "QingfengLeaders": "public/assets/ch032/complete/p033.webp"
+  },
+  "previousQuota": {
+    "resetAt": "2026-10-15T00:42:22+09:00",
+    "resumeReservationId": "40c7ca7a-a5df-4432-8cee-99a3fa59daf0",
+    "status": "resumed; no new quota reached"
+  },
+  "quotaResetAt": "2026-10-16T00:47:33+09:00",
+  "quotaResetUnix": 1792079253,
+  "resumeReservationId": "317f2484-f5e1-4760-a011-8ef864584905",
+  "nextAction": "Publish verified chapter34; script and produce35–50",
+  "quotaLastConfirmedAt": "2026-10-15T23:00:55+09:00",
+  "quotaStatus": "resumed 2026-10-16; generation available"
 }

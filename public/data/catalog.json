@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "title": "水滸伝 漫画書庫",
-  "completedThrough": 33,
-  "totalPages": 1203,
+  "completedThrough": 34,
+  "totalPages": 1243,
   "milestone": 20,
   "chapters": [
     {
@@ -271,10 +271,11 @@
     },
     {
       "number": 34,
-      "title": "第34回",
-      "status": "coming",
-      "pageCount": 0,
-      "cover": null
+      "title": "鎮三山、青州道で大いに騒ぐ／霹靂火、夜に瓦礫場を行く",
+      "status": "complete",
+      "pageCount": 40,
+      "cover": "/assets/ch034/cover-10e30b1c13dd4e6f.webp",
+      "manifest": "/data/ch034-6bb451f6241d.json"
     },
     {
       "number": 35,

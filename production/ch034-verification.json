@@ -1,0 +1,13 @@
+{
+  "chapter": 34,
+  "pages": 40,
+  "cover": true,
+  "sourceReview": "production/ch034-source-review.json",
+  "allPageSha256Verified": true,
+  "losslessPixelMatch": true,
+  "visualReview": "40 pages and cover individually reviewed, then 10 contact sheets reviewed; final p5 cart correction applied",
+  "pendingRepairs": 0,
+  "publicValidation": "120 chapters, 1243 pages, 1277 referenced WebP files valid",
+  "readerTests": "7/7 passed outside sandbox; sandbox denies HTTP listen and child processes",
+  "finalContinuityRepair": "p40 Zheng Tianshou replaced by Song Jiang to match chapter35 opening"
+}
