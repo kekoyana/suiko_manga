@@ -1,0 +1,25 @@
+{
+  "chapter": 36,
+  "source": "https://zh.wikisource.org/wiki/水滸傳_(120回本)/第036回",
+  "reviewedOn": "2026-10-16",
+  "scriptCoverage": "42 pages through original final Muy Chun confrontation; no following chapter events",
+  "checks": [
+    "Zhao Neng Zhao De; confession60days;20strokes branded exile Jiangzhou",
+    "Father warns against joining Liangshan; escorts Zhang Qian Li Wan",
+    "Liu borrowed blade and Wu mediation; cangue retained Liangshan banquet",
+    "Dai Zong letter introduction only, not physically present",
+    "Li Li drugged wine, Li Jun recognizes by official document, antidote and Tong brothers",
+    "Li Jun stay, cangue restored, Xue Yong5taels and unidentified attacker at original end"
+  ],
+  "visualReview": "checked",
+  "adaptationNotes": [
+    "p13 retains refusal and mediation; blade gesture replaced by empty-handed dialogue and resolve to keep non-graphic scene."
+  ],
+  "finalChecks": [
+    "全42頁目視済み。人物、話者、右から左コマ順、配流印本人左頬、木枷着脱を確認",
+    "第2頁宋清無髭、第3頁門が開く前は塀越し対話で空間連続性確認",
+    "第12頁刀受渡し、第13頁空手の決意と仲裁で自傷構図を使わず筋を維持",
+    "第26/27頁注文・先払い・薬酒の冗談を最終画像の読み順へ照合",
+    "第42頁穆春拳を振り上げて未接触、原典回末まで"
+  ]
+}

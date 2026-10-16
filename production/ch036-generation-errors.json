@@ -1,0 +1,17 @@
+{
+  "chapter": 36,
+  "page": 13,
+  "attempts": [
+    {
+      "result": "moderation_blocked",
+      "requestId": "d281cadd-b232-4e2c-b997-ff4f1a65a2b6",
+      "composition": "original literary scene with blade near neck, no contact"
+    },
+    {
+      "result": "moderation_blocked",
+      "requestId": "554b47f7-6c94-4d9b-bc2d-9aab154caf96",
+      "composition": "alternative holding blade down and returning it"
+    }
+  ],
+  "nextAction": "do not repeat refused compositions; replace visual action with peaceful dialogue and mediation, preserving literary refusal"
+}

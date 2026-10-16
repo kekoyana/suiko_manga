@@ -1,32 +1,57 @@
 {
-  "state": "producing",
+  "state": "generating",
   "targetChapter": 50,
   "plannedPages": {
     "31": 32,
     "32": 40,
     "33": 40,
     "34": 40,
-    "35": 48
+    "35": 48,
+    "36": 42,
+    "37": 44,
+    "38": 48,
+    "39": 47
   },
   "savedPages": {
     "31": 32,
     "32": 40,
     "33": 40,
     "34": 40,
-    "35": 48
+    "35": 48,
+    "36": 33,
+    "37": 0,
+    "38": 0,
+    "39": 0
   },
   "nextGeneration": {
-    "chapter": 35,
-    "page": null,
-    "task": "repairs and cover"
+    "chapter": 36,
+    "page": 34
   },
   "imageTool": "built-in image_gen",
   "pendingRepairs": {
-    "chapter": 35,
-    "pages": []
+    "chapter": 36,
+    "pages": [
+      12,
+      14,
+      16,
+      17,
+      18,
+      21,
+      22,
+      23,
+      25,
+      26,
+      27,
+      28,
+      29,
+      31,
+      32
+    ]
   },
-  "publication": "Chapters1–34 published;35–50 pending",
-  "remainingCovers": [],
+  "publication": "Chapters1–35 published;36–50 pending",
+  "remainingCovers": [
+    36
+  ],
   "repairPassSavedPages": [
     5,
     7,
@@ -63,8 +88,8 @@
     21,
     24
   ],
-  "publishedCommit": "f3d83b4cb0dee45538bb21d4563a615e9c823308",
-  "publishedWorkflow": 38778749075,
+  "publishedCommit": "d62eb887e0e6919815cc89c8eb109577306e7247",
+  "publishedWorkflow": 38815645317,
   "published31AssetSha256Verified": true,
   "chapter32RepairFile": "production/ch032-repairs-pending.json",
   "sourceReview32": "production/ch032-source-review.json",
@@ -84,12 +109,29 @@
     "resumeReservationId": "40c7ca7a-a5df-4432-8cee-99a3fa59daf0",
     "status": "resumed; no new quota reached"
   },
-  "quotaResetAt": "2026-10-16T00:47:33+09:00",
-  "quotaResetUnix": 1792079253,
-  "resumeReservationId": "317f2484-f5e1-4760-a011-8ef864584905",
-  "nextAction": "Verify and publish35, continue36–50",
+  "quotaResetAt": "2026-10-17T00:49:22+09:00",
+  "quotaResetUnix": 1792165762,
+  "resumeReservationId": "e9e86c9a-0d13-42a8-aa95-a557a25072e6",
+  "nextAction": "Publish36 after all seven reader tests; continue37 through44, repair, cover and verify; then38–50",
   "quotaLastConfirmedAt": "2026-10-15T23:00:55+09:00",
-  "quotaStatus": "resumed 2026-10-16; generation available",
+  "quotaStatus": "generation resumed; no new quota notification",
   "published34AssetSha256Verified": true,
-  "savedPages35": 48
+  "savedPages35": 48,
+  "published35AssetSha256Verified": true,
+  "savedPages36": 42,
+  "outline37": "production/ch037-outline.json",
+  "missingPages36": [],
+  "highestSavedPage36": 42,
+  "script37": "production/ch037-pages.json",
+  "script37State": "script_ready_images_pending",
+  "outline38": "production/ch038-outline.json",
+  "script38": "production/ch038-pages.json",
+  "script38State": "script_ready_images_pending",
+  "outline39": "production/ch039-outline.json",
+  "pendingRepairs36": [],
+  "sourceReview36": "production/ch036-source-review.json",
+  "savedPages37": 6,
+  "script39": "production/ch039-pages.json",
+  "script39State": "script_draft_dialogue_review_pending",
+  "sourceReview40": "production/ch040-source-review.json"
 }

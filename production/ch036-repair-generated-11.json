@@ -1,0 +1,5 @@
+{
+  "page": 11,
+  "issue": "上右と下右の宋江の印が本人右頬（正面顔で画面左側）にある。本人左頬（正面顔画面右）へ統一。張千の顎髭は除去。",
+  "output_hint": "Generated images are saved to /home/kekoyana/.codex/generated_images/01a1449e-e7bf-7392-b790-53a5bbfc2812 as /home/kekoyana/.codex/generated_images/01a1449e-e7bf-7392-b790-53a5bbfc2812/exec-66c9a183-9b2e-404a-914b-8d9d39fc60a6.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+}

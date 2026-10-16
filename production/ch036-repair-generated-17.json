@@ -1,0 +1,5 @@
+{
+  "page": 17,
+  "issue": "上左に15頁の不要台詞「晁頭領と少しお話しを」が混入。上左吹出しを除去。上右宋江左頬印が不明瞭なので確認。中右に台詞風の場面指示「小頭目が各首領を呼びに走る」があるため説明枠へ整理もしくは除去。",
+  "output_hint": "Generated images are saved to /home/kekoyana/.codex/generated_images/01a1449e-e7bf-7392-b790-53a5bbfc2812 as /home/kekoyana/.codex/generated_images/01a1449e-e7bf-7392-b790-53a5bbfc2812/exec-6b013146-9ace-4daa-93f0-f51adaa9d011.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+}

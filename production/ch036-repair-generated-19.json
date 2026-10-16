@@ -1,0 +1,5 @@
+{
+  "page": 19,
+  "issue": "宋江襟の模様を灰紫無地へ。張千顎髭を除去。中左に青緑服以外の無指定人物二人が混入し不要なら除去。",
+  "output_hint": "Generated images are saved to /home/kekoyana/.codex/generated_images/01a1449e-e7bf-7392-b790-53a5bbfc2812 as /home/kekoyana/.codex/generated_images/01a1449e-e7bf-7392-b790-53a5bbfc2812/exec-372308d3-c719-405b-b341-c89cf3e7cbe6.png by default.\nIf you need to use a generated image at another path, copy it and leave the original in place unless the user explicitly asks you to delete it.\nThe generated image is already displayed to the user. There is no need to render it in the final response as a Markdown image or file link."
+}

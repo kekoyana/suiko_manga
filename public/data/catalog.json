@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "title": "水滸伝 漫画書庫",
-  "completedThrough": 35,
-  "totalPages": 1291,
+  "completedThrough": 36,
+  "totalPages": 1333,
   "milestone": 20,
   "chapters": [
     {
@@ -287,10 +287,11 @@
     },
     {
       "number": 36,
-      "title": "第36回",
-      "status": "coming",
-      "pageCount": 0,
-      "cover": null
+      "title": "梁山泊、呉用が戴宗を薦める／掲陽嶺、宋江が李俊に逢う",
+      "status": "complete",
+      "pageCount": 42,
+      "cover": "/assets/ch036/cover-63efe55db5d6c31a.webp",
+      "manifest": "/data/ch036-94a4c85fa7a5.json"
     },
     {
       "number": 37,
