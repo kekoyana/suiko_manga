@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "title": "水滸伝 漫画書庫",
-  "completedThrough": 37,
-  "totalPages": 1377,
+  "completedThrough": 38,
+  "totalPages": 1425,
   "milestone": 20,
   "chapters": [
     {
@@ -303,10 +303,11 @@
     },
     {
       "number": 38,
-      "title": "第38回",
-      "status": "coming",
-      "pageCount": 0,
-      "cover": null
+      "title": "及時雨、神行太保に会う／黒旋風、浪裏白条と闘う",
+      "status": "complete",
+      "pageCount": 48,
+      "cover": "/assets/ch038/cover-68c97039283feb42.webp",
+      "manifest": "/data/ch038-20645a00557b.json"
     },
     {
       "number": 39,
