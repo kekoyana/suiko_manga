@@ -1,0 +1,15 @@
+{
+  "chapter": 37,
+  "source": "https://zh.wikisource.org/wiki/水滸傳_(120回本)/第037回",
+  "reviewedOn": "2026-10-18",
+  "status": "full_source_read_script_dialogue_checked",
+  "plannedPages": 44,
+  "checks": [
+    "原典冒頭の穆春の殴打から回末の宋江が点視庁へ向かう所まで。戴宗との対面は次回。",
+    "宋江は穆家門房で木枷を外し逃走時手に持つ。江上無枷。江州上陸後装着、牢城点視庁で外す。",
+    "張横の旧私渡は回想。張順は現在場面に登場させない。",
+    "薛永救出、三日滞在、張順宛の代筆家書、蔡九知府、張千李万の帰路、殺威棒留保と抄事配属、節級常例銭まで収録。"
+  ],
+  "visualReview": "all_44_pages_and_cover_checked",
+  "dialogueReview": "全44頁の台詞・話者・右上からのコマ順を確認。原典回末は点視庁へ向かう場面、戴宗対面は次回。"
+}

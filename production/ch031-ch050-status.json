@@ -1,5 +1,5 @@
 {
-  "state": "generating",
+  "state": "validating_publication",
   "targetChapter": 50,
   "plannedPages": {
     "31": 32,
@@ -18,40 +18,22 @@
     "33": 40,
     "34": 40,
     "35": 48,
-    "36": 33,
-    "37": 0,
+    "36": 42,
+    "37": 44,
     "38": 0,
     "39": 0
   },
   "nextGeneration": {
-    "chapter": 36,
-    "page": 34
+    "chapter": 38,
+    "page": 1
   },
   "imageTool": "built-in image_gen",
   "pendingRepairs": {
-    "chapter": 36,
-    "pages": [
-      12,
-      14,
-      16,
-      17,
-      18,
-      21,
-      22,
-      23,
-      25,
-      26,
-      27,
-      28,
-      29,
-      31,
-      32
-    ]
+    "chapter": 37,
+    "pages": []
   },
-  "publication": "Chapters1–35 published;36–50 pending",
-  "remainingCovers": [
-    36
-  ],
+  "publication": "Chapters1–36 published;37–50 pending",
+  "remainingCovers": [],
   "repairPassSavedPages": [
     5,
     7,
@@ -88,8 +70,8 @@
     21,
     24
   ],
-  "publishedCommit": "d62eb887e0e6919815cc89c8eb109577306e7247",
-  "publishedWorkflow": 38815645317,
+  "publishedCommit": "d1c5febe28ac12e8ffb0a57dda20e9ddf22ca0a3",
+  "publishedWorkflow": 38949566783,
   "published31AssetSha256Verified": true,
   "chapter32RepairFile": "production/ch032-repairs-pending.json",
   "sourceReview32": "production/ch032-source-review.json",
@@ -109,12 +91,12 @@
     "resumeReservationId": "40c7ca7a-a5df-4432-8cee-99a3fa59daf0",
     "status": "resumed; no new quota reached"
   },
-  "quotaResetAt": "2026-10-17T00:49:22+09:00",
-  "quotaResetUnix": 1792165762,
-  "resumeReservationId": "e9e86c9a-0d13-42a8-aa95-a557a25072e6",
-  "nextAction": "Publish36 after all seven reader tests; continue37 through44, repair, cover and verify; then38–50",
+  "quotaResetAt": "2026-10-18T00:53:01+09:00",
+  "quotaResetUnix": 1792252381,
+  "resumeReservationId": "3c415afd-9cdc-400c-91db-11fff9de9b01",
+  "nextAction": "Publish verified37, then complete38–50",
   "quotaLastConfirmedAt": "2026-10-15T23:00:55+09:00",
-  "quotaStatus": "generation resumed; no new quota notification",
+  "quotaStatus": "resumed; no new quota reached",
   "published34AssetSha256Verified": true,
   "savedPages35": 48,
   "published35AssetSha256Verified": true,
@@ -123,15 +105,19 @@
   "missingPages36": [],
   "highestSavedPage36": 42,
   "script37": "production/ch037-pages.json",
-  "script37State": "script_ready_images_pending",
+  "script37State": "44_pages_cover_checked",
   "outline38": "production/ch038-outline.json",
   "script38": "production/ch038-pages.json",
   "script38State": "script_ready_images_pending",
   "outline39": "production/ch039-outline.json",
   "pendingRepairs36": [],
   "sourceReview36": "production/ch036-source-review.json",
-  "savedPages37": 6,
+  "savedPages37": 44,
   "script39": "production/ch039-pages.json",
   "script39State": "script_draft_dialogue_review_pending",
-  "sourceReview40": "production/ch040-source-review.json"
+  "sourceReview40": "production/ch040-source-review.json",
+  "publishedThrough": 36,
+  "publishedTotalPages": 1333,
+  "published36AssetSha256Verified": true,
+  "chapter37RepairFile": "production/ch037-repairs-pending.json"
 }

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "title": "水滸伝 漫画書庫",
-  "completedThrough": 36,
-  "totalPages": 1333,
+  "completedThrough": 37,
+  "totalPages": 1377,
   "milestone": 20,
   "chapters": [
     {
@@ -295,10 +295,11 @@
     },
     {
       "number": 37,
-      "title": "第37回",
-      "status": "coming",
-      "pageCount": 0,
-      "cover": null
+      "title": "没遮攔、及時雨を追う／船火児、潯陽江を騒がす",
+      "status": "complete",
+      "pageCount": 44,
+      "cover": "/assets/ch037/cover-3a44a669cabb46bb.webp",
+      "manifest": "/data/ch037-96fc8eccbe98.json"
     },
     {
       "number": 38,
