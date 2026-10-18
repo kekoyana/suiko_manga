@@ -21,19 +21,16 @@
     "36": 42,
     "37": 44,
     "38": 48,
-    "39": 0
+    "39": 22
   },
-  "nextGeneration": {
-    "chapter": 39,
-    "page": 1
-  },
+  "nextGeneration": "chapter39 page5 repair",
   "imageTool": "built-in image_gen",
   "pendingRepairs": {
     "chapter": 37,
     "pages": [],
     "38": []
   },
-  "publication": "Chapters1–37 published;38–50 pending",
+  "publication": "Chapters1–38 published;39–50 pending",
   "remainingCovers": [],
   "repairPassSavedPages": [
     5,
@@ -71,8 +68,8 @@
     21,
     24
   ],
-  "publishedCommit": "f8428e9344aec17046c9df16695b73b20e8a0933",
-  "publishedWorkflow": 39062013620,
+  "publishedCommit": "9a7190053a018ab89622ee0496393be5bdd2dab4",
+  "publishedWorkflow": 39080914179,
   "published31AssetSha256Verified": true,
   "chapter32RepairFile": "production/ch032-repairs-pending.json",
   "sourceReview32": "production/ch032-source-review.json",
@@ -92,12 +89,12 @@
     "resumeReservationId": "40c7ca7a-a5df-4432-8cee-99a3fa59daf0",
     "status": "resumed; no new quota reached"
   },
-  "quotaResetAt": "2026-10-18T00:53:01+09:00",
-  "quotaResetUnix": 1792252381,
-  "resumeReservationId": "3c415afd-9cdc-400c-91db-11fff9de9b01",
-  "nextAction": "Validate and publish38 to main/Pages; continue39–50",
+  "quotaResetAt": "2026-10-19T05:40:59+09:00",
+  "quotaResetUnix": 1792356059,
+  "resumeReservationId": "5edc4372-d264-4ea3-a842-f3127ba61118",
+  "nextAction": "Repair all pending39 pages (start5), cover, full review validation publish; then40–50",
   "quotaLastConfirmedAt": "2026-10-15T23:00:55+09:00",
-  "quotaStatus": "resumed; no new quota reached",
+  "quotaStatus": "usage_limit_reached",
   "published34AssetSha256Verified": true,
   "savedPages35": 48,
   "published35AssetSha256Verified": true,
@@ -115,11 +112,13 @@
   "sourceReview36": "production/ch036-source-review.json",
   "savedPages37": 44,
   "script39": "production/ch039-pages.json",
-  "script39State": "script_draft_dialogue_review_pending",
+  "script39State": "ready",
   "sourceReview40": "production/ch040-source-review.json",
-  "publishedThrough": 37,
-  "publishedTotalPages": 1377,
+  "publishedThrough": 38,
+  "publishedTotalPages": 1425,
   "published36AssetSha256Verified": true,
   "chapter37RepairFile": "production/ch037-repairs-pending.json",
-  "published37AssetSha256Verified": true
+  "published37AssetSha256Verified": true,
+  "published38AssetSha256Verified": true,
+  "savedPages39": 47
 }
