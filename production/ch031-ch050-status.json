@@ -10,7 +10,8 @@
     "36": 42,
     "37": 44,
     "38": 48,
-    "39": 47
+    "39": 47,
+    "40": 40
   },
   "savedPages": {
     "31": 32,
@@ -21,9 +22,9 @@
     "36": 42,
     "37": 44,
     "38": 48,
-    "39": 22
+    "39": 47
   },
-  "nextGeneration": "chapter39 page5 repair",
+  "nextGeneration": "chapter40 page1 generating",
   "imageTool": "built-in image_gen",
   "pendingRepairs": {
     "chapter": 37,
@@ -92,9 +93,9 @@
   "quotaResetAt": "2026-10-19T05:40:59+09:00",
   "quotaResetUnix": 1792356059,
   "resumeReservationId": "5edc4372-d264-4ea3-a842-f3127ba61118",
-  "nextAction": "Repair all pending39 pages (start5), cover, full review validation publish; then40–50",
+  "nextAction": "Publish checked chapter39 after tests, continue chapter40 through50",
   "quotaLastConfirmedAt": "2026-10-15T23:00:55+09:00",
-  "quotaStatus": "usage_limit_reached",
+  "quotaStatus": "resumed",
   "published34AssetSha256Verified": true,
   "savedPages35": 48,
   "published35AssetSha256Verified": true,
@@ -112,7 +113,7 @@
   "sourceReview36": "production/ch036-source-review.json",
   "savedPages37": 44,
   "script39": "production/ch039-pages.json",
-  "script39State": "ready",
+  "script39State": "47_pages_cover_checked",
   "sourceReview40": "production/ch040-source-review.json",
   "publishedThrough": 38,
   "publishedTotalPages": 1425,
@@ -120,5 +121,34 @@
   "chapter37RepairFile": "production/ch037-repairs-pending.json",
   "published37AssetSha256Verified": true,
   "published38AssetSha256Verified": true,
-  "savedPages39": 47
+  "savedPages39": 47,
+  "repairsChecked39": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    7,
+    14,
+    15,
+    17,
+    25,
+    26,
+    28,
+    29,
+    34,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    45,
+    46,
+    47
+  ],
+  "script40": "production/ch040-pages.json",
+  "script40State": "ready"
 }

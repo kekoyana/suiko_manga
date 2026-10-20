@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "title": "水滸伝 漫画書庫",
-  "completedThrough": 38,
-  "totalPages": 1425,
+  "completedThrough": 39,
+  "totalPages": 1472,
   "milestone": 20,
   "chapters": [
     {
@@ -311,10 +311,11 @@
     },
     {
       "number": 39,
-      "title": "第39回",
-      "status": "coming",
-      "pageCount": 0,
-      "cover": null
+      "title": "潯陽楼で反詩を吟ず／梁山泊で偽信を作る",
+      "status": "complete",
+      "pageCount": 47,
+      "cover": "/assets/ch039/cover-0a1654d4962545f8.webp",
+      "manifest": "/data/ch039-f1d12e1e3deb.json"
     },
     {
       "number": 40,

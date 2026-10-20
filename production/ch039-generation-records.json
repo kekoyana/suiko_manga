@@ -33,7 +33,7 @@
       "height": 1470,
       "sha256": "2562e857ba8aa455b0e19d0dc144667787aa3797fed60b0ab9e8a1cc362eabe4",
       "pixelMatch": true,
-      "visualReview": "pending"
+      "visualReview": "checked"
     },
     {
       "number": 4,
@@ -49,16 +49,13 @@
     {
       "number": 5,
       "title": "見舞いと快復",
-      "sourceImage": "/home/kekoyana/.codex/generated_images/01a14a91-1e79-72b3-be70-8600a97ede31/exec-93aa28d2-a6d1-4f1a-9391-ac69b57234ec.png",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a150bf-2343-7e02-a77e-0a63665a3379/exec-bcc11754-f76c-49ef-829b-fb7fdd8272b9.png",
       "output": "public/assets/ch039/complete/p005.webp",
       "width": 1070,
       "height": 1470,
-      "sha256": "735c24981bb13de6fcfa3d814c78d3b7b42f146bed25cbed7785d9301435a075",
+      "sha256": "ca459d9836990149f384d1917dd76d8c86c0d5a676d5b14178a4947c50fa590d",
       "pixelMatch": true,
-      "visualReview": {
-        "status": "repair_pending",
-        "notes": "ch039-repairs-pending参照"
-      }
+      "visualReview": "checked"
     },
     {
       "number": 6,
@@ -69,24 +66,18 @@
       "height": 1470,
       "sha256": "f27cfdccdeb80c7d5949ec145b533a7074e9e6dfff9eacf7a9e1425bc3c004f6",
       "pixelMatch": true,
-      "visualReview": {
-        "status": "checked",
-        "notes": "全コマ目視、原典順・台詞・人物・印・文字確認済。"
-      }
+      "visualReview": "checked"
     },
     {
       "number": 7,
       "title": "名高い楼",
-      "sourceImage": "/home/kekoyana/.codex/generated_images/01a14a91-1e79-72b3-be70-8600a97ede31/exec-fd0ced88-9d37-439a-b2f3-90a086b631be.png",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a150bf-2343-7e02-a77e-0a63665a3379/exec-57d083f2-0d8d-4661-9519-c574220327fa.png",
       "output": "public/assets/ch039/complete/p007.webp",
-      "width": 1070,
-      "height": 1470,
-      "sha256": "7819690e2bf472050789b7cefb9eab80afe0dc8320fea2d262e856be764016aa",
+      "width": 1071,
+      "height": 1469,
+      "sha256": "d0dcb66dcd4de556eca7bc18fcc1e52ec015d0331ae294d8f796bbec52df14f1",
       "pixelMatch": true,
-      "visualReview": {
-        "status": "repair_pending",
-        "notes": "ch039-repairs-pending参照"
-      }
+      "visualReview": "checked"
     },
     {
       "number": 8,
@@ -97,10 +88,7 @@
       "height": 1470,
       "sha256": "e96ecb3c57da85e8c078809db19ead2aad9e9194cfb47668d1eb1f8baca92f5e",
       "pixelMatch": true,
-      "visualReview": {
-        "status": "checked",
-        "notes": "全コマ目視、原典順・台詞・人物・印・文字確認済。"
-      }
+      "visualReview": "checked"
     },
     {
       "number": 9,
@@ -111,10 +99,7 @@
       "height": 1470,
       "sha256": "45503d627a2b56dfe2a751cafbb3e2e075b07233dee81956a1148ba986d3591a",
       "pixelMatch": true,
-      "visualReview": {
-        "status": "checked",
-        "notes": "全コマ目視、原典順・台詞・人物・印・文字確認済。"
-      }
+      "visualReview": "checked"
     },
     {
       "number": 10,
@@ -125,10 +110,7 @@
       "height": 1470,
       "sha256": "cd6cb2d0c33c651a2ff8d811aa7b7bc0132dc8c9f0cab64d2de18d60ae7a8492",
       "pixelMatch": true,
-      "visualReview": {
-        "status": "checked",
-        "notes": "全コマ目視、原典順・台詞・人物・印・文字確認済。"
-      }
+      "visualReview": "checked"
     },
     {
       "number": 11,
@@ -139,10 +121,7 @@
       "height": 1470,
       "sha256": "e4e8fa6b2a6ee2d84d19ac337b949ff6c8291a62e2e16f7a5309adcea9de678d",
       "pixelMatch": true,
-      "visualReview": {
-        "status": "checked",
-        "notes": "全コマ目視、原典順・台詞・人物・印・文字確認済。"
-      }
+      "visualReview": "checked"
     },
     {
       "number": 12,
@@ -153,10 +132,7 @@
       "height": 1470,
       "sha256": "9b87509daa752747bcf03602daefeda59b98d1aa763770d429cb2193ed036e8b",
       "pixelMatch": true,
-      "visualReview": {
-        "status": "checked",
-        "notes": "全コマ目視、原典順・台詞・人物・印・文字確認済。"
-      }
+      "visualReview": "checked"
     },
     {
       "number": 13,
@@ -167,38 +143,29 @@
       "height": 1470,
       "sha256": "8c5ace3b89efaae5b8412a870472712e8185d400dab96c39338a77ce93927736",
       "pixelMatch": true,
-      "visualReview": {
-        "status": "checked",
-        "notes": "全コマ目視、原典順・台詞・人物・印・文字確認済。"
-      }
+      "visualReview": "checked"
     },
     {
       "number": 14,
       "title": "壁の文字",
-      "sourceImage": "/home/kekoyana/.codex/generated_images/01a14a91-1e79-72b3-be70-8600a97ede31/exec-03588f91-b0d8-488d-92c7-5cbe4d5adcfa.png",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a150bf-2343-7e02-a77e-0a63665a3379/exec-a1ccb660-d2a9-4039-8ee4-cb0518892070.png",
       "output": "public/assets/ch039/complete/p014.webp",
       "width": 1070,
       "height": 1470,
-      "sha256": "e908cebb1f33cbe9c3c716aec5c64b4202311187d90dabd266427bacd39913c0",
+      "sha256": "62132de918a83c0cc6e8cb12631db13a9a26052c8f6ae406b5a1b586befd5df3",
       "pixelMatch": true,
-      "visualReview": {
-        "status": "repair_pending",
-        "notes": "ch039-repairs-pending参照"
-      }
+      "visualReview": "checked"
     },
     {
       "number": 15,
       "title": "密告の紙",
-      "sourceImage": "/home/kekoyana/.codex/generated_images/01a14a91-1e79-72b3-be70-8600a97ede31/exec-e0d40011-c6e5-49d3-aafb-c93edb06ffca.png",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a150bf-2343-7e02-a77e-0a63665a3379/exec-ad5162bb-7199-41ab-9514-0e9283c01c27.png",
       "output": "public/assets/ch039/complete/p015.webp",
       "width": 1070,
       "height": 1470,
-      "sha256": "88aa9904a3d818e69977f87ed9b6f788707fb0403448d17809026d16f2693ea4",
+      "sha256": "a0a2b740a811d0705d7dca844e6b48ca9736d48802729206b50cb6ecd4ff2cad",
       "pixelMatch": true,
-      "visualReview": {
-        "status": "repair_pending",
-        "notes": "ch039-repairs-pending参照"
-      }
+      "visualReview": "checked"
     },
     {
       "number": 16,
@@ -209,24 +176,18 @@
       "height": 1470,
       "sha256": "d14c7b9ef9f9f5e0f4845a46b233b8fde3691e735b43bfa73eb0a7b1f4955a25",
       "pixelMatch": true,
-      "visualReview": {
-        "status": "checked",
-        "notes": "原典場面・全6コマ・台詞話者・衣装髪・宋江本人左頬印確認。"
-      }
+      "visualReview": "checked"
     },
     {
       "number": 17,
       "title": "童謡の曲解",
-      "sourceImage": "/home/kekoyana/.codex/generated_images/01a14a91-1e79-72b3-be70-8600a97ede31/exec-e0f920c2-de3f-46f8-833c-e196fedfc640.png",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a150bf-2343-7e02-a77e-0a63665a3379/exec-f455c3b7-7cd5-4cba-b83d-20a183221ded.png",
       "output": "public/assets/ch039/complete/p017.webp",
       "width": 1070,
       "height": 1470,
-      "sha256": "4ef470b1591f380c5d3bb02be22fe9b62e6e40cf5cd0ff9fcb1ca14fb635b77a",
+      "sha256": "759de41051a91c0363a8a8a56d5adaf3ee485b17244534acfb38f3e5a9b6d93a",
       "pixelMatch": true,
-      "visualReview": {
-        "status": "repair_pending",
-        "notes": "ch039-repairs-pending参照"
-      }
+      "visualReview": "checked"
     },
     {
       "number": 18,
@@ -237,10 +198,7 @@
       "height": 1470,
       "sha256": "9d75e17bd9a5ef17aa0a35f5a0585198c7b6b5dadc81850f369d350d143f3973",
       "pixelMatch": true,
-      "visualReview": {
-        "status": "checked",
-        "notes": "原典場面・全6コマ・台詞話者・衣装髪・宋江本人左頬印確認。"
-      }
+      "visualReview": "checked"
     },
     {
       "number": 19,
@@ -251,10 +209,7 @@
       "height": 1470,
       "sha256": "f0f9baf35d6e9c187bebd3cd677d6010cd3570b04c6a029697def1d8e808ab3e",
       "pixelMatch": true,
-      "visualReview": {
-        "status": "checked",
-        "notes": "原典場面・全6コマ・台詞話者・衣装髪・宋江本人左頬印確認。"
-      }
+      "visualReview": "checked"
     },
     {
       "number": 20,
@@ -265,10 +220,7 @@
       "height": 1470,
       "sha256": "9caf4addae2f1aad3cf97fed7a29688cd792ec42194fcb20cecd237608b6ef36",
       "pixelMatch": true,
-      "visualReview": {
-        "status": "checked",
-        "notes": "原典場面・全6コマ・台詞話者・衣装髪・宋江本人左頬印確認。"
-      }
+      "visualReview": "checked"
     },
     {
       "number": 21,
@@ -279,10 +231,7 @@
       "height": 1470,
       "sha256": "a4e812f7dc6e9353bb72464791332016a81a23f417a759139d784121e118ef7d",
       "pixelMatch": true,
-      "visualReview": {
-        "status": "checked",
-        "notes": "原典場面・全6コマ・台詞話者・衣装髪・宋江本人左頬印確認。"
-      }
+      "visualReview": "checked"
     },
     {
       "number": 22,
@@ -293,10 +242,7 @@
       "height": 1470,
       "sha256": "c9e9f36dca974b0fb5aeb783f5d9e4b799a2d10704d310c53580a3ba7fd08257",
       "pixelMatch": true,
-      "visualReview": {
-        "status": "checked",
-        "notes": "原典場面・全6コマ・台詞話者・衣装髪・宋江本人左頬印確認。"
-      }
+      "visualReview": "checked"
     },
     {
       "number": 23,
@@ -323,22 +269,24 @@
     {
       "number": 25,
       "title": "供述",
-      "sourceImage": "/home/kekoyana/.codex/generated_images/01a14a91-1e79-72b3-be70-8600a97ede31/exec-7819e241-54be-4709-8f12-dce398ad2a41.png",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a150bf-2343-7e02-a77e-0a63665a3379/exec-754932cd-32d6-4803-8e55-365eff0adcfc.png",
       "output": "public/assets/ch039/complete/p025.webp",
       "width": 1070,
       "height": 1470,
-      "sha256": "fcd6f300aa3d159503015d47338db0fb5eb159e86eb1b4ac7196c7305163721e",
-      "pixelMatch": true
+      "sha256": "c522369baaa62d11cadc465f4a0dc806e50696a21a5264a782972e11e27b2e86",
+      "pixelMatch": true,
+      "visualReview": "checked"
     },
     {
       "number": 26,
       "title": "死囚牢",
-      "sourceImage": "/home/kekoyana/.codex/generated_images/01a14a91-1e79-72b3-be70-8600a97ede31/exec-4fe572ad-01bc-4f95-be0f-5ab826c79ad0.png",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a150bf-2343-7e02-a77e-0a63665a3379/exec-3854d32a-f5d6-4d7f-9ae5-5914c7743974.png",
       "output": "public/assets/ch039/complete/p026.webp",
       "width": 1070,
       "height": 1470,
-      "sha256": "af7bf5dbaa70a2fe3148624bf1cd630647627c49a7bf26de2ac76555ac83352b",
-      "pixelMatch": true
+      "sha256": "0562b5aa30fbdfbf5ab0ac1a8865b2556d922f628c25e0eae37f0333d433e7a2",
+      "pixelMatch": true,
+      "visualReview": "checked"
     },
     {
       "number": 27,
@@ -354,22 +302,24 @@
     {
       "number": 28,
       "title": "二つの信籠",
-      "sourceImage": "/home/kekoyana/.codex/generated_images/01a14a91-1e79-72b3-be70-8600a97ede31/exec-1f2d4225-1a1b-47f6-8aed-c0206c1b9dba.png",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a150bf-2343-7e02-a77e-0a63665a3379/exec-a8347388-fcc5-47a7-8538-d158de337b0f.png",
       "output": "public/assets/ch039/complete/p028.webp",
       "width": 1070,
       "height": 1470,
-      "sha256": "3d7d114c46a8db9d7bc23dc8b678e073c6e6049663b5edcf5457fd96e7f0c2c5",
-      "pixelMatch": true
+      "sha256": "ed77f625afbebd9bf3108a22000dcfd7577e8a956b6aefb823f8bc3e2673ca72",
+      "pixelMatch": true,
+      "visualReview": "checked"
     },
     {
       "number": 29,
       "title": "李逵の約束",
-      "sourceImage": "/home/kekoyana/.codex/generated_images/01a14a91-1e79-72b3-be70-8600a97ede31/exec-6abfd829-1260-43c4-896b-e45c7f8c44b9.png",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a150bf-2343-7e02-a77e-0a63665a3379/exec-b42d9c01-3c3d-47be-89df-8504ceba6028.png",
       "output": "public/assets/ch039/complete/p029.webp",
       "width": 1070,
       "height": 1470,
-      "sha256": "4d1d2cd41512f64fb4673da3f9e3ed7b853e20fdc5755b45e1cdeb5c686539a4",
-      "pixelMatch": true
+      "sha256": "2f49edb0c9839e589c29efa291797f21079ff17c1585cf67e21b03c53ac825bc",
+      "pixelMatch": true,
+      "visualReview": "checked"
     },
     {
       "number": 30,
@@ -418,12 +368,13 @@
     {
       "number": 34,
       "title": "宣牌",
-      "sourceImage": "/home/kekoyana/.codex/generated_images/01a14a91-1e79-72b3-be70-8600a97ede31/exec-98b56ca1-3255-46d3-b4c8-4f5e52d0f741.png",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a150bf-2343-7e02-a77e-0a63665a3379/exec-8d72fa14-79f5-4180-b9d2-5e9ddf99e50d.png",
       "output": "public/assets/ch039/complete/p034.webp",
       "width": 1070,
       "height": 1470,
-      "sha256": "3a11c5db05693d247e8314c989be5f2031d54adbc9cd6a871ab5e040605218e6",
-      "pixelMatch": true
+      "sha256": "6c6eac7cfbcfb8c7bf2db4f17131750773109797d82cda6ce8093f36838a74d1",
+      "pixelMatch": true,
+      "visualReview": "checked"
     },
     {
       "number": 35,
@@ -435,6 +386,336 @@
       "sha256": "f65042195988827f79f0a9153ecaac4871f822ca8cf643ff3b8d010322c8630c",
       "pixelMatch": true,
       "visualReview": "checked"
+    },
+    {
+      "number": 36,
+      "title": "梁山へ",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a150bf-2343-7e02-a77e-0a63665a3379/exec-bd743659-d91b-46a4-8647-a2eccfecea04.png",
+      "output": "public/assets/ch039/complete/p036.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "1454381b9accd544a706a42069499a8cf0f343fdde71adf3dda0eb7f045b7c61",
+      "pixelMatch": true,
+      "visualReview": "checked"
+    },
+    {
+      "number": 37,
+      "title": "救出を相談",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a150bf-2343-7e02-a77e-0a63665a3379/exec-e41d3197-9df9-4f23-9bac-dd37e50be787.png",
+      "output": "public/assets/ch039/complete/p037.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "9a05791280a4f455be6066aa24f46d0f9fd576fe88245f44ea232cf92558e33a",
+      "pixelMatch": true,
+      "visualReview": "checked"
+    },
+    {
+      "number": 38,
+      "title": "二人の名人",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a150bf-2343-7e02-a77e-0a63665a3379/exec-7877d49a-64d5-4d82-afff-b9d4a681fc71.png",
+      "output": "public/assets/ch039/complete/p038.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "066a14eedc7129bd2adb37833ed1460896d1ef502b7d16bf5e916292e7fd3ee9",
+      "pixelMatch": true,
+      "visualReview": "checked"
+    },
+    {
+      "number": 39,
+      "title": "蕭譲を訪ねて",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a150bf-2343-7e02-a77e-0a63665a3379/exec-0c5e1dbd-a7b4-4055-864f-0441b3f78b7f.png",
+      "output": "public/assets/ch039/complete/p039.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "413266a5c708b944d9c2e50334543107732804d3f6e14c355aeb248adc43b1e9",
+      "pixelMatch": true,
+      "visualReview": "checked"
+    },
+    {
+      "number": 40,
+      "title": "金大堅",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a150bf-2343-7e02-a77e-0a63665a3379/exec-0475f769-25c3-4177-9541-a8885bba2dd8.png",
+      "output": "public/assets/ch039/complete/p040.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "12fe3292fa99ad232436e6144f66d202b2d085dab428e8a29777c1bc31d12a34",
+      "pixelMatch": true,
+      "visualReview": "checked"
+    },
+    {
+      "number": 41,
+      "title": "道の一行",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a150bf-2343-7e02-a77e-0a63665a3379/exec-9dc3169f-c740-472e-9502-2971796a8ef2.png",
+      "output": "public/assets/ch039/complete/p041.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "20d10a796c268e05d892e0d91003b3c32308dd5a68f672fb3d1661e83b370c02",
+      "pixelMatch": true,
+      "visualReview": "checked"
+    },
+    {
+      "number": 42,
+      "title": "囲まれて",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a150bf-2343-7e02-a77e-0a63665a3379/exec-df86e755-9aac-459f-b078-9ebdf2ebed55.png",
+      "output": "public/assets/ch039/complete/p042.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "417c65af048ddbeca3b828d509476caabb2cd42ee895ad9059b007ac453330a6",
+      "pixelMatch": true,
+      "visualReview": "checked"
+    },
+    {
+      "number": 43,
+      "title": "山寨への招き",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a150bf-2343-7e02-a77e-0a63665a3379/exec-ab322026-5784-447c-9224-8c3f4c035d1b.png",
+      "output": "public/assets/ch039/complete/p043.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "f33cfc44492fab300963f515e91f551065365762c94dc42ac6cd8a8aa19748eb",
+      "pixelMatch": true,
+      "visualReview": "checked"
+    },
+    {
+      "number": 44,
+      "title": "家族まで",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a14a91-1e79-72b3-be70-8600a97ede31/exec-4ebc43f3-52e4-4ae2-94e8-d18738c13557.png",
+      "output": "public/assets/ch039/complete/p044.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "48be65f8aa7abfa7ae87889d4108335d7d8d1436ce7b6a557eeb8c74bfa791ee",
+      "pixelMatch": true,
+      "visualReview": "checked"
+    },
+    {
+      "number": 45,
+      "title": "偽の返書",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a150bf-2343-7e02-a77e-0a63665a3379/exec-c03aec5e-e5d7-4fab-937c-cb533a5b2c7c.png",
+      "output": "public/assets/ch039/complete/p045.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "4d5bc9e35a352c87762c040cd706230b4256881613cbacc50525831f923ceded",
+      "pixelMatch": true,
+      "visualReview": "checked"
+    },
+    {
+      "number": 46,
+      "title": "出発",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a150bf-2343-7e02-a77e-0a63665a3379/exec-a673103b-e028-465e-9d81-f281653ef77b.png",
+      "output": "public/assets/ch039/complete/p046.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "184ffb970ecce8f0afb669306e915a95b56f7ab6a377ac334e52e53a989b6997",
+      "pixelMatch": true,
+      "visualReview": "checked"
+    },
+    {
+      "number": 47,
+      "title": "取り返しのつかぬ誤り",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a150bf-2343-7e02-a77e-0a63665a3379/exec-e3551e32-52dd-444d-b21c-617d9e6e6cea.png",
+      "output": "public/assets/ch039/complete/p047.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "1a6ece4c35b0725162cb8db8c6176f7d4a1431de13a8b927c4e8887a7a8d674f",
+      "pixelMatch": true,
+      "visualReview": "checked"
+    }
+  ],
+  "previousVersions": [
+    {
+      "number": 2,
+      "title": "張順の心",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a14a91-1e79-72b3-be70-8600a97ede31/exec-e4800c4c-9f09-451a-b6b6-530a35eff42b.png",
+      "output": "public/assets/ch039/complete/p002.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "cc0594bf3eaecdb8b4ded06514e3cac10729b0aaa8f46e4432ace170aab928ea",
+      "pixelMatch": true
+    },
+    {
+      "number": 11,
+      "title": "四句の詩",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a14a91-1e79-72b3-be70-8600a97ede31/exec-444f07ed-ad99-4d70-bb30-fd14485816ab.png",
+      "output": "public/assets/ch039/complete/p011.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "ba21b07a45c756bcce305d68a3aa43ac51d42ed8a556e8e86006fb5949327fd6",
+      "pixelMatch": true
+    },
+    {
+      "number": 1,
+      "title": "玉蓮を助けて",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a14a91-1e79-72b3-be70-8600a97ede31/exec-38fa1b5b-7494-4170-a383-42e812e641ef.png",
+      "output": "public/assets/ch039/complete/p001.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "92a7dc2449d6676982b9698e2fc33c37be311df4d1a269279acf52e508e90ee5",
+      "pixelMatch": true,
+      "visualReview": {
+        "status": "repair_pending",
+        "notes": "ch039-repairs-pending参照"
+      }
+    },
+    {
+      "number": 2,
+      "title": "張順の心",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a14a91-1e79-72b3-be70-8600a97ede31/exec-80180d29-d742-4907-bd4d-45239aa37722.png",
+      "output": "public/assets/ch039/complete/p002.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "fe77025b915242cdc6b06c711be1f15d2aff74580820f0d1dccd01ef1cada9d0",
+      "pixelMatch": true,
+      "visualReview": {
+        "status": "repair_pending",
+        "notes": "ch039-repairs-pending参照"
+      }
+    },
+    {
+      "number": 3,
+      "title": "牢城営で",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a14a91-1e79-72b3-be70-8600a97ede31/exec-d15b4d48-9458-4790-8dad-fe631d3a1ce8.png",
+      "output": "public/assets/ch039/complete/p003.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "69f62e127fae4128ca633744f8cfeeba7363300459ae12e839ebd391b864bf2b",
+      "pixelMatch": true,
+      "visualReview": {
+        "status": "repair_pending",
+        "notes": "ch039-repairs-pending参照"
+      }
+    },
+    {
+      "number": 4,
+      "title": "魚を食べすぎて",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a14a91-1e79-72b3-be70-8600a97ede31/exec-770f7652-5cab-4b28-a720-538912a50bce.png",
+      "output": "public/assets/ch039/complete/p004.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "e1cbe628b23b3f5bf9fee5f8ceb4bc1baac8f8b06476e55062ce6cb163d16ade",
+      "pixelMatch": true,
+      "visualReview": {
+        "status": "repair_pending",
+        "notes": "ch039-repairs-pending参照"
+      }
+    },
+    {
+      "number": 5,
+      "title": "見舞いと快復",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a14a91-1e79-72b3-be70-8600a97ede31/exec-93aa28d2-a6d1-4f1a-9391-ac69b57234ec.png",
+      "output": "public/assets/ch039/complete/p005.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "735c24981bb13de6fcfa3d814c78d3b7b42f146bed25cbed7785d9301435a075",
+      "pixelMatch": true,
+      "visualReview": {
+        "status": "repair_pending",
+        "notes": "ch039-repairs-pending参照"
+      }
+    },
+    {
+      "number": 7,
+      "title": "名高い楼",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a14a91-1e79-72b3-be70-8600a97ede31/exec-fd0ced88-9d37-439a-b2f3-90a086b631be.png",
+      "output": "public/assets/ch039/complete/p007.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "7819690e2bf472050789b7cefb9eab80afe0dc8320fea2d262e856be764016aa",
+      "pixelMatch": true,
+      "visualReview": {
+        "status": "repair_pending",
+        "notes": "ch039-repairs-pending参照"
+      }
+    },
+    {
+      "number": 14,
+      "title": "壁の文字",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a14a91-1e79-72b3-be70-8600a97ede31/exec-03588f91-b0d8-488d-92c7-5cbe4d5adcfa.png",
+      "output": "public/assets/ch039/complete/p014.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "e908cebb1f33cbe9c3c716aec5c64b4202311187d90dabd266427bacd39913c0",
+      "pixelMatch": true,
+      "visualReview": {
+        "status": "repair_pending",
+        "notes": "ch039-repairs-pending参照"
+      }
+    },
+    {
+      "number": 15,
+      "title": "密告の紙",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a14a91-1e79-72b3-be70-8600a97ede31/exec-e0d40011-c6e5-49d3-aafb-c93edb06ffca.png",
+      "output": "public/assets/ch039/complete/p015.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "88aa9904a3d818e69977f87ed9b6f788707fb0403448d17809026d16f2693ea4",
+      "pixelMatch": true,
+      "visualReview": {
+        "status": "repair_pending",
+        "notes": "ch039-repairs-pending参照"
+      }
+    },
+    {
+      "number": 17,
+      "title": "童謡の曲解",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a14a91-1e79-72b3-be70-8600a97ede31/exec-e0f920c2-de3f-46f8-833c-e196fedfc640.png",
+      "output": "public/assets/ch039/complete/p017.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "4ef470b1591f380c5d3bb02be22fe9b62e6e40cf5cd0ff9fcb1ca14fb635b77a",
+      "pixelMatch": true,
+      "visualReview": {
+        "status": "repair_pending",
+        "notes": "ch039-repairs-pending参照"
+      }
+    },
+    {
+      "number": 25,
+      "title": "供述",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a14a91-1e79-72b3-be70-8600a97ede31/exec-7819e241-54be-4709-8f12-dce398ad2a41.png",
+      "output": "public/assets/ch039/complete/p025.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "fcd6f300aa3d159503015d47338db0fb5eb159e86eb1b4ac7196c7305163721e",
+      "pixelMatch": true
+    },
+    {
+      "number": 26,
+      "title": "死囚牢",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a14a91-1e79-72b3-be70-8600a97ede31/exec-4fe572ad-01bc-4f95-be0f-5ab826c79ad0.png",
+      "output": "public/assets/ch039/complete/p026.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "af7bf5dbaa70a2fe3148624bf1cd630647627c49a7bf26de2ac76555ac83352b",
+      "pixelMatch": true
+    },
+    {
+      "number": 28,
+      "title": "二つの信籠",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a14a91-1e79-72b3-be70-8600a97ede31/exec-1f2d4225-1a1b-47f6-8aed-c0206c1b9dba.png",
+      "output": "public/assets/ch039/complete/p028.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "3d7d114c46a8db9d7bc23dc8b678e073c6e6049663b5edcf5457fd96e7f0c2c5",
+      "pixelMatch": true
+    },
+    {
+      "number": 29,
+      "title": "李逵の約束",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a14a91-1e79-72b3-be70-8600a97ede31/exec-6abfd829-1260-43c4-896b-e45c7f8c44b9.png",
+      "output": "public/assets/ch039/complete/p029.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "4d1d2cd41512f64fb4673da3f9e3ed7b853e20fdc5755b45e1cdeb5c686539a4",
+      "pixelMatch": true
+    },
+    {
+      "number": 34,
+      "title": "宣牌",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a14a91-1e79-72b3-be70-8600a97ede31/exec-98b56ca1-3255-46d3-b4c8-4f5e52d0f741.png",
+      "output": "public/assets/ch039/complete/p034.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "3a11c5db05693d247e8314c989be5f2031d54adbc9cd6a871ab5e040605218e6",
+      "pixelMatch": true
     },
     {
       "number": 36,
@@ -517,17 +798,6 @@
       "pixelMatch": true
     },
     {
-      "number": 44,
-      "title": "家族まで",
-      "sourceImage": "/home/kekoyana/.codex/generated_images/01a14a91-1e79-72b3-be70-8600a97ede31/exec-4ebc43f3-52e4-4ae2-94e8-d18738c13557.png",
-      "output": "public/assets/ch039/complete/p044.webp",
-      "width": 1070,
-      "height": 1470,
-      "sha256": "48be65f8aa7abfa7ae87889d4108335d7d8d1436ce7b6a557eeb8c74bfa791ee",
-      "pixelMatch": true,
-      "visualReview": "checked"
-    },
-    {
       "number": 45,
       "title": "偽の返書",
       "sourceImage": "/home/kekoyana/.codex/generated_images/01a14a91-1e79-72b3-be70-8600a97ede31/exec-e0132bcb-1b45-4a3f-ab16-1e7ee2d68f2d.png",
@@ -559,84 +829,65 @@
       "sha256": "954e4d1ed0d7ff52b5d852bfc32212ba522fb96a2f1d4c6dab3e51610e11064f",
       "pixelMatch": true,
       "visualReview": "pending"
+    },
+    {
+      "number": 45,
+      "title": "偽の返書",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a150bf-2343-7e02-a77e-0a63665a3379/exec-ec935f6e-7dd8-42b5-bb8d-f302201d7509.png",
+      "output": "public/assets/ch039/complete/p045.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "30b2ea91d730a973022b36831159a0d81eb19d923fa3488af0c3d15096f07d19",
+      "pixelMatch": true
+    },
+    {
+      "number": 14,
+      "title": "壁の文字",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a150bf-2343-7e02-a77e-0a63665a3379/exec-282f223d-cf98-4f04-8eb9-d27d58581398.png",
+      "output": "public/assets/ch039/complete/p014.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "772e026df5b6719bbb6e09dc4b9132bc808556b4bcd5630e6be4b9ea0151fb06",
+      "pixelMatch": true,
+      "visualReview": "pending"
+    },
+    {
+      "number": 17,
+      "title": "童謡の曲解",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a150bf-2343-7e02-a77e-0a63665a3379/exec-233b1da8-7f88-4cfe-8de6-2c89aa011d14.png",
+      "output": "public/assets/ch039/complete/p017.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "14300ad97a32d5cea78c885d2c1ae562bbb35c91c1aaeeb328bb1d0ef6675ba9",
+      "pixelMatch": true
+    },
+    {
+      "number": 26,
+      "title": "死囚牢",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a150bf-2343-7e02-a77e-0a63665a3379/exec-cc63cb16-75ff-46a2-99c3-71592bd31fa8.png",
+      "output": "public/assets/ch039/complete/p026.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "59ec1c92447e234f8a56cd5d796cb19588af04537afae3228482463324844851",
+      "pixelMatch": true
+    },
+    {
+      "number": 17,
+      "title": "童謡の曲解",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a150bf-2343-7e02-a77e-0a63665a3379/exec-13f91a7c-0407-4ca3-8f92-e63ecf389317.png",
+      "output": "public/assets/ch039/complete/p017.webp",
+      "width": 1070,
+      "height": 1470,
+      "sha256": "f64e58a16934207bd4680c23367058a85c5d282fac9737f95508ca71dca3d26f",
+      "pixelMatch": true
     }
   ],
-  "previousVersions": [
-    {
-      "number": 2,
-      "title": "張順の心",
-      "sourceImage": "/home/kekoyana/.codex/generated_images/01a14a91-1e79-72b3-be70-8600a97ede31/exec-e4800c4c-9f09-451a-b6b6-530a35eff42b.png",
-      "output": "public/assets/ch039/complete/p002.webp",
-      "width": 1070,
-      "height": 1470,
-      "sha256": "cc0594bf3eaecdb8b4ded06514e3cac10729b0aaa8f46e4432ace170aab928ea",
-      "pixelMatch": true
-    },
-    {
-      "number": 11,
-      "title": "四句の詩",
-      "sourceImage": "/home/kekoyana/.codex/generated_images/01a14a91-1e79-72b3-be70-8600a97ede31/exec-444f07ed-ad99-4d70-bb30-fd14485816ab.png",
-      "output": "public/assets/ch039/complete/p011.webp",
-      "width": 1070,
-      "height": 1470,
-      "sha256": "ba21b07a45c756bcce305d68a3aa43ac51d42ed8a556e8e86006fb5949327fd6",
-      "pixelMatch": true
-    },
-    {
-      "number": 1,
-      "title": "玉蓮を助けて",
-      "sourceImage": "/home/kekoyana/.codex/generated_images/01a14a91-1e79-72b3-be70-8600a97ede31/exec-38fa1b5b-7494-4170-a383-42e812e641ef.png",
-      "output": "public/assets/ch039/complete/p001.webp",
-      "width": 1070,
-      "height": 1470,
-      "sha256": "92a7dc2449d6676982b9698e2fc33c37be311df4d1a269279acf52e508e90ee5",
-      "pixelMatch": true,
-      "visualReview": {
-        "status": "repair_pending",
-        "notes": "ch039-repairs-pending参照"
-      }
-    },
-    {
-      "number": 2,
-      "title": "張順の心",
-      "sourceImage": "/home/kekoyana/.codex/generated_images/01a14a91-1e79-72b3-be70-8600a97ede31/exec-80180d29-d742-4907-bd4d-45239aa37722.png",
-      "output": "public/assets/ch039/complete/p002.webp",
-      "width": 1070,
-      "height": 1470,
-      "sha256": "fe77025b915242cdc6b06c711be1f15d2aff74580820f0d1dccd01ef1cada9d0",
-      "pixelMatch": true,
-      "visualReview": {
-        "status": "repair_pending",
-        "notes": "ch039-repairs-pending参照"
-      }
-    },
-    {
-      "number": 3,
-      "title": "牢城営で",
-      "sourceImage": "/home/kekoyana/.codex/generated_images/01a14a91-1e79-72b3-be70-8600a97ede31/exec-d15b4d48-9458-4790-8dad-fe631d3a1ce8.png",
-      "output": "public/assets/ch039/complete/p003.webp",
-      "width": 1070,
-      "height": 1470,
-      "sha256": "69f62e127fae4128ca633744f8cfeeba7363300459ae12e839ebd391b864bf2b",
-      "pixelMatch": true,
-      "visualReview": {
-        "status": "repair_pending",
-        "notes": "ch039-repairs-pending参照"
-      }
-    },
-    {
-      "number": 4,
-      "title": "魚を食べすぎて",
-      "sourceImage": "/home/kekoyana/.codex/generated_images/01a14a91-1e79-72b3-be70-8600a97ede31/exec-770f7652-5cab-4b28-a720-538912a50bce.png",
-      "output": "public/assets/ch039/complete/p004.webp",
-      "width": 1070,
-      "height": 1470,
-      "sha256": "e1cbe628b23b3f5bf9fee5f8ceb4bc1baac8f8b06476e55062ce6cb163d16ade",
-      "pixelMatch": true,
-      "visualReview": {
-        "status": "repair_pending",
-        "notes": "ch039-repairs-pending参照"
-      }
-    }
-  ]
+  "cover": {
+    "sourceImage": "/home/kekoyana/.codex/generated_images/01a150bf-2343-7e02-a77e-0a63665a3379/exec-122a87aa-317c-405d-b9e2-900059252508.png",
+    "output": "public/assets/ch039/cover-0a1654d4962545f8.webp",
+    "width": 1070,
+    "height": 1470,
+    "sha256": "0a1654d4962545f812cbbbc6b0dc24755442ddee920e3c670fb423cb681416f5",
+    "pixelMatch": true
+  }
 }
