@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "title": "水滸伝 漫画書庫",
-  "completedThrough": 39,
-  "totalPages": 1472,
+  "completedThrough": 40,
+  "totalPages": 1512,
   "milestone": 20,
   "chapters": [
     {
@@ -319,10 +319,11 @@
     },
     {
       "number": 40,
-      "title": "第40回",
-      "status": "coming",
-      "pageCount": 0,
-      "cover": null
+      "title": "梁山泊の好漢、法場を劫す／白龍廟の英雄、小聚義",
+      "status": "complete",
+      "pageCount": 40,
+      "cover": "/assets/ch040/cover-3c17c3439f93f452.webp",
+      "manifest": "/data/ch040-c9c3a86a9442.json"
     },
     {
       "number": 41,
