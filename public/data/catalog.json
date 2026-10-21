@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "title": "水滸伝 漫画書庫",
-  "completedThrough": 40,
-  "totalPages": 1512,
+  "completedThrough": 41,
+  "totalPages": 1560,
   "milestone": 20,
   "chapters": [
     {
@@ -327,10 +327,11 @@
     },
     {
       "number": 41,
-      "title": "第41回",
-      "status": "coming",
-      "pageCount": 0,
-      "cover": null
+      "title": "宋江、無為軍を智取す／張順、黄文炳を生け捕る",
+      "status": "complete",
+      "pageCount": 48,
+      "cover": "/assets/ch041/cover-bfea221230e2a9b8.webp",
+      "manifest": "/data/ch041-d52438157148.json"
     },
     {
       "number": 42,

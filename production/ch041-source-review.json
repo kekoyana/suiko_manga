@@ -1,7 +1,7 @@
 {
   "chapter": 41,
   "source": "https://zh.wikisource.org/wiki/水滸傳_(120回本)/第041回",
-  "status": "full_source_read_outline_pending",
+  "status": "full_source_read_script_dialogue_checked",
   "readCoverage": "原典本文114〜156、全読了。139〜152も再取得して確認。",
   "checks": [
     "白龍廟から官軍迎撃、劉唐朱貴が宋江戴宗を舟へ、李俊張順三阮が船準備、花栄の矢で騎兵崩れ、三舟で穆家荘へ",
@@ -15,5 +15,9 @@
     "梁山で40首領、晁蓋一宋江二呉用三公孫勝四、旧人左新人右、後に功績で定める",
     "李逵皇帝発言戴宗叱責、黄安病死、信籠戴宗辞退公庫、住居増築、第三日宋江が下山願い行先を語る前回末"
   ],
-  "visualReview": "not_started"
+  "visualReview": "checked",
+  "reviewedOn": "2026-10-21",
+  "plannedPages": 48,
+  "verifiedBodyPages": 48,
+  "coverReview": "checked"
 }

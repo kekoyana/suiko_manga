@@ -1,0 +1,35 @@
+{
+  "chapter": 41,
+  "pending": [],
+  "nextBodyPage": null,
+  "unacceptedRepairAttempts": [
+    {
+      "page": 13,
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a15d7d-8236-7121-bc7e-4a42a127a3de/exec-637b2bff-3016-4c68-a824-985a4e2ecf73.png",
+      "reason": "晁蓋頭巾明るい茶色残留"
+    },
+    {
+      "page": 15,
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a15d7d-8236-7121-bc7e-4a42a127a3de/exec-1ae23161-4f44-4f60-a5e0-1bedb7cb9d75.png",
+      "reason": "白勝顎髭残留"
+    },
+    {
+      "page": 17,
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a15d7d-8236-7121-bc7e-4a42a127a3de/exec-162a8ee9-0200-49cc-906b-623cc02f7d15.png",
+      "reason": "頬印拡大要確認"
+    },
+    {
+      "page": 15,
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a15d7d-8236-7121-bc7e-4a42a127a3de/exec-95b3fe6a-5e9c-4a44-8db6-5631123f93bc.png",
+      "reason": "白勝顎先黒点残留、再確認"
+    },
+    {
+      "page": 17,
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a15d7d-8236-7121-bc7e-4a42a127a3de/exec-c983f640-b65d-4db7-8296-a550b1a7f683.png",
+      "reason": "頬印視認困難、未採用"
+    }
+  ],
+  "bodyPagesSaved": 48,
+  "previousQuotaResetAt": "2026-10-21T17:04:18+09:00",
+  "previousResumeReservationId": "fa0c5d00-25fa-44d0-a4b5-7764714db899"
+}
