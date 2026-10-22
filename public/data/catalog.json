@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "title": "水滸伝 漫画書庫",
-  "completedThrough": 41,
-  "totalPages": 1560,
+  "completedThrough": 42,
+  "totalPages": 1602,
   "milestone": 20,
   "chapters": [
     {
@@ -335,10 +335,11 @@
     },
     {
       "number": 42,
-      "title": "第42回",
-      "status": "coming",
-      "pageCount": 0,
-      "cover": null
+      "title": "還道村、三巻の天書を受く／宋公明、九天玄女に遇う",
+      "status": "complete",
+      "pageCount": 42,
+      "cover": "/assets/ch042/cover-51e5b6fa8e2aca68.webp",
+      "manifest": "/data/ch042-5fa804bcf620.json"
     },
     {
       "number": 43,
