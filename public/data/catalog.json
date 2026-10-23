@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "title": "水滸伝 漫画書庫",
-  "completedThrough": 42,
-  "totalPages": 1602,
+  "completedThrough": 43,
+  "totalPages": 1647,
   "milestone": 20,
   "chapters": [
     {
@@ -343,10 +343,11 @@
     },
     {
       "number": 43,
-      "title": "第43回",
-      "status": "coming",
-      "pageCount": 0,
-      "cover": null
+      "title": "偽李逵、山道で旅人を襲う／黒旋風、沂嶺で四虎を倒す",
+      "status": "complete",
+      "pageCount": 45,
+      "cover": "/assets/ch043/cover-6a0de46e4ac43dbe.webp",
+      "manifest": "/data/ch043-25001f38c167.json"
     },
     {
       "number": 44,

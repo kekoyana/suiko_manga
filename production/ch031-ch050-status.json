@@ -1,5 +1,5 @@
 {
-  "state": "chapter42_validation",
+  "state": "in_progress",
   "targetChapter": 50,
   "plannedPages": {
     "31": 32,
@@ -13,7 +13,8 @@
     "39": 47,
     "40": 40,
     "41": 48,
-    "42": 42
+    "42": 42,
+    "43": 45
   },
   "savedPages": {
     "31": 32,
@@ -27,16 +28,18 @@
     "39": 47,
     "40": 40,
     "41": 48,
-    "42": 42
+    "42": 42,
+    "43": 45
   },
-  "nextGeneration": "第43回脚本作成・本文1頁から",
+  "nextGeneration": "第43回検証公開後、第44〜50回の原典各回末まで継続",
   "imageTool": "built-in image_gen",
   "pendingRepairs": {
     "chapter": 37,
     "pages": [],
-    "38": []
+    "38": [],
+    "43": []
   },
-  "publication": "Chapters1–41 published;42–50 pending",
+  "publication": "Chapters1–42 published;43–50 pending",
   "remainingCovers": [],
   "repairPassSavedPages": [
     5,
@@ -74,8 +77,8 @@
     21,
     24
   ],
-  "publishedCommit": "1868021a09c7858fff8db407e7bfb4803c0a74d6",
-  "publishedWorkflow": 39600872513,
+  "publishedCommit": "b2f8da957f77fb94670da3087cc8d99c2651a8f9",
+  "publishedWorkflow": 39845927957,
   "published31AssetSha256Verified": true,
   "chapter32RepairFile": "production/ch032-repairs-pending.json",
   "sourceReview32": "production/ch032-source-review.json",
@@ -95,11 +98,11 @@
     "resumeReservationId": "40c7ca7a-a5df-4432-8cee-99a3fa59daf0",
     "status": "resumed; no new quota reached"
   },
-  "quotaResetAt": "2026-10-21T17:04:18+09:00",
-  "quotaResetUnix": 1792569858,
-  "resumeReservationId": "079f386c-e9b2-4c36-92df-741e3ec40027",
-  "nextAction": "第42回本文42頁と表紙修正目視完了。画素SHA43画像一致、目録登録・テスト・main/Pages公開後43〜50。",
-  "quotaLastConfirmedAt": "2026-10-15T23:00:55+09:00",
+  "quotaResetAt": "2026-10-24T00:12:12+09:00",
+  "quotaResetUnix": 1792768332,
+  "resumeReservationId": "8ee42704-38ff-49dc-a15e-71ed866c67b1",
+  "nextAction": "第43回検証公開後、第44〜50回の原典各回末まで継続",
+  "quotaLastConfirmedAt": "2026-10-23T07:02:29.529129+09:00",
   "quotaStatus": "resumed",
   "published34AssetSha256Verified": true,
   "savedPages35": 48,
@@ -120,8 +123,8 @@
   "script39": "production/ch039-pages.json",
   "script39State": "47_pages_cover_checked",
   "sourceReview40": "production/ch040-source-review.json",
-  "publishedThrough": 41,
-  "publishedTotalPages": 1560,
+  "publishedThrough": 42,
+  "publishedTotalPages": 1602,
   "published36AssetSha256Verified": true,
   "chapter37RepairFile": "production/ch037-repairs-pending.json",
   "published37AssetSha256Verified": true,
@@ -208,7 +211,7 @@
     39,
     40
   ],
-  "publishedActionsRun": 39483266900,
+  "publishedActionsRun": 39845927957,
   "publishedActionsConclusion": "success",
   "chapter40Validation": {
     "bodyPages": 40,
@@ -275,5 +278,10 @@
   "chapter41RepairFile": "production/ch041-repairs-pending.json",
   "published41AssetSha256Verified": true,
   "savedPages42": 42,
-  "productionResumeAt": "2026-10-23T02:13:01+09:00"
+  "productionResumeAt": "2026-10-24T00:12:12+09:00",
+  "totalPublishedBodyPages": 1602,
+  "published42AssetSha256Verified": true,
+  "mainCommit": "b2f8da957f77fb94670da3087cc8d99c2651a8f9",
+  "actionsRun": 39845927957,
+  "savedPages43": 45
 }
