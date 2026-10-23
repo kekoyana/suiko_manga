@@ -14,7 +14,8 @@
     "40": 40,
     "41": 48,
     "42": 42,
-    "43": 45
+    "43": 45,
+    "44": 38
   },
   "savedPages": {
     "31": 32,
@@ -29,9 +30,10 @@
     "40": 40,
     "41": 48,
     "42": 42,
-    "43": 45
+    "43": 45,
+    "44": 6
   },
-  "nextGeneration": "第43回検証公開後、第44〜50回の原典各回末まで継続",
+  "nextGeneration": "第44回7頁から回末38頁、pending修正・表紙検証公開後45〜50回末まで",
   "imageTool": "built-in image_gen",
   "pendingRepairs": {
     "chapter": 37,
@@ -39,7 +41,7 @@
     "38": [],
     "43": []
   },
-  "publication": "Chapters1–42 published;43–50 pending",
+  "publication": "Chapters1–43 published;44–50 pending",
   "remainingCovers": [],
   "repairPassSavedPages": [
     5,
@@ -101,7 +103,7 @@
   "quotaResetAt": "2026-10-24T00:12:12+09:00",
   "quotaResetUnix": 1792768332,
   "resumeReservationId": "8ee42704-38ff-49dc-a15e-71ed866c67b1",
-  "nextAction": "第43回検証公開後、第44〜50回の原典各回末まで継続",
+  "nextAction": "第44回7頁から回末38頁、pending修正・表紙検証公開後45〜50回末まで",
   "quotaLastConfirmedAt": "2026-10-23T07:02:29.529129+09:00",
   "quotaStatus": "resumed",
   "published34AssetSha256Verified": true,
@@ -123,7 +125,7 @@
   "script39": "production/ch039-pages.json",
   "script39State": "47_pages_cover_checked",
   "sourceReview40": "production/ch040-source-review.json",
-  "publishedThrough": 42,
+  "publishedThrough": 43,
   "publishedTotalPages": 1602,
   "published36AssetSha256Verified": true,
   "chapter37RepairFile": "production/ch037-repairs-pending.json",
@@ -283,5 +285,12 @@
   "published42AssetSha256Verified": true,
   "mainCommit": "b2f8da957f77fb94670da3087cc8d99c2651a8f9",
   "actionsRun": 39845927957,
-  "savedPages43": 45
+  "savedPages43": 45,
+  "latestPublication": {
+    "chapter": 43,
+    "commit": "774c37dd8e4f4df596332c82d6d66b96d37172a3",
+    "actionsRun": 39994012219,
+    "publicFilesVerified": 48,
+    "totalPages": 1647
+  }
 }
