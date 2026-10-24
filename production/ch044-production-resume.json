@@ -1,0 +1,32 @@
+{
+  "checkedAt": "2026-10-24T06:05:20.525760+09:00",
+  "status": "registered_and_list_verified",
+  "quotaReached": true,
+  "quotaError": {
+    "httpStatus": 429,
+    "type": "usage_limit_reached",
+    "resets_at": 1792854950,
+    "resets_in_seconds": 65509
+  },
+  "runAt": "2026-10-25T00:15:50+09:00",
+  "reservationId": "b01105d5-e982-488d-9dc1-ca6ae68cbf3c",
+  "enabled": true,
+  "nextRun": "2026-10-24T15:15:50.000Z",
+  "nextPage": 41,
+  "savedBodyPages": 41,
+  "checkedBodyPages": 40,
+  "remainingBodyPages": [
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50
+  ],
+  "pendingRepairsFile": "production/ch044-repairs-pending.json",
+  "publishedThrough": 43,
+  "publishedBodyPages": 1647
+}

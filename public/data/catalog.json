@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "title": "水滸伝 漫画書庫",
-  "completedThrough": 43,
-  "totalPages": 1647,
+  "completedThrough": 44,
+  "totalPages": 1697,
   "milestone": 20,
   "chapters": [
     {
@@ -351,10 +351,11 @@
     },
     {
       "number": 44,
-      "title": "第44回",
-      "status": "coming",
-      "pageCount": 0,
-      "cover": null
+      "title": "錦豹子、小径で戴宗に会う／病関索、長街で石秀に出会う",
+      "status": "complete",
+      "pageCount": 50,
+      "cover": "/assets/ch044/cover-40e1bbad9629bf21.webp",
+      "manifest": "/data/ch044-1d6ed605e084.json"
     },
     {
       "number": 45,
