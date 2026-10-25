@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "title": "水滸伝 漫画書庫",
-  "completedThrough": 44,
-  "totalPages": 1697,
+  "completedThrough": 45,
+  "totalPages": 1748,
   "milestone": 20,
   "chapters": [
     {
@@ -359,10 +359,11 @@
     },
     {
       "number": 45,
-      "title": "第45回",
-      "status": "coming",
-      "pageCount": 0,
-      "cover": null
+      "title": "楊雄、酔って潘巧雲を罵る／石秀、智をもって裴如海を殺す",
+      "status": "complete",
+      "pageCount": 51,
+      "cover": "/assets/ch045/cover-bf52d1a942a1a420.webp",
+      "manifest": "/data/ch045-c88ec0d3757f.json"
     },
     {
       "number": 46,
