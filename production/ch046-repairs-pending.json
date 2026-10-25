@@ -1,0 +1,17 @@
+{
+  "chapter": 46,
+  "pages": [
+    {
+      "number": 2,
+      "issue": "原典は州橋路上で石秀から呼び止め、宿へ案内する。脚本訂正済み再生成待ち。",
+      "state": "saved_pixel_and_visual_checked",
+      "replacement": "/home/kekoyana/.codex/generated_images/01a16eff-5059-7220-a4d6-c16a67ee2d7f/exec-8dcd537c-7f16-4067-a961-e70f09cc6010.png"
+    },
+    {
+      "number": 3,
+      "issue": "翠花修正生成・目視済み、readerテスト完了後保存待ち",
+      "replacement": "/home/kekoyana/.codex/generated_images/01a16eff-5059-7220-a4d6-c16a67ee2d7f/exec-3c3182a4-a7b9-4d02-af65-2bc475636538.png",
+      "state": "saved_pixel_and_visual_checked"
+    }
+  ]
+}

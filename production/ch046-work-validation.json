@@ -1,0 +1,81 @@
+{
+  "chapter": 46,
+  "state": "incomplete",
+  "savedBodyPages": 8,
+  "plannedBodyPages": 51,
+  "cover": false,
+  "nextPage": 9,
+  "checkedAt": "2026-10-26T00:01:51.537989+09:00",
+  "assets": [
+    {
+      "number": 1,
+      "path": "public/assets/ch046/complete/p001.webp",
+      "sha256": "902501a9b708f44336b2b3249d03824d661f51f1a1331392ddf38026195333f1",
+      "bytes": 1990616,
+      "pixelMatch": true,
+      "visualReview": "checked"
+    },
+    {
+      "number": 2,
+      "path": "public/assets/ch046/complete/p002.webp",
+      "sha256": "9e9b7af2efabf6b96c1d8602f4089e419206167e4efc5fd3b1606a36d29f95ec",
+      "bytes": 2267798,
+      "pixelMatch": true,
+      "visualReview": "checked"
+    },
+    {
+      "number": 3,
+      "path": "public/assets/ch046/complete/p003.webp",
+      "sha256": "fe1ea4e260dd85692c262ebc43ff517e75b8f4cf2f1980acb30941bba5e7cd86",
+      "bytes": 1931064,
+      "pixelMatch": true,
+      "visualReview": "checked"
+    },
+    {
+      "number": 4,
+      "path": "public/assets/ch046/complete/p004.webp",
+      "sha256": "e1bbb81ae4f912b2916e60ee611ce1c99dae02f0a7bf1dfee21959131cc69cd8",
+      "bytes": 2279558,
+      "pixelMatch": true,
+      "visualReview": "checked"
+    },
+    {
+      "number": 5,
+      "path": "public/assets/ch046/complete/p005.webp",
+      "sha256": "d2db4c22bf615e1a90db51f8bacf8ad0695c3527bd22c30286815a85aad87ec7",
+      "bytes": 2256336,
+      "pixelMatch": true,
+      "visualReview": "checked"
+    },
+    {
+      "number": 6,
+      "path": "public/assets/ch046/complete/p006.webp",
+      "sha256": "fea9ef60e2200ce58374f9c0c47c57216c730290e7b8049ca67d014d0f56b876",
+      "bytes": 2158486,
+      "pixelMatch": true,
+      "visualReview": "checked"
+    },
+    {
+      "number": 7,
+      "path": "public/assets/ch046/complete/p007.webp",
+      "sha256": "c4c29b8884aef5051f00247018dfae6073d0d22f681d60db6c3a843b4ef05695",
+      "bytes": 2425264,
+      "pixelMatch": true,
+      "visualReview": "checked"
+    },
+    {
+      "number": 8,
+      "path": "public/assets/ch046/complete/p008.webp",
+      "sha256": "7292476e9c102036086a488d6a6d63e81fa82dfa7b01222f95b358146ffd2371",
+      "bytes": 2732088,
+      "pixelMatch": true,
+      "visualReview": "checked"
+    }
+  ],
+  "quota": {
+    "resetAt": "2026-10-26T00:18:10+09:00",
+    "resetUnix": 1792941490,
+    "reservationId": "5550f3c2-c2bb-4c0c-936f-490b76628c85",
+    "enabledListVerified": true
+  }
+}

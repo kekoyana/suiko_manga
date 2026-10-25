@@ -1,0 +1,213 @@
+{
+  "chapter": 46,
+  "plannedPages": 51,
+  "pages": [
+    {
+      "number": 1,
+      "title": "僧二人の事件"
+    },
+    {
+      "number": 2,
+      "title": "州橋の再会"
+    },
+    {
+      "number": 3,
+      "title": "兄の謝罪"
+    },
+    {
+      "number": 4,
+      "title": "衣服の証拠"
+    },
+    {
+      "number": 5,
+      "title": "翠屏山で対決を"
+    },
+    {
+      "number": 6,
+      "title": "夢の願掛け"
+    },
+    {
+      "number": 7,
+      "title": "香紙と駕籠"
+    },
+    {
+      "number": 8,
+      "title": "半山で降りる"
+    },
+    {
+      "number": 9,
+      "title": "古墓の石秀"
+    },
+    {
+      "number": 10,
+      "title": "無実を問いただす"
+    },
+    {
+      "number": 11,
+      "title": "包みの証拠"
+    },
+    {
+      "number": 12,
+      "title": "迎児の告白"
+    },
+    {
+      "number": 13,
+      "title": "香卓の暗号"
+    },
+    {
+      "number": 14,
+      "title": "買収の首飾り"
+    },
+    {
+      "number": 15,
+      "title": "巧雲の白状"
+    },
+    {
+      "number": 16,
+      "title": "石秀への濡れ衣"
+    },
+    {
+      "number": 17,
+      "title": "怒りの刃"
+    },
+    {
+      "number": 18,
+      "title": "山の静寂"
+    },
+    {
+      "number": 19,
+      "title": "梁山へ向かう"
+    },
+    {
+      "number": 20,
+      "title": "戴宗の銀"
+    },
+    {
+      "number": 21,
+      "title": "帰宅を止める"
+    },
+    {
+      "number": 22,
+      "title": "松の後ろの男"
+    },
+    {
+      "number": 23,
+      "title": "鼓上蚤時遷"
+    },
+    {
+      "number": 24,
+      "title": "古墓を掘る男"
+    },
+    {
+      "number": 25,
+      "title": "三人の旅"
+    },
+    {
+      "number": 26,
+      "title": "暮れまで待つ轎夫"
+    },
+    {
+      "number": 27,
+      "title": "潘公への急報"
+    },
+    {
+      "number": 28,
+      "title": "検視と追捕"
+    },
+    {
+      "number": 29,
+      "title": "独龍山の宿"
+    },
+    {
+      "number": 30,
+      "title": "五升の米"
+    },
+    {
+      "number": 31,
+      "title": "髪飾りと酒"
+    },
+    {
+      "number": 32,
+      "title": "軒下の朴刀"
+    },
+    {
+      "number": 33,
+      "title": "祝家荘の備え"
+    },
+    {
+      "number": 34,
+      "title": "売れない武器"
+    },
+    {
+      "number": 35,
+      "title": "鶏を出す時遷"
+    },
+    {
+      "number": 36,
+      "title": "本行は変わらず"
+    },
+    {
+      "number": 37,
+      "title": "消えた報暁鶏"
+    },
+    {
+      "number": 38,
+      "title": "弁償を拒む店"
+    },
+    {
+      "number": 39,
+      "title": "梁山の名"
+    },
+    {
+      "number": 40,
+      "title": "店の騒動"
+    },
+    {
+      "number": 41,
+      "title": "三本の朴刀"
+    },
+    {
+      "number": 42,
+      "title": "燃える祝家店"
+    },
+    {
+      "number": 43,
+      "title": "二更の逃走"
+    },
+    {
+      "number": 44,
+      "title": "百人の松明"
+    },
+    {
+      "number": 45,
+      "title": "追手との戦い"
+    },
+    {
+      "number": 46,
+      "title": "鉤に捕まる時遷"
+    },
+    {
+      "number": 47,
+      "title": "救いを阻む鉤"
+    },
+    {
+      "number": 48,
+      "title": "東へ逃れる"
+    },
+    {
+      "number": 49,
+      "title": "夜明けの酒屋"
+    },
+    {
+      "number": 50,
+      "title": "茶褐衣の男"
+    },
+    {
+      "number": 51,
+      "title": "恩人との再会"
+    }
+  ],
+  "sourceReview": "production/ch046-source-review.json",
+  "state": "outline_ready",
+  "endBoundary": "楊雄が茶褐衣の男を呼び止め、男が楊雄を認めて跪拝する。正体の説明は47回。"
+}

@@ -1,0 +1,34 @@
+{
+  "chapter": 46,
+  "nextPage": 9,
+  "error": "429 usage_limit_reached",
+  "resetUnix": 1792941490,
+  "resetAt": "2026-10-26T00:18:10+09:00",
+  "reservationId": "5550f3c2-c2bb-4c0c-936f-490b76628c85",
+  "enabled": true,
+  "registrationConfirmed": true,
+  "checkedAt": "2026-10-25T23:51:23.533951+09:00",
+  "savedBodyPages": 8,
+  "pendingSavePages": [],
+  "futureScripts": {
+    "47": {
+      "pages": 38,
+      "state": "ready"
+    },
+    "48": {
+      "pages": 40,
+      "state": "source_rechecked_draft"
+    },
+    "49": {
+      "pages": 42,
+      "state": "source_rechecked_draft"
+    },
+    "50": {
+      "pages": 45,
+      "state": "source_rechecked_draft"
+    }
+  },
+  "mainChapter45Commit": "abbaf31272a96b88dd98f66af489a29d4687de24",
+  "mainChapter45ActionsRun": 40204726113,
+  "chapter45Publication": "verified_54_public_files_sha_bytes_match"
+}

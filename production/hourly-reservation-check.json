@@ -1,0 +1,1266 @@
+{
+  "checkedAt": "2026-10-25T23:25:59+09:00",
+  "reservationId": "9960d146-ad20-4573-94be-6b8d2f8b768e",
+  "nextCheckAt": "2026-10-26T00:25:59+09:00",
+  "mode": "once-chain-hourly",
+  "confirmed": true,
+  "productionResumeReservationStatus": "registered_list_verified",
+  "productionResumeReservationId": "5550f3c2-c2bb-4c0c-936f-490b76628c85",
+  "productionResumeAt": "2026-10-26T00:18:10+09:00",
+  "productionReservationsBeforeCheck": 0,
+  "progress": {
+    "publishedThrough": 45,
+    "publishedTotalPages": 1748,
+    "chapter45SavedBodyPages": 51,
+    "chapter45Cover": true,
+    "chapter45Publication": "verified",
+    "chapter46GeneratedPendingSave": 0,
+    "chapter46SavedBodyPages": 8
+  },
+  "progressChangedSincePreviousCheck": true,
+  "history": [
+    {
+      "reservationId": "258ac701-3093-4a80-9802-da5f5676965e",
+      "nextCheckAt": "2026-10-22T02:53:13+09:00",
+      "mode": "once-chain-hourly",
+      "confirmed": true
+    },
+    {
+      "checkedAt": "2026-10-22T02:53:54+09:00",
+      "reservationId": "ae519147-c83e-4de5-871e-07a1df607138",
+      "nextCheckAt": "2026-10-22T03:53:54+09:00",
+      "mode": "once-chain-hourly",
+      "confirmed": true,
+      "productionResumeReservationStatus": "unverifiable: no reservation-list tool; latest local production reservation is past",
+      "progress": {
+        "publishedThrough": 41,
+        "publishedTotalPages": 1560,
+        "chapter42SavedBodyPages": 14,
+        "pendingRepairs": [
+          11,
+          12,
+          13
+        ],
+        "chapter42ReviewedBodyPages": 10
+      }
+    },
+    {
+      "checkedAt": "2026-10-22T03:54:27+09:00",
+      "reservationId": "8125fe3f-3088-4e4e-a94f-e95f80226f0c",
+      "nextCheckAt": "2026-10-22T04:54:27+09:00",
+      "mode": "once-chain-hourly",
+      "confirmed": true,
+      "productionResumeReservationStatus": "unverifiable: no reservation-list tool; latest local production reservation is past",
+      "progress": {
+        "publishedThrough": 41,
+        "publishedTotalPages": 1560,
+        "chapter42SavedBodyPages": 14,
+        "pendingRepairs": [
+          11,
+          12,
+          13
+        ],
+        "chapter42ReviewedBodyPages": 10
+      },
+      "progressChangedSincePreviousCheck": false
+    },
+    {
+      "checkedAt": "2026-10-22T04:54:52+09:00",
+      "reservationId": "35efef19-2c3a-49e5-8784-87a563e90992",
+      "nextCheckAt": "2026-10-22T05:54:52+09:00",
+      "mode": "once-chain-hourly",
+      "confirmed": true,
+      "productionResumeReservationStatus": "unverifiable: no reservation-list tool; latest local production reservation is past",
+      "progress": {
+        "publishedThrough": 41,
+        "publishedTotalPages": 1560,
+        "chapter42SavedBodyPages": 14,
+        "pendingRepairs": [
+          11,
+          12,
+          13
+        ],
+        "chapter42ReviewedBodyPages": 10
+      },
+      "progressChangedSincePreviousCheck": false
+    },
+    {
+      "checkedAt": "2026-10-22T05:55:23+09:00",
+      "reservationId": "52356e03-83cb-415d-b5b0-a3b5e729f61c",
+      "nextCheckAt": "2026-10-22T06:55:23+09:00",
+      "mode": "once-chain-hourly",
+      "confirmed": true,
+      "productionResumeReservationStatus": "unverifiable: no reservation-list tool; latest local production reservation is past",
+      "progress": {
+        "publishedThrough": 41,
+        "publishedTotalPages": 1560,
+        "chapter42SavedBodyPages": 14,
+        "pendingRepairs": [
+          11,
+          12,
+          13
+        ],
+        "chapter42ReviewedBodyPages": 10
+      },
+      "progressChangedSincePreviousCheck": false
+    },
+    {
+      "checkedAt": "2026-10-22T06:55:57+09:00",
+      "reservationId": "6526b81b-72d0-40eb-bec1-3478125bdadf",
+      "nextCheckAt": "2026-10-22T07:55:57+09:00",
+      "mode": "once-chain-hourly",
+      "confirmed": true,
+      "productionResumeReservationStatus": "unverifiable: no reservation-list tool; latest local production reservation is past",
+      "progress": {
+        "publishedThrough": 41,
+        "publishedTotalPages": 1560,
+        "chapter42SavedBodyPages": 14,
+        "pendingRepairs": [
+          11,
+          12,
+          13
+        ],
+        "chapter42ReviewedBodyPages": 10
+      },
+      "progressChangedSincePreviousCheck": false
+    },
+    {
+      "checkedAt": "2026-10-22T07:56:29+09:00",
+      "reservationId": "b0228f90-74c9-4a49-b4db-cf96cf1031c2",
+      "nextCheckAt": "2026-10-22T08:56:29+09:00",
+      "mode": "once-chain-hourly",
+      "confirmed": true,
+      "productionResumeReservationStatus": "unverifiable: no reservation-list tool; latest local production reservation is past",
+      "progress": {
+        "publishedThrough": 41,
+        "publishedTotalPages": 1560,
+        "chapter42SavedBodyPages": 14,
+        "pendingRepairs": [
+          11,
+          12,
+          13
+        ],
+        "chapter42ReviewedBodyPages": 10
+      },
+      "progressChangedSincePreviousCheck": false
+    },
+    {
+      "checkedAt": "2026-10-22T08:56:58+09:00",
+      "reservationId": "42edccc4-531e-4aa0-af65-b2c711671186",
+      "nextCheckAt": "2026-10-22T09:56:58+09:00",
+      "mode": "once-chain-hourly",
+      "confirmed": true,
+      "productionResumeReservationStatus": "unverifiable: no reservation-list tool; latest local production reservation is past",
+      "progress": {
+        "publishedThrough": 41,
+        "publishedTotalPages": 1560,
+        "chapter42SavedBodyPages": 14,
+        "pendingRepairs": [
+          11,
+          12,
+          13
+        ],
+        "chapter42ReviewedBodyPages": 10
+      },
+      "progressChangedSincePreviousCheck": false
+    },
+    {
+      "checkedAt": "2026-10-22T09:57:23+09:00",
+      "reservationId": "5d88ebc5-b09e-4449-b043-59c1c2b1aefb",
+      "nextCheckAt": "2026-10-22T10:57:23+09:00",
+      "mode": "once-chain-hourly",
+      "confirmed": true,
+      "productionResumeReservationStatus": "unverifiable: no reservation-list tool; latest local production reservation is past",
+      "progress": {
+        "publishedThrough": 41,
+        "publishedTotalPages": 1560,
+        "chapter42SavedBodyPages": 14,
+        "pendingRepairs": [
+          11,
+          12,
+          13
+        ],
+        "chapter42ReviewedBodyPages": 10
+      },
+      "progressChangedSincePreviousCheck": false
+    },
+    {
+      "checkedAt": "2026-10-22T10:57:57+09:00",
+      "reservationId": "4ab05183-762d-4466-a1ec-b758033d926e",
+      "nextCheckAt": "2026-10-22T11:57:57+09:00",
+      "mode": "once-chain-hourly",
+      "confirmed": true,
+      "productionResumeReservationStatus": "unverifiable: no reservation-list tool; latest local production reservation is past",
+      "progress": {
+        "publishedThrough": 41,
+        "publishedTotalPages": 1560,
+        "chapter42SavedBodyPages": 14,
+        "pendingRepairs": [
+          11,
+          12,
+          13
+        ],
+        "chapter42ReviewedBodyPages": 10
+      },
+      "progressChangedSincePreviousCheck": false
+    },
+    {
+      "checkedAt": "2026-10-22T11:58:27+09:00",
+      "reservationId": "906b538a-c8d3-4d02-b32c-405841b8d5cc",
+      "nextCheckAt": "2026-10-22T12:58:27+09:00",
+      "mode": "once-chain-hourly",
+      "confirmed": true,
+      "productionResumeReservationStatus": "unverifiable: no reservation-list tool; latest local production reservation is past",
+      "progress": {
+        "publishedThrough": 41,
+        "publishedTotalPages": 1560,
+        "chapter42SavedBodyPages": 14,
+        "pendingRepairs": [
+          11,
+          12,
+          13
+        ],
+        "chapter42ReviewedBodyPages": 10
+      },
+      "progressChangedSincePreviousCheck": false
+    },
+    {
+      "checkedAt": "2026-10-22T12:58:57+09:00",
+      "reservationId": "7da86d78-7ca5-4c3e-98a3-0ec3c5756fb9",
+      "nextCheckAt": "2026-10-22T13:58:57+09:00",
+      "mode": "once-chain-hourly",
+      "confirmed": true,
+      "productionResumeReservationStatus": "unverifiable: no reservation-list tool; latest local production reservation is past",
+      "progress": {
+        "publishedThrough": 41,
+        "publishedTotalPages": 1560,
+        "chapter42SavedBodyPages": 14,
+        "pendingRepairs": [
+          11,
+          12,
+          13
+        ],
+        "chapter42ReviewedBodyPages": 10
+      },
+      "progressChangedSincePreviousCheck": false
+    },
+    {
+      "checkedAt": "2026-10-22T13:59:25+09:00",
+      "reservationId": "d2d0f07e-d81b-4c3d-a55d-dea04913baaf",
+      "nextCheckAt": "2026-10-22T14:59:25+09:00",
+      "mode": "once-chain-hourly",
+      "confirmed": true,
+      "productionResumeReservationStatus": "unverifiable: no reservation-list tool; latest local production reservation is past",
+      "progress": {
+        "publishedThrough": 41,
+        "publishedTotalPages": 1560,
+        "chapter42SavedBodyPages": 14,
+        "pendingRepairs": [
+          11,
+          12,
+          13
+        ],
+        "chapter42ReviewedBodyPages": 10
+      },
+      "progressChangedSincePreviousCheck": false
+    },
+    {
+      "checkedAt": "2026-10-22T14:59:58+09:00",
+      "reservationId": "162c3a1c-b28a-4034-8ff1-47f32ca12b01",
+      "nextCheckAt": "2026-10-22T15:59:58+09:00",
+      "mode": "once-chain-hourly",
+      "confirmed": true,
+      "productionResumeReservationStatus": "unverifiable: no reservation-list tool; latest local production reservation is past",
+      "progress": {
+        "publishedThrough": 41,
+        "publishedTotalPages": 1560,
+        "chapter42SavedBodyPages": 14,
+        "pendingRepairs": [
+          11,
+          12,
+          13
+        ],
+        "chapter42ReviewedBodyPages": 10
+      },
+      "progressChangedSincePreviousCheck": false
+    },
+    {
+      "checkedAt": "2026-10-22T16:00:30+09:00",
+      "reservationId": "7f61b90d-e84d-4209-aab9-7be52beca25a",
+      "nextCheckAt": "2026-10-22T17:00:30+09:00",
+      "mode": "once-chain-hourly",
+      "confirmed": true,
+      "productionResumeReservationStatus": "unverifiable: no reservation-list tool; latest local production reservation is past",
+      "progress": {
+        "publishedThrough": 41,
+        "publishedTotalPages": 1560,
+        "chapter42SavedBodyPages": 14,
+        "pendingRepairs": [
+          11,
+          12,
+          13
+        ],
+        "chapter42ReviewedBodyPages": 10
+      },
+      "progressChangedSincePreviousCheck": false
+    },
+    {
+      "checkedAt": "2026-10-22T17:01:05+09:00",
+      "reservationId": "6a61be03-636e-4d0d-af09-67a5cb4743f5",
+      "nextCheckAt": "2026-10-22T18:01:05+09:00",
+      "mode": "once-chain-hourly",
+      "confirmed": true,
+      "productionResumeReservationStatus": "unverifiable: no reservation-list tool; latest local production reservation is past",
+      "progress": {
+        "publishedThrough": 41,
+        "publishedTotalPages": 1560,
+        "chapter42SavedBodyPages": 14,
+        "pendingRepairs": [
+          11,
+          12,
+          13
+        ],
+        "chapter42ReviewedBodyPages": 10
+      },
+      "progressChangedSincePreviousCheck": false
+    },
+    {
+      "checkedAt": "2026-10-22T18:01:35+09:00",
+      "reservationId": "bd42f972-be06-4098-aa66-ab1e1da307a0",
+      "nextCheckAt": "2026-10-22T19:01:35+09:00",
+      "mode": "once-chain-hourly",
+      "confirmed": true,
+      "productionResumeReservationStatus": "unverifiable: no reservation-list tool; latest local production reservation is past",
+      "progress": {
+        "publishedThrough": 41,
+        "publishedTotalPages": 1560,
+        "chapter42SavedBodyPages": 14,
+        "pendingRepairs": [
+          11,
+          12,
+          13
+        ],
+        "chapter42ReviewedBodyPages": 10
+      },
+      "progressChangedSincePreviousCheck": false
+    },
+    {
+      "checkedAt": "2026-10-22T19:02:28+09:00",
+      "reservationId": "3cbdcb8f-357a-4381-adde-804797bd95cd",
+      "nextCheckAt": "2026-10-22T20:02:28+09:00",
+      "mode": "once-chain-hourly",
+      "confirmed": true,
+      "productionResumeReservationStatus": "unverifiable: no reservation-list tool; latest local production reservation is past",
+      "progress": {
+        "publishedThrough": 41,
+        "publishedTotalPages": 1560,
+        "chapter42SavedBodyPages": 14,
+        "pendingRepairs": [
+          11,
+          12,
+          13
+        ],
+        "chapter42ReviewedBodyPages": 10
+      },
+      "progressChangedSincePreviousCheck": false
+    },
+    {
+      "checkedAt": "2026-10-22T20:03:16+09:00",
+      "reservationId": "e5377352-de96-4ef5-b825-9dd261569a38",
+      "nextCheckAt": "2026-10-22T21:03:16+09:00",
+      "mode": "once-chain-hourly",
+      "confirmed": true,
+      "productionResumeReservationStatus": "unverifiable: no reservation-list tool; latest local production reservation is past",
+      "progress": {
+        "publishedThrough": 41,
+        "publishedTotalPages": 1560,
+        "chapter42SavedBodyPages": 14,
+        "pendingRepairs": [
+          11,
+          12,
+          13
+        ],
+        "chapter42ReviewedBodyPages": 10
+      },
+      "progressChangedSincePreviousCheck": false
+    },
+    {
+      "checkedAt": "2026-10-22T21:03:54+09:00",
+      "reservationId": "c653c5ee-5bfc-4787-b7d1-68373f8a577d",
+      "nextCheckAt": "2026-10-22T22:03:54+09:00",
+      "mode": "once-chain-hourly",
+      "confirmed": true,
+      "productionResumeReservationStatus": "unverifiable: no reservation-list tool; latest local production reservation is past",
+      "progress": {
+        "publishedThrough": 41,
+        "publishedTotalPages": 1560,
+        "chapter42SavedBodyPages": 14,
+        "pendingRepairs": [
+          11,
+          12,
+          13
+        ],
+        "chapter42ReviewedBodyPages": 10
+      },
+      "progressChangedSincePreviousCheck": false
+    },
+    {
+      "checkedAt": "2026-10-22T22:04:35+09:00",
+      "reservationId": "90d52b90-70b9-438d-8a75-836e3a821363",
+      "nextCheckAt": "2026-10-22T23:04:35+09:00",
+      "mode": "once-chain-hourly",
+      "confirmed": true,
+      "productionResumeReservationStatus": "unverifiable: no reservation-list tool; latest local production reservation is past",
+      "progress": {
+        "publishedThrough": 41,
+        "publishedTotalPages": 1560,
+        "chapter42SavedBodyPages": 14,
+        "pendingRepairs": [
+          11,
+          12,
+          13
+        ],
+        "chapter42ReviewedBodyPages": 10
+      },
+      "progressChangedSincePreviousCheck": false
+    },
+    {
+      "checkedAt": "2026-10-22T23:05:07+09:00",
+      "reservationId": "b245bd00-c884-47d2-9936-7bc6a4e4c7d5",
+      "nextCheckAt": "2026-10-23T00:05:07+09:00",
+      "mode": "once-chain-hourly",
+      "confirmed": true,
+      "productionResumeReservationStatus": "unverifiable: no reservation-list tool; latest local production reservation is past",
+      "progress": {
+        "publishedThrough": 41,
+        "publishedTotalPages": 1560,
+        "chapter42SavedBodyPages": 14,
+        "pendingRepairs": [
+          11,
+          12,
+          13
+        ],
+        "chapter42ReviewedBodyPages": 10
+      },
+      "progressChangedSincePreviousCheck": false
+    },
+    {
+      "checkedAt": "2026-10-23T00:05:45+09:00",
+      "reservationId": "b9d33222-65d7-4eb9-8835-d8edbc0e392f",
+      "nextCheckAt": "2026-10-23T01:05:45+09:00",
+      "mode": "once-chain-hourly",
+      "confirmed": true,
+      "productionResumeReservationStatus": "unverifiable: no reservation-list tool; latest local production reservation is past",
+      "progress": {
+        "publishedThrough": 41,
+        "publishedTotalPages": 1560,
+        "chapter42SavedBodyPages": 14,
+        "pendingRepairs": [
+          11,
+          12,
+          13
+        ],
+        "chapter42ReviewedBodyPages": 10
+      },
+      "progressChangedSincePreviousCheck": false
+    },
+    {
+      "checkedAt": "2026-10-23T01:06:35+09:00",
+      "reservationId": "887be7d6-9abe-43c7-9321-7ec5d817f243",
+      "nextCheckAt": "2026-10-23T02:06:35+09:00",
+      "mode": "once-chain-hourly",
+      "confirmed": true,
+      "productionResumeReservationStatus": "unverifiable: no reservation-list tool; latest local production reservation is past",
+      "progress": {
+        "publishedThrough": 41,
+        "publishedTotalPages": 1560,
+        "chapter42SavedBodyPages": 14,
+        "pendingRepairs": [
+          11,
+          12,
+          13
+        ],
+        "chapter42ReviewedBodyPages": 10
+      },
+      "progressChangedSincePreviousCheck": false
+    },
+    {
+      "checkedAt": "2026-10-23T07:06:03+09:00",
+      "reservationId": "e4d62e62-7ce8-40a8-81cc-50c0f6133960",
+      "nextCheckAt": "2026-10-23T08:06:03+09:00",
+      "mode": "once-chain-hourly",
+      "confirmed": true,
+      "productionResumeReservationStatus": "registered_and_list_verified",
+      "productionResumeReservationId": "8ee42704-38ff-49dc-a15e-71ed866c67b1",
+      "productionResumeAt": "2026-10-24T00:12:12+09:00",
+      "progress": {
+        "publishedThrough": 42,
+        "publishedTotalPages": 1602,
+        "chapter43SavedBodyPages": 39,
+        "chapter43PlannedBodyPages": 45
+      },
+      "progressChangedSincePreviousCheck": false
+    },
+    {
+      "checkedAt": "2026-10-23T08:06:28+09:00",
+      "reservationId": "f10f7377-835e-4409-9c7b-87824bcb2c49",
+      "nextCheckAt": "2026-10-23T09:06:28+09:00",
+      "mode": "once-chain-hourly",
+      "confirmed": true,
+      "productionResumeReservationStatus": "registered_and_list_verified",
+      "productionResumeReservationId": "8ee42704-38ff-49dc-a15e-71ed866c67b1",
+      "productionResumeAt": "2026-10-24T00:12:12+09:00",
+      "progress": {
+        "publishedThrough": 42,
+        "publishedTotalPages": 1602,
+        "chapter43SavedBodyPages": 39,
+        "chapter43PlannedBodyPages": 45
+      },
+      "progressChangedSincePreviousCheck": false
+    },
+    {
+      "checkedAt": "2026-10-23T09:06:52+09:00",
+      "reservationId": "2e0805e3-f3cd-4d16-840c-46e291f8e8cc",
+      "nextCheckAt": "2026-10-23T10:06:52+09:00",
+      "mode": "once-chain-hourly",
+      "confirmed": true,
+      "productionResumeReservationStatus": "registered_and_list_verified",
+      "productionResumeReservationId": "8ee42704-38ff-49dc-a15e-71ed866c67b1",
+      "productionResumeAt": "2026-10-24T00:12:12+09:00",
+      "progress": {
+        "publishedThrough": 42,
+        "publishedTotalPages": 1602,
+        "chapter43SavedBodyPages": 39,
+        "chapter43PlannedBodyPages": 45
+      },
+      "progressChangedSincePreviousCheck": false
+    },
+    {
+      "checkedAt": "2026-10-23T10:07:19+09:00",
+      "reservationId": "b3100541-f97c-4321-8caf-c270aaf63df7",
+      "nextCheckAt": "2026-10-23T11:07:19+09:00",
+      "mode": "once-chain-hourly",
+      "confirmed": true,
+      "productionResumeReservationStatus": "registered_and_list_verified",
+      "productionResumeReservationId": "8ee42704-38ff-49dc-a15e-71ed866c67b1",
+      "productionResumeAt": "2026-10-24T00:12:12+09:00",
+      "progress": {
+        "publishedThrough": 42,
+        "publishedTotalPages": 1602,
+        "chapter43SavedBodyPages": 39,
+        "chapter43PlannedBodyPages": 45
+      },
+      "progressChangedSincePreviousCheck": false
+    },
+    {
+      "checkedAt": "2026-10-23T11:07:49+09:00",
+      "reservationId": "3954d411-77d8-4e5a-a39b-1390d668182e",
+      "nextCheckAt": "2026-10-23T12:07:49+09:00",
+      "mode": "once-chain-hourly",
+      "confirmed": true,
+      "productionResumeReservationStatus": "registered_and_list_verified",
+      "productionResumeReservationId": "8ee42704-38ff-49dc-a15e-71ed866c67b1",
+      "productionResumeAt": "2026-10-24T00:12:12+09:00",
+      "progress": {
+        "publishedThrough": 42,
+        "publishedTotalPages": 1602,
+        "chapter43SavedBodyPages": 39,
+        "chapter43PlannedBodyPages": 45
+      },
+      "progressChangedSincePreviousCheck": false
+    },
+    {
+      "checkedAt": "2026-10-23T12:08:21+09:00",
+      "reservationId": "c410bba9-a716-4db7-8f63-df101a6f16ce",
+      "nextCheckAt": "2026-10-23T13:08:21+09:00",
+      "mode": "once-chain-hourly",
+      "confirmed": true,
+      "productionResumeReservationStatus": "registered_and_list_verified",
+      "productionResumeReservationId": "8ee42704-38ff-49dc-a15e-71ed866c67b1",
+      "productionResumeAt": "2026-10-24T00:12:12+09:00",
+      "progress": {
+        "publishedThrough": 42,
+        "publishedTotalPages": 1602,
+        "chapter43SavedBodyPages": 39,
+        "chapter43PlannedBodyPages": 45
+      },
+      "progressChangedSincePreviousCheck": false
+    },
+    {
+      "checkedAt": "2026-10-23T13:08:48+09:00",
+      "reservationId": "fbbe0d33-cf34-485c-87ed-2e2073912680",
+      "nextCheckAt": "2026-10-23T14:08:48+09:00",
+      "mode": "once-chain-hourly",
+      "confirmed": true,
+      "productionResumeReservationStatus": "registered_and_list_verified",
+      "productionResumeReservationId": "8ee42704-38ff-49dc-a15e-71ed866c67b1",
+      "productionResumeAt": "2026-10-24T00:12:12+09:00",
+      "progress": {
+        "publishedThrough": 42,
+        "publishedTotalPages": 1602,
+        "chapter43SavedBodyPages": 39,
+        "chapter43PlannedBodyPages": 45
+      },
+      "progressChangedSincePreviousCheck": false
+    },
+    {
+      "checkedAt": "2026-10-23T14:09:15+09:00",
+      "reservationId": "0fdbec40-b9e6-4cd7-b309-a297242f1cd2",
+      "nextCheckAt": "2026-10-23T15:09:15+09:00",
+      "mode": "once-chain-hourly",
+      "confirmed": true,
+      "productionResumeReservationStatus": "registered_and_list_verified",
+      "productionResumeReservationId": "8ee42704-38ff-49dc-a15e-71ed866c67b1",
+      "productionResumeAt": "2026-10-24T00:12:12+09:00",
+      "progress": {
+        "publishedThrough": 42,
+        "publishedTotalPages": 1602,
+        "chapter43SavedBodyPages": 39,
+        "chapter43PlannedBodyPages": 45
+      },
+      "progressChangedSincePreviousCheck": false
+    },
+    {
+      "checkedAt": "2026-10-23T15:09:43+09:00",
+      "reservationId": "cb5e03a4-12a0-42ff-825f-dcc084f5c6fb",
+      "nextCheckAt": "2026-10-23T16:09:43+09:00",
+      "mode": "once-chain-hourly",
+      "confirmed": true,
+      "productionResumeReservationStatus": "registered_and_list_verified",
+      "productionResumeReservationId": "8ee42704-38ff-49dc-a15e-71ed866c67b1",
+      "productionResumeAt": "2026-10-24T00:12:12+09:00",
+      "progress": {
+        "publishedThrough": 42,
+        "publishedTotalPages": 1602,
+        "chapter43SavedBodyPages": 39,
+        "chapter43PlannedBodyPages": 45
+      },
+      "progressChangedSincePreviousCheck": false
+    },
+    {
+      "checkedAt": "2026-10-23T16:10:09+09:00",
+      "reservationId": "8c87047d-e60e-467a-a534-ca04c46bf7d6",
+      "nextCheckAt": "2026-10-23T17:10:09+09:00",
+      "mode": "once-chain-hourly",
+      "confirmed": true,
+      "productionResumeReservationStatus": "registered_and_list_verified",
+      "productionResumeReservationId": "8ee42704-38ff-49dc-a15e-71ed866c67b1",
+      "productionResumeAt": "2026-10-24T00:12:12+09:00",
+      "progress": {
+        "publishedThrough": 42,
+        "publishedTotalPages": 1602,
+        "chapter43SavedBodyPages": 39,
+        "chapter43PlannedBodyPages": 45
+      },
+      "progressChangedSincePreviousCheck": false
+    },
+    {
+      "checkedAt": "2026-10-23T17:10:37+09:00",
+      "reservationId": "8712b506-eba8-42e9-8c65-76d15a4c8f50",
+      "nextCheckAt": "2026-10-23T18:10:37+09:00",
+      "mode": "once-chain-hourly",
+      "confirmed": true,
+      "productionResumeReservationStatus": "registered_and_list_verified",
+      "productionResumeReservationId": "8ee42704-38ff-49dc-a15e-71ed866c67b1",
+      "productionResumeAt": "2026-10-24T00:12:12+09:00",
+      "progress": {
+        "publishedThrough": 42,
+        "publishedTotalPages": 1602,
+        "chapter43SavedBodyPages": 39,
+        "chapter43PlannedBodyPages": 45
+      },
+      "progressChangedSincePreviousCheck": false
+    },
+    {
+      "checkedAt": "2026-10-23T18:11:04+09:00",
+      "reservationId": "f8632aac-0631-40e7-a633-dd033a174c73",
+      "nextCheckAt": "2026-10-23T19:11:04+09:00",
+      "mode": "once-chain-hourly",
+      "confirmed": true,
+      "productionResumeReservationStatus": "registered_and_list_verified",
+      "productionResumeReservationId": "8ee42704-38ff-49dc-a15e-71ed866c67b1",
+      "productionResumeAt": "2026-10-24T00:12:12+09:00",
+      "progress": {
+        "publishedThrough": 42,
+        "publishedTotalPages": 1602,
+        "chapter43SavedBodyPages": 39,
+        "chapter43PlannedBodyPages": 45
+      },
+      "progressChangedSincePreviousCheck": false
+    },
+    {
+      "checkedAt": "2026-10-23T19:11:29+09:00",
+      "reservationId": "a223fdb4-1841-4f0f-bc3e-1d48d8ad078f",
+      "nextCheckAt": "2026-10-23T20:11:29+09:00",
+      "mode": "once-chain-hourly",
+      "confirmed": true,
+      "productionResumeReservationStatus": "registered_and_list_verified",
+      "productionResumeReservationId": "8ee42704-38ff-49dc-a15e-71ed866c67b1",
+      "productionResumeAt": "2026-10-24T00:12:12+09:00",
+      "progress": {
+        "publishedThrough": 42,
+        "publishedTotalPages": 1602,
+        "chapter43SavedBodyPages": 39,
+        "chapter43PlannedBodyPages": 45
+      },
+      "progressChangedSincePreviousCheck": false
+    },
+    {
+      "checkedAt": "2026-10-23T20:11:54+09:00",
+      "reservationId": "17d0503d-cbc5-4797-93ac-843a4eaad0cd",
+      "nextCheckAt": "2026-10-23T21:11:54+09:00",
+      "mode": "once-chain-hourly",
+      "confirmed": true,
+      "productionResumeReservationStatus": "registered_and_list_verified",
+      "productionResumeReservationId": "8ee42704-38ff-49dc-a15e-71ed866c67b1",
+      "productionResumeAt": "2026-10-24T00:12:12+09:00",
+      "progress": {
+        "publishedThrough": 42,
+        "publishedTotalPages": 1602,
+        "chapter43SavedBodyPages": 39,
+        "chapter43PlannedBodyPages": 45
+      },
+      "progressChangedSincePreviousCheck": false
+    },
+    {
+      "checkedAt": "2026-10-23T21:12:23+09:00",
+      "reservationId": "77167d7c-ad74-4298-905d-bb01748b8d8c",
+      "nextCheckAt": "2026-10-23T22:12:23+09:00",
+      "mode": "once-chain-hourly",
+      "confirmed": true,
+      "productionResumeReservationStatus": "registered_and_list_verified",
+      "productionResumeReservationId": "8ee42704-38ff-49dc-a15e-71ed866c67b1",
+      "productionResumeAt": "2026-10-24T00:12:12+09:00",
+      "progress": {
+        "publishedThrough": 42,
+        "publishedTotalPages": 1602,
+        "chapter43SavedBodyPages": 39,
+        "chapter43PlannedBodyPages": 45
+      },
+      "progressChangedSincePreviousCheck": false
+    },
+    {
+      "checkedAt": "2026-10-23T22:12:48+09:00",
+      "reservationId": "ed47fc46-fe33-4043-ba11-1fbe709036aa",
+      "nextCheckAt": "2026-10-23T23:12:48+09:00",
+      "mode": "once-chain-hourly",
+      "confirmed": true,
+      "productionResumeReservationStatus": "registered_and_list_verified",
+      "productionResumeReservationId": "8ee42704-38ff-49dc-a15e-71ed866c67b1",
+      "productionResumeAt": "2026-10-24T00:12:12+09:00",
+      "progress": {
+        "publishedThrough": 42,
+        "publishedTotalPages": 1602,
+        "chapter43SavedBodyPages": 39,
+        "chapter43PlannedBodyPages": 45
+      },
+      "progressChangedSincePreviousCheck": false
+    },
+    {
+      "checkedAt": "2026-10-23T23:13:14+09:00",
+      "reservationId": "cf6fa1ec-4881-491c-93ac-e999cc2b7ff9",
+      "nextCheckAt": "2026-10-24T00:13:14+09:00",
+      "mode": "once-chain-hourly",
+      "confirmed": true,
+      "productionResumeReservationStatus": "registered_and_list_verified",
+      "productionResumeReservationId": "8ee42704-38ff-49dc-a15e-71ed866c67b1",
+      "productionResumeAt": "2026-10-24T00:12:12+09:00",
+      "progress": {
+        "publishedThrough": 42,
+        "publishedTotalPages": 1602,
+        "chapter43SavedBodyPages": 39,
+        "chapter43PlannedBodyPages": 45
+      },
+      "progressChangedSincePreviousCheck": false
+    },
+    {
+      "checkedAt": "2026-10-24T06:06:23+09:00",
+      "reservationId": "7913fe10-f693-4d39-84c4-a06ca0515132",
+      "nextCheckAt": "2026-10-24T07:06:23+09:00",
+      "mode": "once-chain-hourly",
+      "confirmed": true,
+      "productionResumeReservationStatus": "registered_and_list_verified",
+      "productionResumeReservationId": "b01105d5-e982-488d-9dc1-ca6ae68cbf3c",
+      "productionResumeAt": "2026-10-25T00:15:50+09:00",
+      "productionReservationsBeforeCheck": 1,
+      "progress": {
+        "publishedThrough": 43,
+        "publishedTotalPages": 1647,
+        "chapter44SavedBodyPages": 41,
+        "chapter44ReviewedBodyPages": 40,
+        "chapter44PlannedBodyPages": 50,
+        "pendingRepairs": [
+          41
+        ]
+      },
+      "progressChangedSincePreviousCheck": true,
+      "existingHourlyReservationStatus": "previous reservation executed; next reservation registered and list verified",
+      "lastProductionUpdateAt": "2026-10-24T06:05:20.525760+09:00"
+    },
+    {
+      "checkedAt": "2026-10-24T07:06:46+09:00",
+      "reservationId": "6f1825d6-58a8-4f31-a307-7a8c8791bbc2",
+      "nextCheckAt": "2026-10-24T08:06:46+09:00",
+      "mode": "once-chain-hourly",
+      "confirmed": true,
+      "productionResumeReservationStatus": "registered_and_list_verified",
+      "productionResumeReservationId": "b01105d5-e982-488d-9dc1-ca6ae68cbf3c",
+      "productionResumeAt": "2026-10-25T00:15:50+09:00",
+      "productionReservationsBeforeCheck": 1,
+      "progress": {
+        "publishedThrough": 43,
+        "publishedTotalPages": 1647,
+        "chapter44SavedBodyPages": 41,
+        "chapter44ReviewedBodyPages": 40,
+        "chapter44PlannedBodyPages": 50,
+        "pendingRepairs": [
+          41
+        ]
+      },
+      "progressChangedSincePreviousCheck": false,
+      "lastProductionUpdateAt": "2026-10-24T06:05:20.525760+09:00",
+      "existingHourlyReservationStatus": "previous reservation executed; next reservation registered and list verified"
+    },
+    {
+      "checkedAt": "2026-10-24T08:07:10+09:00",
+      "reservationId": "a2b1c3aa-b208-4a43-9194-654db0b2cdf7",
+      "nextCheckAt": "2026-10-24T09:07:10+09:00",
+      "mode": "once-chain-hourly",
+      "confirmed": true,
+      "productionResumeReservationStatus": "registered_and_list_verified",
+      "productionResumeReservationId": "b01105d5-e982-488d-9dc1-ca6ae68cbf3c",
+      "productionResumeAt": "2026-10-25T00:15:50+09:00",
+      "productionReservationsBeforeCheck": 1,
+      "progress": {
+        "publishedThrough": 43,
+        "publishedTotalPages": 1647,
+        "chapter44SavedBodyPages": 41,
+        "chapter44ReviewedBodyPages": 40,
+        "chapter44PlannedBodyPages": 50,
+        "pendingRepairs": [
+          41
+        ]
+      },
+      "progressChangedSincePreviousCheck": false,
+      "lastProductionUpdateAt": "2026-10-24T06:05:20.525760+09:00",
+      "existingHourlyReservationStatus": "previous reservation executed; next reservation registered and list verified"
+    },
+    {
+      "checkedAt": "2026-10-24T09:07:31+09:00",
+      "reservationId": "973897b1-9f70-46cc-a402-aca0fa9527b1",
+      "nextCheckAt": "2026-10-24T10:07:31+09:00",
+      "mode": "once-chain-hourly",
+      "confirmed": true,
+      "productionResumeReservationStatus": "registered_and_list_verified",
+      "productionResumeReservationId": "b01105d5-e982-488d-9dc1-ca6ae68cbf3c",
+      "productionResumeAt": "2026-10-25T00:15:50+09:00",
+      "productionReservationsBeforeCheck": 1,
+      "progress": {
+        "publishedThrough": 43,
+        "publishedTotalPages": 1647,
+        "chapter44SavedBodyPages": 41,
+        "chapter44ReviewedBodyPages": 40,
+        "chapter44PlannedBodyPages": 50,
+        "pendingRepairs": [
+          41
+        ]
+      },
+      "progressChangedSincePreviousCheck": false,
+      "lastProductionUpdateAt": "2026-10-24T06:05:20.525760+09:00",
+      "existingHourlyReservationStatus": "previous reservation executed; next reservation registered and list verified"
+    },
+    {
+      "checkedAt": "2026-10-24T10:07:52+09:00",
+      "reservationId": "cbc8cfcf-f28e-419f-a027-5c1a599f6efb",
+      "nextCheckAt": "2026-10-24T11:07:52+09:00",
+      "mode": "once-chain-hourly",
+      "confirmed": true,
+      "productionResumeReservationStatus": "registered_and_list_verified",
+      "productionResumeReservationId": "b01105d5-e982-488d-9dc1-ca6ae68cbf3c",
+      "productionResumeAt": "2026-10-25T00:15:50+09:00",
+      "productionReservationsBeforeCheck": 1,
+      "progress": {
+        "publishedThrough": 43,
+        "publishedTotalPages": 1647,
+        "chapter44SavedBodyPages": 41,
+        "chapter44ReviewedBodyPages": 40,
+        "chapter44PlannedBodyPages": 50,
+        "pendingRepairs": [
+          41
+        ]
+      },
+      "progressChangedSincePreviousCheck": false,
+      "lastProductionUpdateAt": "2026-10-24T06:05:20.525760+09:00",
+      "existingHourlyReservationStatus": "previous reservation executed; next reservation registered and list verified"
+    },
+    {
+      "checkedAt": "2026-10-24T11:08:15+09:00",
+      "reservationId": "02a86af4-d138-4db4-a111-fa2e85d34088",
+      "nextCheckAt": "2026-10-24T12:08:15+09:00",
+      "mode": "once-chain-hourly",
+      "confirmed": true,
+      "productionResumeReservationStatus": "registered_and_list_verified",
+      "productionResumeReservationId": "b01105d5-e982-488d-9dc1-ca6ae68cbf3c",
+      "productionResumeAt": "2026-10-25T00:15:50+09:00",
+      "productionReservationsBeforeCheck": 1,
+      "progress": {
+        "publishedThrough": 43,
+        "publishedTotalPages": 1647,
+        "chapter44SavedBodyPages": 41,
+        "chapter44ReviewedBodyPages": 40,
+        "chapter44PlannedBodyPages": 50,
+        "pendingRepairs": [
+          41
+        ]
+      },
+      "progressChangedSincePreviousCheck": false,
+      "lastProductionUpdateAt": "2026-10-24T06:05:20.525760+09:00",
+      "existingHourlyReservationStatus": "previous reservation executed; next reservation registered and list verified"
+    },
+    {
+      "checkedAt": "2026-10-24T12:08:39+09:00",
+      "reservationId": "c308bcbe-eba6-4580-aaa8-d9d7eedaba4b",
+      "nextCheckAt": "2026-10-24T13:08:39+09:00",
+      "mode": "once-chain-hourly",
+      "confirmed": true,
+      "productionResumeReservationStatus": "registered_and_list_verified",
+      "productionResumeReservationId": "b01105d5-e982-488d-9dc1-ca6ae68cbf3c",
+      "productionResumeAt": "2026-10-25T00:15:50+09:00",
+      "productionReservationsBeforeCheck": 1,
+      "progress": {
+        "publishedThrough": 43,
+        "publishedTotalPages": 1647,
+        "chapter44SavedBodyPages": 41,
+        "chapter44ReviewedBodyPages": 40,
+        "chapter44PlannedBodyPages": 50,
+        "pendingRepairs": [
+          41
+        ]
+      },
+      "progressChangedSincePreviousCheck": false,
+      "lastProductionUpdateAt": "2026-10-24T06:05:20.525760+09:00",
+      "existingHourlyReservationStatus": "previous reservation executed; next reservation registered and list verified"
+    },
+    {
+      "checkedAt": "2026-10-24T13:09:00+09:00",
+      "reservationId": "6e37bd04-dd0b-488b-bd78-51f25efde62b",
+      "nextCheckAt": "2026-10-24T14:09:00+09:00",
+      "mode": "once-chain-hourly",
+      "confirmed": true,
+      "productionResumeReservationStatus": "registered_and_list_verified",
+      "productionResumeReservationId": "b01105d5-e982-488d-9dc1-ca6ae68cbf3c",
+      "productionResumeAt": "2026-10-25T00:15:50+09:00",
+      "productionReservationsBeforeCheck": 1,
+      "progress": {
+        "publishedThrough": 43,
+        "publishedTotalPages": 1647,
+        "chapter44SavedBodyPages": 41,
+        "chapter44ReviewedBodyPages": 40,
+        "chapter44PlannedBodyPages": 50,
+        "pendingRepairs": [
+          41
+        ]
+      },
+      "progressChangedSincePreviousCheck": false,
+      "lastProductionUpdateAt": "2026-10-24T06:05:20.525760+09:00",
+      "existingHourlyReservationStatus": "previous reservation executed; next reservation registered and list verified"
+    },
+    {
+      "checkedAt": "2026-10-24T14:09:25+09:00",
+      "reservationId": "9053e011-695d-419d-af94-b217ca731b8f",
+      "nextCheckAt": "2026-10-24T15:09:25+09:00",
+      "mode": "once-chain-hourly",
+      "confirmed": true,
+      "productionResumeReservationStatus": "registered_and_list_verified",
+      "productionResumeReservationId": "b01105d5-e982-488d-9dc1-ca6ae68cbf3c",
+      "productionResumeAt": "2026-10-25T00:15:50+09:00",
+      "productionReservationsBeforeCheck": 1,
+      "progress": {
+        "publishedThrough": 43,
+        "publishedTotalPages": 1647,
+        "chapter44SavedBodyPages": 41,
+        "chapter44ReviewedBodyPages": 40,
+        "chapter44PlannedBodyPages": 50,
+        "pendingRepairs": [
+          41
+        ]
+      },
+      "progressChangedSincePreviousCheck": false,
+      "lastProductionUpdateAt": "2026-10-24T06:05:20.525760+09:00",
+      "existingHourlyReservationStatus": "previous reservation executed; next reservation registered and list verified"
+    },
+    {
+      "checkedAt": "2026-10-24T15:09:53+09:00",
+      "reservationId": "8c961262-9004-4a7f-868f-fcf067bd8470",
+      "nextCheckAt": "2026-10-24T16:09:53+09:00",
+      "mode": "once-chain-hourly",
+      "confirmed": true,
+      "productionResumeReservationStatus": "registered_and_list_verified",
+      "productionResumeReservationId": "b01105d5-e982-488d-9dc1-ca6ae68cbf3c",
+      "productionResumeAt": "2026-10-25T00:15:50+09:00",
+      "productionReservationsBeforeCheck": 1,
+      "progress": {
+        "publishedThrough": 43,
+        "publishedTotalPages": 1647,
+        "chapter44SavedBodyPages": 41,
+        "chapter44ReviewedBodyPages": 40,
+        "chapter44PlannedBodyPages": 50,
+        "pendingRepairs": [
+          41
+        ]
+      },
+      "progressChangedSincePreviousCheck": false,
+      "lastProductionUpdateAt": "2026-10-24T06:05:20.525760+09:00",
+      "existingHourlyReservationStatus": "previous reservation executed; next reservation registered and list verified"
+    },
+    {
+      "checkedAt": "2026-10-24T16:10:15+09:00",
+      "reservationId": "acd8f94f-a372-4595-9556-21ac7166335a",
+      "nextCheckAt": "2026-10-24T17:10:15+09:00",
+      "mode": "once-chain-hourly",
+      "confirmed": true,
+      "productionResumeReservationStatus": "registered_and_list_verified",
+      "productionResumeReservationId": "b01105d5-e982-488d-9dc1-ca6ae68cbf3c",
+      "productionResumeAt": "2026-10-25T00:15:50+09:00",
+      "productionReservationsBeforeCheck": 1,
+      "progress": {
+        "publishedThrough": 43,
+        "publishedTotalPages": 1647,
+        "chapter44SavedBodyPages": 41,
+        "chapter44ReviewedBodyPages": 40,
+        "chapter44PlannedBodyPages": 50,
+        "pendingRepairs": [
+          41
+        ]
+      },
+      "progressChangedSincePreviousCheck": false,
+      "lastProductionUpdateAt": "2026-10-24T06:05:20.525760+09:00",
+      "existingHourlyReservationStatus": "previous reservation executed; next reservation registered and list verified"
+    },
+    {
+      "checkedAt": "2026-10-24T17:10:39+09:00",
+      "reservationId": "d5eb80fb-655c-4454-a25e-1be06daa5fee",
+      "nextCheckAt": "2026-10-24T18:10:39+09:00",
+      "mode": "once-chain-hourly",
+      "confirmed": true,
+      "productionResumeReservationStatus": "registered_and_list_verified",
+      "productionResumeReservationId": "b01105d5-e982-488d-9dc1-ca6ae68cbf3c",
+      "productionResumeAt": "2026-10-25T00:15:50+09:00",
+      "productionReservationsBeforeCheck": 1,
+      "progress": {
+        "publishedThrough": 43,
+        "publishedTotalPages": 1647,
+        "chapter44SavedBodyPages": 41,
+        "chapter44ReviewedBodyPages": 40,
+        "chapter44PlannedBodyPages": 50,
+        "pendingRepairs": [
+          41
+        ]
+      },
+      "progressChangedSincePreviousCheck": false,
+      "lastProductionUpdateAt": "2026-10-24T06:05:20.525760+09:00",
+      "existingHourlyReservationStatus": "previous reservation executed; next reservation registered and list verified"
+    },
+    {
+      "checkedAt": "2026-10-24T18:11:05+09:00",
+      "reservationId": "039efd5d-78a6-4bd4-8f4e-17cb8fadad3a",
+      "nextCheckAt": "2026-10-24T19:11:05+09:00",
+      "mode": "once-chain-hourly",
+      "confirmed": true,
+      "productionResumeReservationStatus": "registered_and_list_verified",
+      "productionResumeReservationId": "b01105d5-e982-488d-9dc1-ca6ae68cbf3c",
+      "productionResumeAt": "2026-10-25T00:15:50+09:00",
+      "productionReservationsBeforeCheck": 1,
+      "progress": {
+        "publishedThrough": 43,
+        "publishedTotalPages": 1647,
+        "chapter44SavedBodyPages": 41,
+        "chapter44ReviewedBodyPages": 40,
+        "chapter44PlannedBodyPages": 50,
+        "pendingRepairs": [
+          41
+        ]
+      },
+      "progressChangedSincePreviousCheck": false,
+      "lastProductionUpdateAt": "2026-10-24T06:05:20.525760+09:00",
+      "existingHourlyReservationStatus": "previous reservation executed; next reservation registered and list verified"
+    },
+    {
+      "checkedAt": "2026-10-24T19:11:29+09:00",
+      "reservationId": "2adc77e1-02ad-4e0a-bc84-504ca774565d",
+      "nextCheckAt": "2026-10-24T20:11:29+09:00",
+      "mode": "once-chain-hourly",
+      "confirmed": true,
+      "productionResumeReservationStatus": "registered_and_list_verified",
+      "productionResumeReservationId": "b01105d5-e982-488d-9dc1-ca6ae68cbf3c",
+      "productionResumeAt": "2026-10-25T00:15:50+09:00",
+      "productionReservationsBeforeCheck": 1,
+      "progress": {
+        "publishedThrough": 43,
+        "publishedTotalPages": 1647,
+        "chapter44SavedBodyPages": 41,
+        "chapter44ReviewedBodyPages": 40,
+        "chapter44PlannedBodyPages": 50,
+        "pendingRepairs": [
+          41
+        ]
+      },
+      "progressChangedSincePreviousCheck": false,
+      "lastProductionUpdateAt": "2026-10-24T06:05:20.525760+09:00",
+      "existingHourlyReservationStatus": "previous reservation executed; next reservation registered and list verified"
+    },
+    {
+      "checkedAt": "2026-10-24T20:11:52+09:00",
+      "reservationId": "b15ab56a-32a3-43a0-ab45-f3fd0d23aac7",
+      "nextCheckAt": "2026-10-24T21:11:52+09:00",
+      "mode": "once-chain-hourly",
+      "confirmed": true,
+      "productionResumeReservationStatus": "registered_and_list_verified",
+      "productionResumeReservationId": "b01105d5-e982-488d-9dc1-ca6ae68cbf3c",
+      "productionResumeAt": "2026-10-25T00:15:50+09:00",
+      "productionReservationsBeforeCheck": 1,
+      "progress": {
+        "publishedThrough": 43,
+        "publishedTotalPages": 1647,
+        "chapter44SavedBodyPages": 41,
+        "chapter44ReviewedBodyPages": 40,
+        "chapter44PlannedBodyPages": 50,
+        "pendingRepairs": [
+          41
+        ]
+      },
+      "progressChangedSincePreviousCheck": false,
+      "lastProductionUpdateAt": "2026-10-24T06:05:20.525760+09:00",
+      "existingHourlyReservationStatus": "previous reservation executed; next reservation registered and list verified"
+    },
+    {
+      "checkedAt": "2026-10-24T21:12:15+09:00",
+      "reservationId": "456c4ecd-41ec-42a9-8e65-42ea9f481417",
+      "nextCheckAt": "2026-10-24T22:12:15+09:00",
+      "mode": "once-chain-hourly",
+      "confirmed": true,
+      "productionResumeReservationStatus": "registered_and_list_verified",
+      "productionResumeReservationId": "b01105d5-e982-488d-9dc1-ca6ae68cbf3c",
+      "productionResumeAt": "2026-10-25T00:15:50+09:00",
+      "productionReservationsBeforeCheck": 1,
+      "progress": {
+        "publishedThrough": 43,
+        "publishedTotalPages": 1647,
+        "chapter44SavedBodyPages": 41,
+        "chapter44ReviewedBodyPages": 40,
+        "chapter44PlannedBodyPages": 50,
+        "pendingRepairs": [
+          41
+        ]
+      },
+      "progressChangedSincePreviousCheck": false,
+      "lastProductionUpdateAt": "2026-10-24T06:05:20.525760+09:00",
+      "existingHourlyReservationStatus": "previous reservation executed; next reservation registered and list verified"
+    },
+    {
+      "checkedAt": "2026-10-24T22:12:39+09:00",
+      "reservationId": "2b6ec455-900c-4433-bebe-1cbe39736b8c",
+      "nextCheckAt": "2026-10-24T23:12:39+09:00",
+      "mode": "once-chain-hourly",
+      "confirmed": true,
+      "productionResumeReservationStatus": "registered_and_list_verified",
+      "productionResumeReservationId": "b01105d5-e982-488d-9dc1-ca6ae68cbf3c",
+      "productionResumeAt": "2026-10-25T00:15:50+09:00",
+      "productionReservationsBeforeCheck": 1,
+      "progress": {
+        "publishedThrough": 43,
+        "publishedTotalPages": 1647,
+        "chapter44SavedBodyPages": 41,
+        "chapter44ReviewedBodyPages": 40,
+        "chapter44PlannedBodyPages": 50,
+        "pendingRepairs": [
+          41
+        ]
+      },
+      "progressChangedSincePreviousCheck": false,
+      "lastProductionUpdateAt": "2026-10-24T06:05:20.525760+09:00",
+      "existingHourlyReservationStatus": "previous reservation executed; next reservation registered and list verified"
+    },
+    {
+      "checkedAt": "2026-10-24T23:13:03+09:00",
+      "reservationId": "5627e029-14f3-472f-b664-9fb7daaaddbb",
+      "nextCheckAt": "2026-10-25T00:13:03+09:00",
+      "mode": "once-chain-hourly",
+      "confirmed": true,
+      "productionResumeReservationStatus": "registered_and_list_verified",
+      "productionResumeReservationId": "b01105d5-e982-488d-9dc1-ca6ae68cbf3c",
+      "productionResumeAt": "2026-10-25T00:15:50+09:00",
+      "productionReservationsBeforeCheck": 1,
+      "progress": {
+        "publishedThrough": 43,
+        "publishedTotalPages": 1647,
+        "chapter44SavedBodyPages": 41,
+        "chapter44ReviewedBodyPages": 40,
+        "chapter44PlannedBodyPages": 50,
+        "pendingRepairs": [
+          41
+        ]
+      },
+      "progressChangedSincePreviousCheck": false,
+      "lastProductionUpdateAt": "2026-10-24T06:05:20.525760+09:00",
+      "existingHourlyReservationStatus": "previous reservation executed; next reservation registered and list verified"
+    },
+    {
+      "checkedAt": "2026-10-25T00:13:26+09:00",
+      "reservationId": "8abff56b-81b3-4d9a-b1cf-d2bc491b1f43",
+      "nextCheckAt": "2026-10-25T01:13:26+09:00",
+      "mode": "once-chain-hourly",
+      "confirmed": true,
+      "productionResumeReservationStatus": "registered_and_list_verified",
+      "productionResumeReservationId": "b01105d5-e982-488d-9dc1-ca6ae68cbf3c",
+      "productionResumeAt": "2026-10-25T00:15:50+09:00",
+      "productionReservationsBeforeCheck": 1,
+      "progress": {
+        "publishedThrough": 43,
+        "publishedTotalPages": 1647,
+        "chapter44SavedBodyPages": 41,
+        "chapter44ReviewedBodyPages": 40,
+        "chapter44PlannedBodyPages": 50,
+        "pendingRepairs": [
+          41
+        ]
+      },
+      "progressChangedSincePreviousCheck": false,
+      "lastProductionUpdateAt": "2026-10-24T06:05:20.525760+09:00",
+      "existingHourlyReservationStatus": "previous reservation executed; next reservation registered and list verified"
+    },
+    {
+      "checkedAt": "2026-10-25T00:13:26+09:00",
+      "reservationId": "8abff56b-81b3-4d9a-b1cf-d2bc491b1f43",
+      "nextCheckAt": "2026-10-25T01:13:26+09:00",
+      "mode": "once-chain-hourly",
+      "confirmed": true,
+      "productionResumeReservationStatus": "registered_and_list_verified",
+      "productionResumeReservationId": "b01105d5-e982-488d-9dc1-ca6ae68cbf3c",
+      "productionResumeAt": "2026-10-25T00:15:50+09:00",
+      "productionReservationsBeforeCheck": 1,
+      "progress": {
+        "publishedThrough": 43,
+        "publishedTotalPages": 1647,
+        "chapter44SavedBodyPages": 41,
+        "chapter44ReviewedBodyPages": 40,
+        "chapter44PlannedBodyPages": 50,
+        "pendingRepairs": [
+          41
+        ]
+      },
+      "progressChangedSincePreviousCheck": false,
+      "lastProductionUpdateAt": "2026-10-24T06:05:20.525760+09:00",
+      "existingHourlyReservationStatus": "previous reservation executed; next reservation registered and list verified"
+    }
+  ],
+  "lastProductionUpdateAt": "2026-10-26T00:06:55.666019+09:00",
+  "existingHourlyReservationStatus": "previous reservation executed; next reservation registered and list verified",
+  "latestProductionResume": {
+    "id": "5550f3c2-c2bb-4c0c-936f-490b76628c85",
+    "runAt": "2026-10-26T00:18:10+09:00",
+    "enabled": true,
+    "verified": true,
+    "reason": "image_gen 429 reset1792941490"
+  }
+}
