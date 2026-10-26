@@ -39,9 +39,10 @@
     "43": 45,
     "44": 50,
     "45": 51,
-    "46": 51
+    "46": 51,
+    "47": 13
   },
-  "nextGeneration": "第46回表紙",
+  "nextGeneration": "第47回14頁以降",
   "imageTool": "built-in image_gen",
   "pendingRepairs": {
     "chapter": 37,
@@ -49,7 +50,7 @@
     "38": [],
     "43": []
   },
-  "publication": "Chapters1–45 published;46–50 pending",
+  "publication": "Chapters1–46 published;47–50 pending",
   "remainingCovers": [],
   "repairPassSavedPages": [
     5,
@@ -87,8 +88,8 @@
     21,
     24
   ],
-  "publishedCommit": "abbaf31272a96b88dd98f66af489a29d4687de24",
-  "publishedWorkflow": 40204726113,
+  "publishedCommit": "1f372c339eb26fde0f4e41b3eb865dae6473e036",
+  "publishedWorkflow": 40361120954,
   "published31AssetSha256Verified": true,
   "chapter32RepairFile": "production/ch032-repairs-pending.json",
   "sourceReview32": "production/ch032-source-review.json",
@@ -111,7 +112,7 @@
   "quotaResetAt": "2026-10-26T00:18:10+09:00",
   "quotaResetUnix": 1792941490,
   "resumeReservationId": "5550f3c2-c2bb-4c0c-936f-490b76628c85",
-  "nextAction": "第46回本文51・表紙目視原典SHA検証、reader7件成功。main/Pages公開検証中。第47回制作続行。",
+  "nextAction": "第47回本文制作継続、その後表紙・検証・公開。第48〜50回へ。",
   "quotaLastConfirmedAt": "2026-10-23T07:02:29.529129+09:00",
   "quotaStatus": "generation_resumed",
   "published34AssetSha256Verified": true,
@@ -133,8 +134,8 @@
   "script39": "production/ch039-pages.json",
   "script39State": "47_pages_cover_checked",
   "sourceReview40": "production/ch040-source-review.json",
-  "publishedThrough": 45,
-  "publishedTotalPages": 1748,
+  "publishedThrough": 46,
+  "publishedTotalPages": 1799,
   "published36AssetSha256Verified": true,
   "chapter37RepairFile": "production/ch037-repairs-pending.json",
   "published37AssetSha256Verified": true,
@@ -221,7 +222,7 @@
     39,
     40
   ],
-  "publishedActionsRun": 40204726113,
+  "publishedActionsRun": 40361120954,
   "publishedActionsConclusion": "success",
   "chapter40Validation": {
     "bodyPages": 40,
@@ -289,17 +290,17 @@
   "published41AssetSha256Verified": true,
   "savedPages42": 42,
   "productionResumeAt": "2026-10-26T00:18:10+09:00",
-  "totalPublishedBodyPages": 1748,
+  "totalPublishedBodyPages": 1799,
   "published42AssetSha256Verified": true,
-  "mainCommit": "abbaf31272a96b88dd98f66af489a29d4687de24",
-  "actionsRun": 40204726113,
+  "mainCommit": "1f372c339eb26fde0f4e41b3eb865dae6473e036",
+  "actionsRun": 40361120954,
   "savedPages43": 45,
   "latestPublication": {
-    "chapter": 45,
-    "commit": "abbaf31272a96b88dd98f66af489a29d4687de24",
-    "actionsRun": 40204726113,
+    "chapter": 46,
+    "commit": "1f372c339eb26fde0f4e41b3eb865dae6473e036",
+    "actionsRun": 40361120954,
     "publicFilesVerified": 54,
-    "totalPages": 1748
+    "totalPages": 1799
   },
   "savedPages44": 50,
   "savedPageNumbers44": [
@@ -354,7 +355,7 @@
     49,
     50
   ],
-  "updatedAt": "2026-10-26T00:06:55.639636+09:00",
+  "updatedAt": "2026-10-27T01:52:16.874206+09:00",
   "sourceReview45": "production/ch045-source-review.json",
   "outline45": "production/ch045-outline.json",
   "published44AssetSha256Verified": true,
@@ -380,5 +381,18 @@
     "actionsRun": 40204726113,
     "commit": "abbaf31272a96b88dd98f66af489a29d4687de24"
   },
-  "lastCheckpointAt": "2026-10-27T01:34:22.275660+09:00"
+  "lastCheckpointAt": "2026-10-27T01:34:22.275660+09:00",
+  "savedPages47": 13,
+  "published46AssetSha256Verified": true,
+  "chapter46Validation": {
+    "bodyPages": 51,
+    "cover": true,
+    "publication": "checked",
+    "allPageVisualReviews": "checked",
+    "readerTestsPassed": 7,
+    "publicReferenceCheck": "passed",
+    "publicFilesMatched": 54,
+    "actionsRun": 40361120954,
+    "commit": "1f372c339eb26fde0f4e41b3eb865dae6473e036"
+  }
 }

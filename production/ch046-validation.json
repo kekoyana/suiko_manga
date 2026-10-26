@@ -9,8 +9,11 @@
   "source": "https://zh.wikisource.org/wiki/水滸傳_(120回本)/第046回",
   "endBoundary": "村酒店で茶褐衣の男が楊雄を恩人と認めて拝する。名乗りは次回。",
   "cover": "saved; visually checked; lossless pixels verified",
-  "publication": "pending",
+  "publication": "checked",
   "readerTestsPassed": 7,
   "testLog": "/tmp/suiko-reader46.log",
-  "publicReferenceCheck": "passed"
+  "publicReferenceCheck": "passed",
+  "publicationCommit": "1f372c339eb26fde0f4e41b3eb865dae6473e036",
+  "actionsRun": 40361120954,
+  "publicFilesMatched": 54
 }
