@@ -40,9 +40,9 @@
     "44": 50,
     "45": 51,
     "46": 51,
-    "47": 13
+    "47": 38
   },
-  "nextGeneration": "第47回14頁以降",
+  "nextGeneration": "第48回本文制作継続",
   "imageTool": "built-in image_gen",
   "pendingRepairs": {
     "chapter": 37,
@@ -112,7 +112,7 @@
   "quotaResetAt": "2026-10-26T00:18:10+09:00",
   "quotaResetUnix": 1792941490,
   "resumeReservationId": "5550f3c2-c2bb-4c0c-936f-490b76628c85",
-  "nextAction": "第47回本文制作継続、その後表紙・検証・公開。第48〜50回へ。",
+  "nextAction": "第47回リーダーテスト・main/Pages公開検証、第48〜50回制作",
   "quotaLastConfirmedAt": "2026-10-23T07:02:29.529129+09:00",
   "quotaStatus": "generation_resumed",
   "published34AssetSha256Verified": true,
@@ -355,7 +355,7 @@
     49,
     50
   ],
-  "updatedAt": "2026-10-27T01:52:16.874206+09:00",
+  "updatedAt": "2026-10-27T03:01:13.803079+09:00",
   "sourceReview45": "production/ch045-source-review.json",
   "outline45": "production/ch045-outline.json",
   "published44AssetSha256Verified": true,
@@ -382,7 +382,7 @@
     "commit": "abbaf31272a96b88dd98f66af489a29d4687de24"
   },
   "lastCheckpointAt": "2026-10-27T01:34:22.275660+09:00",
-  "savedPages47": 13,
+  "savedPages47": 38,
   "published46AssetSha256Verified": true,
   "chapter46Validation": {
     "bodyPages": 51,

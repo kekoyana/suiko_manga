@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "title": "水滸伝 漫画書庫",
-  "completedThrough": 46,
-  "totalPages": 1799,
+  "completedThrough": 47,
+  "totalPages": 1837,
   "milestone": 20,
   "chapters": [
     {
@@ -375,10 +375,11 @@
     },
     {
       "number": 47,
-      "title": "第47回",
-      "status": "coming",
-      "pageCount": 0,
-      "cover": null
+      "title": "撲天雕、双つながら生死書を修す／宋公明、一たび祝家荘を打つ",
+      "status": "complete",
+      "pageCount": 38,
+      "cover": "/assets/ch047/cover-28c7f5378761a9ac.webp",
+      "manifest": "/data/ch047-a491f3e4bc06.json"
     },
     {
       "number": 48,
