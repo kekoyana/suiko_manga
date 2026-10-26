@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "title": "水滸伝 漫画書庫",
-  "completedThrough": 45,
-  "totalPages": 1748,
+  "completedThrough": 46,
+  "totalPages": 1799,
   "milestone": 20,
   "chapters": [
     {
@@ -367,10 +367,11 @@
     },
     {
       "number": 46,
-      "title": "第46回",
-      "status": "coming",
-      "pageCount": 0,
-      "cover": null
+      "title": "病関索、翠屏山で騒ぎを起こす／拚命三郎、祝家店を焼く",
+      "status": "complete",
+      "pageCount": 51,
+      "cover": "/assets/ch046/cover-77f1ddc42599e668.webp",
+      "manifest": "/data/ch046-0e3e317c983e.json"
     },
     {
       "number": 47,

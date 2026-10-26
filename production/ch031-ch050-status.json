@@ -39,9 +39,9 @@
     "43": 45,
     "44": 50,
     "45": 51,
-    "46": 8
+    "46": 51
   },
-  "nextGeneration": "第46回9頁から全51頁回末まで、その後47〜50。",
+  "nextGeneration": "第46回表紙",
   "imageTool": "built-in image_gen",
   "pendingRepairs": {
     "chapter": 37,
@@ -111,9 +111,9 @@
   "quotaResetAt": "2026-10-26T00:18:10+09:00",
   "quotaResetUnix": 1792941490,
   "resumeReservationId": "5550f3c2-c2bb-4c0c-936f-490b76628c85",
-  "nextAction": "第45回main/Pages公開54ファイルSHAbytes一致確認済。46本文1〜8保存checked、9生成でquota。2026-10-26T00:18:10+09:00再開予約5550f3c2-c2bb-4c0c-936f-490b76628c85。",
+  "nextAction": "第46回本文51・表紙目視原典SHA検証、reader7件成功。main/Pages公開検証中。第47回制作続行。",
   "quotaLastConfirmedAt": "2026-10-23T07:02:29.529129+09:00",
-  "quotaStatus": "usage_limit_reached",
+  "quotaStatus": "generation_resumed",
   "published34AssetSha256Verified": true,
   "savedPages35": 48,
   "published35AssetSha256Verified": true,
@@ -359,7 +359,7 @@
   "outline45": "production/ch045-outline.json",
   "published44AssetSha256Verified": true,
   "savedPages45": 51,
-  "savedPages46": 8,
+  "savedPages46": 51,
   "script47": "production/ch047-pages.json",
   "script47State": "ready",
   "script48": "production/ch048-pages.json",
@@ -379,5 +379,6 @@
     "publicFilesMatched": 54,
     "actionsRun": 40204726113,
     "commit": "abbaf31272a96b88dd98f66af489a29d4687de24"
-  }
+  },
+  "lastCheckpointAt": "2026-10-27T01:34:22.275660+09:00"
 }

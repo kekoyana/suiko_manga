@@ -12,6 +12,121 @@
       "issue": "翠花修正生成・目視済み、readerテスト完了後保存待ち",
       "replacement": "/home/kekoyana/.codex/generated_images/01a16eff-5059-7220-a4d6-c16a67ee2d7f/exec-3c3182a4-a7b9-4d02-af65-2bc475636538.png",
       "state": "saved_pixel_and_visual_checked"
+    },
+    {
+      "number": 10,
+      "issue": "吹き出し末尾の不要な人名を除去する。",
+      "state": "saved_pixel_and_visual_checked",
+      "source": "/home/kekoyana/.codex/generated_images/01a16eff-5059-7220-a4d6-c16a67ee2d7f/exec-2d6a4c87-74f1-47e6-b35b-26830b5594ad.png",
+      "replacement": "/home/kekoyana/.codex/generated_images/01a16eff-5059-7220-a4d6-c16a67ee2d7f/exec-72e56fd1-8bac-4bb5-a0e0-c09eb22fdd0e.png"
+    },
+    {
+      "number": 12,
+      "issue": "回想の僧を原典通り布頭巾・俗人衣装の変装に修正。",
+      "state": "saved_pixel_and_visual_checked",
+      "source": "/home/kekoyana/.codex/generated_images/01a16eff-5059-7220-a4d6-c16a67ee2d7f/exec-8826a29c-5503-4a6f-ad3a-d07119fe566a.png",
+      "replacement": "/home/kekoyana/.codex/generated_images/01a16eff-5059-7220-a4d6-c16a67ee2d7f/exec-59df925c-9654-43a9-ac3f-31735017d45d.png"
+    },
+    {
+      "number": 15,
+      "issue": "楊雄の花飾りを全コマで小さい緑花へ修正。",
+      "state": "saved_pixel_and_visual_checked",
+      "source": "/home/kekoyana/.codex/generated_images/01a16eff-5059-7220-a4d6-c16a67ee2d7f/exec-a83ed5a9-0ad2-4c58-a0e3-3c8f89411142.png",
+      "replacement": "/home/kekoyana/.codex/generated_images/01a16eff-5059-7220-a4d6-c16a67ee2d7f/exec-05455278-b925-4269-adcb-4a5dd67b4e34.png"
+    },
+    {
+      "number": 16,
+      "issue": "上右の巧雲の台詞尾を本人へ明確に向ける。",
+      "state": "saved_pixel_and_visual_checked",
+      "source": "/home/kekoyana/.codex/generated_images/01a16eff-5059-7220-a4d6-c16a67ee2d7f/exec-81874aed-afd2-4b4b-b861-a03307108f6a.png",
+      "replacement": "/home/kekoyana/.codex/generated_images/01a16eff-5059-7220-a4d6-c16a67ee2d7f/exec-b1930589-2b6d-4d85-bb00-01822c4cb002.png"
+    },
+    {
+      "number": 21,
+      "issue": "楊雄の小さい花を全コマで緑へ統一。",
+      "state": "saved_pixel_and_visual_checked",
+      "source": "/home/kekoyana/.codex/generated_images/01a16eff-5059-7220-a4d6-c16a67ee2d7f/exec-a8cc7854-9f80-4cf4-9765-2a0c863f5673.png",
+      "replacement": "/home/kekoyana/.codex/generated_images/01a16eff-5059-7220-a4d6-c16a67ee2d7f/exec-98a3f375-6b9f-4865-8bb6-2e8baeb27434.png"
+    },
+    {
+      "number": 28,
+      "issue": "追捕状の肖像下の楊雄・石秀が逆。名前交換の部分修正生成中。",
+      "state": "saved_pixel_and_visual_checked",
+      "source": "/home/kekoyana/.codex/generated_images/01a16eff-5059-7220-a4d6-c16a67ee2d7f/exec-fbfc3023-b362-45ff-81ed-64cb321c720c.png",
+      "replacement": "/home/kekoyana/.codex/generated_images/01a16eff-5059-7220-a4d6-c16a67ee2d7f/exec-66e76587-5e9e-46e2-b67c-4469460f366f.png"
+    },
+    {
+      "number": 35,
+      "issue": "時遷の子ども顔と髭抜けを成人の薄口髭・顎髭へ修正。",
+      "state": "saved_pixel_and_visual_checked",
+      "source": "/home/kekoyana/.codex/generated_images/01a16eff-5059-7220-a4d6-c16a67ee2d7f/exec-fb6bf0ba-cd55-48cf-af05-bd5f1ffc2b2a.png",
+      "replacement": "/home/kekoyana/.codex/generated_images/01a16eff-5059-7220-a4d6-c16a67ee2d7f/exec-97c86b22-de11-4620-bfd9-6f68928cbcc4.png"
+    },
+    {
+      "number": 37,
+      "issue": "店小二に混入した髭を除去し、楊雄の花を緑へ統一。",
+      "state": "saved_pixel_and_visual_checked",
+      "source": "/home/kekoyana/.codex/generated_images/01a16eff-5059-7220-a4d6-c16a67ee2d7f/exec-fede1dcf-05b4-49e1-beb8-b81763433dc6.png",
+      "replacement": "/home/kekoyana/.codex/generated_images/01a16eff-5059-7220-a4d6-c16a67ee2d7f/exec-9b5bdf27-7412-495c-9443-d2343736c8ad.png"
+    },
+    {
+      "number": 38,
+      "issue": "弁償を申し出る石秀が時遷になり台詞尾も店小二へ誤接続。石秀灰衣の動作と話者を再生成。",
+      "state": "saved_pixel_and_visual_checked",
+      "source": "/home/kekoyana/.codex/generated_images/01a16eff-5059-7220-a4d6-c16a67ee2d7f/exec-58cf99a2-7dd5-4472-a25c-cbdbdfda97a1.png",
+      "replacement": "/home/kekoyana/.codex/generated_images/01a16eff-5059-7220-a4d6-c16a67ee2d7f/exec-9ef2b7e6-51a4-46ff-aed9-f4ab8b325dc3.png"
+    },
+    {
+      "number": 39,
+      "issue": "新規再生成で台詞と主要人物は直ったが食べ終わった鶏が復活、中右店小二髭混入。皿を骨へ、中右店小二口髭のみ除去の局所修正中。",
+      "state": "saved_pixel_and_visual_checked",
+      "source": "/home/kekoyana/.codex/generated_images/01a16eff-5059-7220-a4d6-c16a67ee2d7f/exec-3d212cf1-dee6-4029-b350-899ddb6e3f18.png",
+      "rejectedPartialRepair": "/home/kekoyana/.codex/generated_images/01a16eff-5059-7220-a4d6-c16a67ee2d7f/exec-cbd38b8a-43c2-47d0-85f8-941783aa0a07.png",
+      "latestSource": "/home/kekoyana/.codex/generated_images/01a16eff-5059-7220-a4d6-c16a67ee2d7f/exec-a65dbb78-e6c9-49f0-a0bd-cf13e0cdb8da.png",
+      "replacement": "/home/kekoyana/.codex/generated_images/01a16eff-5059-7220-a4d6-c16a67ee2d7f/exec-f41a7d08-082d-42af-a7e9-71be37ff2f40.png"
+    },
+    {
+      "number": 40,
+      "issue": "楊雄の大きな金色花飾りを小さい緑花へ統一。",
+      "state": "saved_pixel_and_visual_checked",
+      "source": "/home/kekoyana/.codex/generated_images/01a16eff-5059-7220-a4d6-c16a67ee2d7f/exec-4ec5f20b-7cb9-4fbe-8bf1-96ca53a67588.png",
+      "replacement": "/home/kekoyana/.codex/generated_images/01a16eff-5059-7220-a4d6-c16a67ee2d7f/exec-b1d7c21e-5ae6-4bc0-bcef-110dc02a746f.png"
+    },
+    {
+      "number": 46,
+      "issue": "下左で捕縛後の腕が自由になる連続性誤り、助けを求める台詞抜け。下左のみ修正。",
+      "state": "saved_pixel_and_visual_checked",
+      "source": "/home/kekoyana/.codex/generated_images/01a16eff-5059-7220-a4d6-c16a67ee2d7f/exec-98399e4a-1e34-4e95-a676-ac88e12cef68.png",
+      "replacement": "/home/kekoyana/.codex/generated_images/01a16eff-5059-7220-a4d6-c16a67ee2d7f/exec-1d99a656-4477-4674-a36b-0be5a58b7e81.png"
+    },
+    {
+      "number": 47,
+      "issue": "コマ配置修正済み。中左楊雄の余計な二本目の刀と草中赤い表現を除去中。",
+      "state": "saved_pixel_and_visual_checked",
+      "source": "/home/kekoyana/.codex/generated_images/01a16eff-5059-7220-a4d6-c16a67ee2d7f/exec-df84040e-a9cd-40c4-a1b3-05e5697f752d.png",
+      "latestSource": "/home/kekoyana/.codex/generated_images/01a16eff-5059-7220-a4d6-c16a67ee2d7f/exec-b457b5c5-1bec-4bd2-8671-494bc1018ef2.png",
+      "replacement": "/home/kekoyana/.codex/generated_images/01a16eff-5059-7220-a4d6-c16a67ee2d7f/exec-f8d10415-5b88-49f2-82bf-f26305391e75.png"
+    },
+    {
+      "number": 50,
+      "issue": "上右の荷の指示と下右の楊雄呼び止め台詞が抜けたため二つの吹出しを追加。",
+      "state": "saved_pixel_and_visual_checked",
+      "source": "/home/kekoyana/.codex/generated_images/01a16eff-5059-7220-a4d6-c16a67ee2d7f/exec-ede6c974-b82d-4b2b-a95d-77640eabffcf.png",
+      "replacement": "/home/kekoyana/.codex/generated_images/01a16eff-5059-7220-a4d6-c16a67ee2d7f/exec-ca5cbb32-ea60-407c-9589-c7bdb543251a.png"
+    },
+    {
+      "number": 45,
+      "issue": "再点検で中右楊雄の武器が二本に見えるため、一本の朴刀を両手で扱う形へ修正する。",
+      "state": "saved_pixel_and_visual_checked",
+      "source": "/home/kekoyana/.codex/generated_images/01a16eff-5059-7220-a4d6-c16a67ee2d7f/exec-7cdd990b-c993-42b3-8731-52831b59e5c3.png",
+      "replacement": "/home/kekoyana/.codex/generated_images/01a16eff-5059-7220-a4d6-c16a67ee2d7f/exec-e6232162-aa2c-4575-b684-b66ef93674e8.png"
+    },
+    {
+      "number": 31,
+      "issue": "時遷の丸い幼顔と髭欠落を成人の細い角張った顔・薄口髭と小顎髭へ。楊雄の花を緑へ統一。",
+      "state": "saved_pixel_and_visual_checked",
+      "source": "/home/kekoyana/.codex/generated_images/01a16eff-5059-7220-a4d6-c16a67ee2d7f/exec-9acbafbc-2b99-406b-8ff7-de15ac105d78.png",
+      "replacement": "/home/kekoyana/.codex/generated_images/01a16eff-5059-7220-a4d6-c16a67ee2d7f/exec-b7655d0b-25d1-43f3-ac5b-9e184a2084e5.png"
     }
   ]
 }
