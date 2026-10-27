@@ -1,0 +1,25 @@
+{
+  "chapter": 49,
+  "checkedAt": "2026-10-28T03:17:07.325124+09:00",
+  "bodyPages": 42,
+  "shaMismatchPages": [],
+  "allPageVisualReviewRecords": "checked",
+  "sourceReRead": true,
+  "source": "https://zh.wikisource.org/wiki/水滸傳_(120回本)/第049回",
+  "endBoundary": "呉用が戴宗に山寨から四人を呼ぶよう頼む。四人の名前は第50回。",
+  "cover": "saved; visually checked; lossless pixels verified",
+  "publication": "pending",
+  "pixelMatches": 43,
+  "tests": {
+    "passed": 7,
+    "failed": 0,
+    "logs": [
+      "/tmp/suiko-reader49.log",
+      "/tmp/suiko-reader49-part3.log",
+      "/tmp/suiko-reader49-part4.log",
+      "/tmp/suiko-reader49-parts5-7.log"
+    ],
+    "note": "full run ended after 2 passing tests without assertion failure; remaining five passed in split rerun"
+  },
+  "publicValidator": "passed:120 chapters,1919 pages,1968 referenced WebP"
+}

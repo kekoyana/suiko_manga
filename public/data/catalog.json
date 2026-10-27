@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "title": "水滸伝 漫画書庫",
-  "completedThrough": 48,
-  "totalPages": 1877,
+  "completedThrough": 49,
+  "totalPages": 1919,
   "milestone": 20,
   "chapters": [
     {
@@ -391,10 +391,11 @@
     },
     {
       "number": 49,
-      "title": "第49回",
-      "status": "coming",
-      "pageCount": 0,
-      "cover": null
+      "title": "解珍・解宝、二人で獄を越える／孫立・孫新、大いに牢を破る",
+      "status": "complete",
+      "pageCount": 42,
+      "cover": "/assets/ch049/cover-6fd2c2fd38368276.webp",
+      "manifest": "/data/ch049-b02d74214310.json"
     },
     {
       "number": 50,
