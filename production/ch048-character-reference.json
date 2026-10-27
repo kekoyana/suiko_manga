@@ -1,0 +1,41 @@
+{
+  "chapter": 48,
+  "characters": {
+    "SongJiang": {
+      "source": "/home/kekoyana/.codex/generated_images/01a1743e-4254-7af0-8e62-21422926256a/exec-a392f2b3-bb61-47fd-b0da-430095a55be6.png",
+      "notes": "紫布頭巾灰紫無地衣短黒口顎髭。本人LEFT頬だけ黒縦二本。正面screenRIGHT。鼻screenRIGHT向きは本人RIGHT頬が見え無印、鼻screenLEFT向きは本人LEFT頬が見え有印。"
+    },
+    "HuSanniang": {
+      "source": "/home/kekoyana/.codex/generated_images/01a1743e-4254-7af0-8e62-21422926256a/exec-36f32788-c66c-4874-9dd5-de8620493c6b.png",
+      "notes": "成人女性金簪黒高髪紅衣銀鎖甲日月双刀計2本白灰馬青たてがみ"
+    },
+    "LuanTingyu": {
+      "source": "/home/kekoyana/.codex/generated_images/01a1743e-4254-7af0-8e62-21422926256a/exec-af6daedb-e98d-4fc8-9223-0f48f160bbf1.png",
+      "notes": "白羽黒鉄兜濃紺鎧黒マント長黒髭黒馬、長槍と飛鎚"
+    },
+    "QinMing": {
+      "source": "/home/kekoyana/.codex/generated_images/01a1743e-4254-7af0-8e62-21422926256a/exec-d6fa332a-9d76-4a4a-aead-8757428012d0.png",
+      "notes": "赤羽鉄兜厚黒髭赤衣赤マント鉄鋲鎧狼牙棍茶馬"
+    },
+    "ZhuLong": {
+      "source": "/home/kekoyana/.codex/generated_images/01a1743e-4254-7af0-8e62-21422926256a/exec-de4e781d-d474-4954-b83c-85d96391dc5a.png",
+      "notes": "金兜赤羽短黒口顎髭赤衣銀鎖甲槍黒馬"
+    },
+    "Oupeng": {
+      "source": "/home/kekoyana/.codex/generated_images/01a1743e-4254-7af0-8e62-21422926256a/exec-af6daedb-e98d-4fc8-9223-0f48f160bbf1.png",
+      "notes": "茶頭巾茶衣黒口顎髭槍茶馬"
+    },
+    "DengFei": {
+      "source": "/home/kekoyana/.codex/generated_images/01a1743e-4254-7af0-8e62-21422926256a/exec-9fa79fe2-203d-47a8-86aa-a182edd90ed5.png",
+      "notes": "赤茶頭巾茶衣灰帯赤目密黒髭鉄鎖"
+    },
+    "MaLin": {
+      "source": "/home/kekoyana/.codex/generated_images/01a1743e-4254-7af0-8e62-21422926256a/exec-60554928-27c9-4c71-980f-251a72ddc9df.png",
+      "notes": "黒頭巾藍衣短黒口顎髭双刀計2本、参照馬は白青たてがみだが個体継続要"
+    },
+    "LinChong": {
+      "source": "/home/kekoyana/.codex/generated_images/01a1743e-4254-7af0-8e62-21422926256a/exec-c163ca16-d7e8-40af-8f18-f03186cdfb01.png",
+      "notes": "白羽宝兜銀甲白花刺繍袍濃黒髭霜花馬丈八蛇矛、剣への変化に注意"
+    }
+  }
+}

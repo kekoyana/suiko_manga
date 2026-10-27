@@ -1,0 +1,21 @@
+{
+  "chapter": 48,
+  "pages": [
+    {
+      "number": 29,
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a1743e-4254-7af0-8e62-21422926256a/exec-68bb042b-0bc5-4cf6-ad11-be4cbfc3248a.png",
+      "saved": true,
+      "visualReview": "checked",
+      "issues": [
+        "上右宋江の本人右頬印を消す",
+        "上左奥宋江正面の画面右頬だけ二本印",
+        "下右楊雄の赤頭巾を黒結髪と小緑花に修正",
+        "上右遠景と中右扈三娘は銀鎖甲と白灰馬青たてがみ",
+        "上左馬麟の頭巾黒に統一"
+      ],
+      "resolvedSourceImage": "/home/kekoyana/.codex/generated_images/01a179c0-430d-7d01-b86d-a4a7da9d20a7/exec-fd934cc4-2f8c-45eb-b890-b6af644eaf99.png"
+    }
+  ],
+  "missingPages": [],
+  "resolvedAt": "2026-10-28T01:39:51.814088+09:00"
+}

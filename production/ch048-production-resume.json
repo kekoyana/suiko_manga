@@ -1,0 +1,77 @@
+{
+  "error": "usage_limit_reached",
+  "resetUnix": 1793114737,
+  "resetAt": "2026-10-28T00:25:37+09:00",
+  "reservationId": "fb56bd44-f6be-4769-9695-a853b54618c0",
+  "enabledConfirmed": true,
+  "confirmedAt": "2026-10-27T04:44:02.175420+09:00",
+  "savedPages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40
+  ],
+  "coverChecked": true,
+  "nextAction": "第48回リーダーテスト全7件、main/Pages公開SHA検証。その後49全42頁と50全45頁を回末まで制作検証公開。",
+  "failedCalls": [
+    {
+      "page": 30,
+      "resetUnix": 1793114737
+    },
+    {
+      "page": 32,
+      "resetUnix": 1793114736
+    },
+    {
+      "page": 29,
+      "kind": "repair",
+      "resetUnix": 1793114736
+    },
+    {
+      "page": 33,
+      "resetUnix": 1793114737
+    },
+    {
+      "page": 34,
+      "resetUnix": 1793114737
+    }
+  ],
+  "resumedAt": "2026-10-28T00:26:00+09:00",
+  "state": "all_40_pages_checked_testing"
+}

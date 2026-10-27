@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "title": "水滸伝 漫画書庫",
-  "completedThrough": 47,
-  "totalPages": 1837,
+  "completedThrough": 48,
+  "totalPages": 1877,
   "milestone": 20,
   "chapters": [
     {
@@ -383,10 +383,11 @@
     },
     {
       "number": 48,
-      "title": "第48回",
-      "status": "coming",
-      "pageCount": 0,
-      "cover": null
+      "title": "一丈青、王矮虎を生け捕る／宋公明、再び祝家荘を攻める",
+      "status": "complete",
+      "pageCount": 40,
+      "cover": "/assets/ch048/cover-cb18c24507b3bc5e.webp",
+      "manifest": "/data/ch048-d709c8ed8b4d.json"
     },
     {
       "number": 49,
