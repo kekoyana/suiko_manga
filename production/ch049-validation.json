@@ -8,7 +8,7 @@
   "source": "https://zh.wikisource.org/wiki/水滸傳_(120回本)/第049回",
   "endBoundary": "呉用が戴宗に山寨から四人を呼ぶよう頼む。四人の名前は第50回。",
   "cover": "saved; visually checked; lossless pixels verified",
-  "publication": "pending",
+  "publication": "main/Pages published and verified",
   "pixelMatches": 43,
   "tests": {
     "passed": 7,
@@ -21,5 +21,10 @@
     ],
     "note": "full run ended after 2 passing tests without assertion failure; remaining five passed in split rerun"
   },
-  "publicValidator": "passed:120 chapters,1919 pages,1968 referenced WebP"
+  "publicValidator": "passed:120 chapters,1919 pages,1968 referenced WebP",
+  "publicationCommit": "3fcb1cecb19d632ca7f23fd8f96b7dcbf20058ad",
+  "actionsRun": 40562688612,
+  "actionsConclusion": "success",
+  "publicFilesMatched": 45,
+  "totalPublishedPages": 1919
 }

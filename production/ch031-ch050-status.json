@@ -135,7 +135,7 @@
   "script39": "production/ch039-pages.json",
   "script39State": "47_pages_cover_checked",
   "sourceReview40": "production/ch040-source-review.json",
-  "publishedThrough": 48,
+  "publishedThrough": 49,
   "publishedTotalPages": 1837,
   "published36AssetSha256Verified": true,
   "chapter37RepairFile": "production/ch037-repairs-pending.json",
@@ -505,5 +505,26 @@
     40,
     41,
     42
-  ]
+  ],
+  "savedPages50": 11,
+  "savedPageNumbers50": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+  ],
+  "publication49": {
+    "commit": "3fcb1cecb19d632ca7f23fd8f96b7dcbf20058ad",
+    "actionsRun": 40562688612,
+    "actionsConclusion": "success",
+    "filesMatched": 45,
+    "totalPages": 1919
+  }
 }
