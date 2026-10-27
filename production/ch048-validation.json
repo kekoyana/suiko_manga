@@ -9,7 +9,7 @@
   "source": "https://zh.wikisource.org/wiki/水滸傳_(120回本)/第048回",
   "endBoundary": "呉用が近く祝家荘を破れる機会を示し、宋江が問う。策の説明は第49回。",
   "cover": "saved; visually checked; lossless pixels verified",
-  "publication": "ready_to_publish",
+  "publication": "main_and_pages_verified",
   "readerTestsPassed": 7,
   "publicReferenceCheck": "passed",
   "readerTestEvidence": {
@@ -17,5 +17,10 @@
     "readerRenamedProject": "/tmp/suiko-reader48-part3.log: PASS",
     "staging": "single TTY execution exit 0; 453149ms; all assets/data/404 variants PASS",
     "analytics": "/tmp/suiko-reader48-parts5-7.log"
-  }
+  },
+  "publicationCommit": "52e0bf051e9d84521622beea57222bff8facfd06",
+  "actionsRun": 40550402101,
+  "actionsConclusion": "success",
+  "publicFilesMatched": 43,
+  "totalPublishedBodyPages": 1877
 }
