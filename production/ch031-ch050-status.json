@@ -41,9 +41,11 @@
     "45": 51,
     "46": 51,
     "47": 38,
-    "48": 40
+    "48": 40,
+    "49": 42,
+    "50": 45
   },
-  "nextGeneration": "第49回28頁以降、回末まで継続",
+  "nextGeneration": null,
   "imageTool": "built-in image_gen",
   "pendingRepairs": {
     "chapter": 37,
@@ -51,7 +53,7 @@
     "38": [],
     "43": []
   },
-  "publication": "Chapters 1–48 main/Pages verified; 49–50 in production",
+  "publication": "Chapters 1–49 main/Pages verified; 50 validating",
   "remainingCovers": [],
   "repairPassSavedPages": [
     5,
@@ -113,9 +115,9 @@
   "quotaResetAt": "2026-10-28T00:25:37+09:00",
   "quotaResetUnix": 1793114737,
   "resumeReservationId": "fb56bd44-f6be-4769-9695-a853b54618c0",
-  "nextAction": "29頁修正保存、30・32〜40頁制作、48全頁検証公開、その後49〜50回末まで",
+  "nextAction": "第50回リーダーテスト、main/Pages公開検証",
   "quotaLastConfirmedAt": "2026-10-23T07:02:29.529129+09:00",
-  "quotaStatus": "usage_limit_reached",
+  "quotaStatus": "resumed",
   "published34AssetSha256Verified": true,
   "savedPages35": 48,
   "published35AssetSha256Verified": true,
@@ -506,7 +508,7 @@
     41,
     42
   ],
-  "savedPages50": 11,
+  "savedPages50": 45,
   "savedPageNumbers50": [
     1,
     2,
@@ -518,7 +520,41 @@
     8,
     9,
     10,
-    11
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45
   ],
   "publication49": {
     "commit": "3fcb1cecb19d632ca7f23fd8f96b7dcbf20058ad",
@@ -526,5 +562,12 @@
     "actionsConclusion": "success",
     "filesMatched": 45,
     "totalPages": 1919
+  },
+  "imageQuota50": {
+    "resetAt": "2026-10-29T00:29:22+09:00",
+    "resetEpoch": 1793201362,
+    "reservationId": "f4e29046-b628-4483-b5fc-281e424b1c8e",
+    "enabledConfirmed": true,
+    "next": "50p15修正、16〜45と表紙、全検証公開"
   }
 }

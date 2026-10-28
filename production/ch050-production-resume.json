@@ -1,0 +1,46 @@
+{
+  "state": "validating",
+  "chapter": 50,
+  "totalPages": 45,
+  "savedPages": 45,
+  "nextPage": null,
+  "resetEpoch": 1793201362,
+  "resetAt": "2026-10-29T00:29:22+09:00",
+  "quotaError": "429 usage_limit_reached",
+  "reservation": {
+    "name": "水滸伝漫画 第50回制作再開",
+    "prompt": "水滸伝漫画第50回原典回末まで完成検証GitHub main/Pages公開を継続。repo /mnt/ssdi/keko/kataribe/data/workspaces/e81c0fb4-5f6b-4748-a8c9-11f7599f41de/suiko_manga。AGENTSと実ファイル優先。第49回まで1919本文頁公開検証済。第50回production/ch050-production-resume.json、approved-pending-save、generation-records、scripts/source-reviewを確認。本文1〜14保存確認後、15修正（中右の祝家三兄弟が捕虜を連れる誤描写を除去し梁山軍を追い退ける騎兵戦へ。他5コマ維持）、16〜45原典回末と表紙を制作。組込image_genのみ外部API禁止。少数頁で区切らず全頁人物話者右→左順原典画素SHA検証、目録main/Pages公開まで続行。save-page.py完了後records checked、stagingtest中save禁止。画像上限は通知exactresetに再予約してIDと結果保存。毎時確認は既存enabled予約あり重複不要。README紹介読むリンク公開範囲のみ。",
+    "mode": "once",
+    "runAt": "2026-10-29T00:29:22+09:00",
+    "dotId": "e81c0fb4-5f6b-4748-a8c9-11f7599f41de",
+    "id": "f4e29046-b628-4483-b5fc-281e424b1c8e",
+    "intervalMinutes": 1440,
+    "enabled": true,
+    "createdAt": "2026-10-27T19:13:22.933Z",
+    "nextRun": "2026-10-28T15:29:22.000Z"
+  },
+  "reservationListConfirmed": true,
+  "hourlyReservation": {
+    "name": "水滸伝漫画：1時間ごとの次回タスク予約確認",
+    "prompt": "ユーザー依頼の毎時確認。水滸伝漫画第50回末までの完成・検証・GitHub main/Pages公開について、次の制作タスクの再開予約が登録済みか確認する。リポジトリ /mnt/ssdi/keko/kataribe/data/workspaces/e81c0fb4-5f6b-4748-a8c9-11f7599f41de/suiko_manga の最新進捗と予約記録を確認。予約一覧取得機能がなければ登録なしと断定せず確認不能と明示する。制作再開予約がないと確認でき、制作未完了なら既存依頼に従って制作を再開。画像上限なら通知された正確な解除時刻に再開予約を登録し結果・予約IDをファイルに保存する。第50回末の検証公開が完了するまで、毎回この確認開始時刻の1時間後（すでに過ぎていれば現在時刻の1時間後）に同内容の次回確認をkataribe_schedule_resumeで登録し、成功確認・日時・IDをproduction/hourly-reservation-check.jsonへ記録する。重複が確認できる場合は追加登録しない。組み込みimage_genのみ利用。ユーザーへ確認結果と次回確認日時を簡潔に報告する。",
+    "mode": "once",
+    "runAt": "2026-10-28T00:56:54+09:00",
+    "dotId": "e81c0fb4-5f6b-4748-a8c9-11f7599f41de",
+    "id": "1f2c5589-9816-401c-abef-df2e0845e871",
+    "intervalMinutes": 1440,
+    "enabled": true,
+    "createdAt": "2026-10-27T14:57:06.316Z",
+    "nextRun": "2026-10-27T15:56:54.000Z"
+  },
+  "remaining": "全頁一括検証、目録main/Pages公開",
+  "repair15": {
+    "sourceImage": "/home/kekoyana/.codex/generated_images/01a179c0-430d-7d01-b86d-a4a7da9d20a7/exec-f12ce14d-3d59-41a0-9e10-326053417932.png",
+    "instruction": "中右だけ修正。捕縛された解珍・解宝などの捕虜を除去し、祝家三兄弟の騎兵が梁山軍を追い退ける場面。他5コマ維持。祝龍赤羽黒鉄兜黒馬槍、祝虎銅兜茶衣茶馬大刀、祝彪赤頭巾赤衣茶馬槍。"
+  },
+  "publishedThrough": 49,
+  "publicBodyPages": 1919,
+  "publicationCommit49": "3fcb1cecb19d632ca7f23fd8f96b7dcbf20058ad",
+  "verificationCommit49": "3b24052",
+  "actions49": "40562688612",
+  "publicFiles49Matched": 45
+}

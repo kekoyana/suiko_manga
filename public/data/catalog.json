@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "title": "水滸伝 漫画書庫",
-  "completedThrough": 49,
-  "totalPages": 1919,
+  "completedThrough": 50,
+  "totalPages": 1964,
   "milestone": 20,
   "chapters": [
     {
@@ -399,10 +399,11 @@
     },
     {
       "number": 50,
-      "title": "第50回",
-      "status": "coming",
-      "pageCount": 0,
-      "cover": null
+      "title": "呉学究、二重の連環計をめぐらす／宋公明、三たび祝家荘を攻める",
+      "status": "complete",
+      "pageCount": 45,
+      "cover": "/assets/ch050/cover-4b0c5415df1c4abe.webp",
+      "manifest": "/data/ch050-b219590c0ae0.json"
     },
     {
       "number": 51,
