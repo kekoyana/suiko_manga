@@ -1,5 +1,5 @@
 {
-  "state": "in_progress",
+  "state": "complete",
   "targetChapter": 50,
   "plannedPages": {
     "31": 32,
@@ -53,7 +53,7 @@
     "38": [],
     "43": []
   },
-  "publication": "Chapters 1–49 main/Pages verified; 50 validating",
+  "publication": "Chapters 1–50 main/Pages verified",
   "remainingCovers": [],
   "repairPassSavedPages": [
     5,
@@ -91,8 +91,8 @@
     21,
     24
   ],
-  "publishedCommit": "0fc910a163abaf3ca6363cb5a682e31579610e75",
-  "publishedWorkflow": 40379205270,
+  "publishedCommit": "317cfe7ee4473db31bd2789ee7cabbce524b4def",
+  "publishedWorkflow": 40730621085,
   "published31AssetSha256Verified": true,
   "chapter32RepairFile": "production/ch032-repairs-pending.json",
   "sourceReview32": "production/ch032-source-review.json",
@@ -115,9 +115,9 @@
   "quotaResetAt": "2026-10-28T00:25:37+09:00",
   "quotaResetUnix": 1793114737,
   "resumeReservationId": "fb56bd44-f6be-4769-9695-a853b54618c0",
-  "nextAction": "第50回リーダーテスト、main/Pages公開検証",
+  "nextAction": null,
   "quotaLastConfirmedAt": "2026-10-23T07:02:29.529129+09:00",
-  "quotaStatus": "resumed",
+  "quotaStatus": "resumed_completed",
   "published34AssetSha256Verified": true,
   "savedPages35": 48,
   "published35AssetSha256Verified": true,
@@ -137,8 +137,8 @@
   "script39": "production/ch039-pages.json",
   "script39State": "47_pages_cover_checked",
   "sourceReview40": "production/ch040-source-review.json",
-  "publishedThrough": 49,
-  "publishedTotalPages": 1837,
+  "publishedThrough": 50,
+  "publishedTotalPages": 1964,
   "published36AssetSha256Verified": true,
   "chapter37RepairFile": "production/ch037-repairs-pending.json",
   "published37AssetSha256Verified": true,
@@ -225,7 +225,7 @@
     39,
     40
   ],
-  "publishedActionsRun": 40379205270,
+  "publishedActionsRun": 40730621085,
   "publishedActionsConclusion": "success",
   "chapter40Validation": {
     "bodyPages": 40,
@@ -292,18 +292,18 @@
   "chapter41RepairFile": "production/ch041-repairs-pending.json",
   "published41AssetSha256Verified": true,
   "savedPages42": 42,
-  "productionResumeAt": "2026-10-28T00:25:37+09:00",
-  "totalPublishedBodyPages": 1837,
+  "productionResumeAt": null,
+  "totalPublishedBodyPages": 1964,
   "published42AssetSha256Verified": true,
-  "mainCommit": "0fc910a163abaf3ca6363cb5a682e31579610e75",
-  "actionsRun": 40379205270,
+  "mainCommit": "317cfe7ee4473db31bd2789ee7cabbce524b4def",
+  "actionsRun": 40730621085,
   "savedPages43": 45,
   "latestPublication": {
-    "chapter": 47,
-    "commit": "0fc910a163abaf3ca6363cb5a682e31579610e75",
-    "actionsRun": 40379205270,
-    "publicFilesVerified": 41,
-    "totalPages": 1837
+    "chapter": 50,
+    "commit": "317cfe7ee4473db31bd2789ee7cabbce524b4def",
+    "actionsRun": 40730621085,
+    "publicFilesVerified": 48,
+    "totalPages": 1964
   },
   "savedPages44": 50,
   "savedPageNumbers44": [
@@ -358,7 +358,7 @@
     49,
     50
   ],
-  "updatedAt": "2026-10-27T04:44:02.175420+09:00",
+  "updatedAt": "2026-10-29T02:16:33.435356+09:00",
   "sourceReview45": "production/ch045-source-review.json",
   "outline45": "production/ch045-outline.json",
   "published44AssetSha256Verified": true,
@@ -568,6 +568,20 @@
     "resetEpoch": 1793201362,
     "reservationId": "f4e29046-b628-4483-b5fc-281e424b1c8e",
     "enabledConfirmed": true,
-    "next": "50p15修正、16〜45と表紙、全検証公開"
-  }
+    "next": null,
+    "status": "resumed_completed"
+  },
+  "completedAt": "2026-10-29T02:16:33.435356+09:00",
+  "chapter50Validation": {
+    "bodyPages": 45,
+    "cover": true,
+    "publication": "checked",
+    "allPageVisualReviews": "checked",
+    "readerTestsPassed": 7,
+    "publicReferenceCheck": "passed",
+    "publicFilesMatched": 48,
+    "actionsRun": 40730621085,
+    "commit": "317cfe7ee4473db31bd2789ee7cabbce524b4def"
+  },
+  "published50AssetSha256Verified": true
 }

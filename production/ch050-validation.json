@@ -198,5 +198,11 @@
     }
   ],
   "readerTestsPassed": 7,
-  "readerTestLog": "/tmp/suiko-reader50-retry.log"
+  "readerTestLog": "/tmp/suiko-reader50-retry.log",
+  "publication": "checked",
+  "publicationCommit": "317cfe7ee4473db31bd2789ee7cabbce524b4def",
+  "actionsRun": 40730621085,
+  "actionsConclusion": "success",
+  "publicFilesMatched": 48,
+  "completedAt": "2026-10-29T02:16:33.435356+09:00"
 }

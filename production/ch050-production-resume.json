@@ -1,5 +1,5 @@
 {
-  "state": "validating",
+  "state": "complete",
   "chapter": 50,
   "totalPages": 45,
   "savedPages": 45,
@@ -32,15 +32,23 @@
     "createdAt": "2026-10-27T14:57:06.316Z",
     "nextRun": "2026-10-27T15:56:54.000Z"
   },
-  "remaining": "全頁一括検証、目録main/Pages公開",
+  "remaining": null,
   "repair15": {
     "sourceImage": "/home/kekoyana/.codex/generated_images/01a179c0-430d-7d01-b86d-a4a7da9d20a7/exec-f12ce14d-3d59-41a0-9e10-326053417932.png",
     "instruction": "中右だけ修正。捕縛された解珍・解宝などの捕虜を除去し、祝家三兄弟の騎兵が梁山軍を追い退ける場面。他5コマ維持。祝龍赤羽黒鉄兜黒馬槍、祝虎銅兜茶衣茶馬大刀、祝彪赤頭巾赤衣茶馬槍。"
   },
-  "publishedThrough": 49,
-  "publicBodyPages": 1919,
+  "publishedThrough": 50,
+  "publicBodyPages": 1964,
   "publicationCommit49": "3fcb1cecb19d632ca7f23fd8f96b7dcbf20058ad",
   "verificationCommit49": "3b24052",
   "actions49": "40562688612",
-  "publicFiles49Matched": 45
+  "publicFiles49Matched": 45,
+  "publicationCommit": "317cfe7ee4473db31bd2789ee7cabbce524b4def",
+  "actionsRun": 40730621085,
+  "readerTestsPassed": 7,
+  "quotaStatus": "resumed_no_new_quota",
+  "reservationHistorical": true,
+  "actionsConclusion": "success",
+  "publicFilesMatched": 48,
+  "completedAt": "2026-10-29T02:16:33.435356+09:00"
 }
