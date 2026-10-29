@@ -1,0 +1,238 @@
+{
+  "chapter": 51,
+  "checkedAt": "2026-10-29T19:35:54.858028+00:00",
+  "bodyPages": 44,
+  "cover": true,
+  "readerTests": {
+    "passed": 7,
+    "failed": 0
+  },
+  "publicValidation": "120 chapters, 2008 pages, 2059 referenced WebP files",
+  "images": [
+    {
+      "page": 1,
+      "sha256": "bd2ed2374ddc67f5a99b6af7ab08af79bfc69d467b32bafd790ff37c74a8d5af",
+      "pixelMatch": true
+    },
+    {
+      "page": 2,
+      "sha256": "9c811c5cca510e64a1084533600aa9075c8c48d83ea492ae566239c7966ca465",
+      "pixelMatch": true
+    },
+    {
+      "page": 3,
+      "sha256": "a0cdeaee758d0a8b2046bf94817a4d1f57f1f9a4f3edfe541685555dac65d3f7",
+      "pixelMatch": true
+    },
+    {
+      "page": 4,
+      "sha256": "b0dea374e655af0168ed04edb5fb1e3c3e95563711771369bd9a055b004decec",
+      "pixelMatch": true
+    },
+    {
+      "page": 5,
+      "sha256": "b5d811b22ffb9a79c71ab5a1ab0d5357674e25a330421677c20a433611c7b058",
+      "pixelMatch": true
+    },
+    {
+      "page": 6,
+      "sha256": "30abcdca52103410bb9e0e91091fde052880b9ade4dea86fc9461c63f2b4e1ba",
+      "pixelMatch": true
+    },
+    {
+      "page": 7,
+      "sha256": "fc812eef4d1cbbb6a66ae6ffd0cb489d3ea48ab78a6da9c37e0e623d06b85d50",
+      "pixelMatch": true
+    },
+    {
+      "page": 8,
+      "sha256": "9ae814ed6c1eaddf2bef1468e6a1739e60128db14dfef0f57b46fadeb3784cf3",
+      "pixelMatch": true
+    },
+    {
+      "page": 9,
+      "sha256": "526c4460224c3e14bc5adf941a85381c3d09dddf79adb99d26ff6ec75e611d02",
+      "pixelMatch": true
+    },
+    {
+      "page": 10,
+      "sha256": "d151913f7478509a6c3be52a0e877be38efe11c89a2bf6e7e09041dbc917b9bb",
+      "pixelMatch": true
+    },
+    {
+      "page": 11,
+      "sha256": "397458af3ef8ee1ce2bd8028c0e5d124100b743f9f7787cb3e731b4c15b4bcf3",
+      "pixelMatch": true
+    },
+    {
+      "page": 12,
+      "sha256": "879398ec26208363a8f50d10f8099f33d801fd3040bfdcc36bcb1f1e8c8a07c6",
+      "pixelMatch": true
+    },
+    {
+      "page": 13,
+      "sha256": "860bb8a73737649887db0da064d59990d4b902063b12868995f34a0dbae34159",
+      "pixelMatch": true
+    },
+    {
+      "page": 14,
+      "sha256": "4067282e15dde1e9af03c1ffe8a170fb35a561b453f0fb902eb8e199d6cbbdfe",
+      "pixelMatch": true
+    },
+    {
+      "page": 15,
+      "sha256": "cab3911ad87e558f98e72221824ac60b356389adf3bcda97adb606040ecff97a",
+      "pixelMatch": true
+    },
+    {
+      "page": 16,
+      "sha256": "6ab89e58ecaf7d398892521d830335a3ff4c916d8b7647a4ebd1eaf7fb300034",
+      "pixelMatch": true
+    },
+    {
+      "page": 17,
+      "sha256": "29efa1ed4b48c2a87de78d0cbe997f7f96adac3130a66761420baad1dfeb13ed",
+      "pixelMatch": true
+    },
+    {
+      "page": 18,
+      "sha256": "6283939493d2486a03ce264bc36fccbd49392dd84784851e12f6a86fbb8c9c6d",
+      "pixelMatch": true
+    },
+    {
+      "page": 19,
+      "sha256": "a0392100abebc4d90dbee1d019b06865ab0723fff1df2d1b6b12380fdc610a5b",
+      "pixelMatch": true
+    },
+    {
+      "page": 20,
+      "sha256": "3161e920ed6ded86db0520ef020907e74dad9fdf7d5dacfe0ad67e196935c1fc",
+      "pixelMatch": true
+    },
+    {
+      "page": 21,
+      "sha256": "30269221eb50903cf9c456e83dbcf99bdddb671e8a7525f3b525760c52a36c46",
+      "pixelMatch": true
+    },
+    {
+      "page": 22,
+      "sha256": "ebe0ca96628b38d5ac23ba99ddcd6edc136d290b73df670c3ac07e9b056ae7ba",
+      "pixelMatch": true
+    },
+    {
+      "page": 23,
+      "sha256": "4e0ee67f220a9cf4d782c11b368a84e537b9b494ceabc5ac1c111235519f0310",
+      "pixelMatch": true
+    },
+    {
+      "page": 24,
+      "sha256": "be33b5aad8fee906ef53021ee8209cd1492250f3a078460ca94e3a4846f39b5e",
+      "pixelMatch": true
+    },
+    {
+      "page": 25,
+      "sha256": "6ed131d664cdd70e39489252261b2edad1d26e9e643e2ae0480f8695d29b653b",
+      "pixelMatch": true
+    },
+    {
+      "page": 26,
+      "sha256": "18df1e2fee7285f90a89f41c6be344c3eaffe51c37b536e1f07c66d2339c0660",
+      "pixelMatch": true
+    },
+    {
+      "page": 27,
+      "sha256": "273ff0d93906a381f84faf3f5a26e8ada299f64bad86abf063bae416123711b2",
+      "pixelMatch": true
+    },
+    {
+      "page": 28,
+      "sha256": "2d9efc0f9e84807cd385f75592f86a9108bf85183933ce5c03636e1cadf70924",
+      "pixelMatch": true
+    },
+    {
+      "page": 29,
+      "sha256": "d91288bdcc3072acaf6a06978096f5e1c352c289077b3cf6fe779972a43eb0db",
+      "pixelMatch": true
+    },
+    {
+      "page": 30,
+      "sha256": "0e2dd4e8bc8cca4d3aa74402208d0ae300109da20f3dec9f1d00eeba32d0ed7c",
+      "pixelMatch": true
+    },
+    {
+      "page": 31,
+      "sha256": "b10cf5cd384ed6138a2a7976b5164a93ecae7308e17b705ec4aff4cbf54590f5",
+      "pixelMatch": true
+    },
+    {
+      "page": 32,
+      "sha256": "309adc01e303baafdc0bd2f41f67e350369cbdd5905d6616d827bc095deaa1f8",
+      "pixelMatch": true
+    },
+    {
+      "page": 33,
+      "sha256": "92a20e45b6ce393cfe6c55c629a3cd4766beb1e6068d083b3899f6e08eb0df9d",
+      "pixelMatch": true
+    },
+    {
+      "page": 34,
+      "sha256": "338a868a0900790327a1bdbe7bcbb0af0138e0b2e12f266d46e2b8496ac76cbd",
+      "pixelMatch": true
+    },
+    {
+      "page": 35,
+      "sha256": "87895967979e9318a7a79db8873b5db3113eb54d8970cdc2ccba3b5f25368609",
+      "pixelMatch": true
+    },
+    {
+      "page": 36,
+      "sha256": "dda4ec6bd22ecdab5e0c46c8dd241c2ec6cff7cc7d7908884307a03a4cd3fa2f",
+      "pixelMatch": true
+    },
+    {
+      "page": 37,
+      "sha256": "5901728ecbfd12b19b733e4c6ed01680ecc06f5679897a1bfc35433d6f910a1e",
+      "pixelMatch": true
+    },
+    {
+      "page": 38,
+      "sha256": "ce58534bdb4fd5c35f52465bb75d1d39c68a58855521006a864abee1a7f3d5f5",
+      "pixelMatch": true
+    },
+    {
+      "page": 39,
+      "sha256": "52df9fe60fd0c41c919a2c27eb375c436ec12c2d79a570959fb31ec17804bf90",
+      "pixelMatch": true
+    },
+    {
+      "page": 40,
+      "sha256": "2fac80126158897ba3f4fc3d31f55f7880de1b1691869063a4ce366b29ffa6c6",
+      "pixelMatch": true
+    },
+    {
+      "page": 41,
+      "sha256": "9f0ec75fa5cc52ef343ac9fd7c274b61256b1c4315ef1b054396ad0c06cbbfac",
+      "pixelMatch": true
+    },
+    {
+      "page": 42,
+      "sha256": "f1256710e99e997f99427b2caee0873ef2410f2e5b0cedaa35aecde1b43fd032",
+      "pixelMatch": true
+    },
+    {
+      "page": 43,
+      "sha256": "534c44e3ea67d4338749967cf86c3767cc83585047eecb38cdcdab9ff72e9a98",
+      "pixelMatch": true
+    },
+    {
+      "page": 44,
+      "sha256": "604144e15eb45e769c52525be5be5629bb0352caf00d143962fcfff8991c95b1",
+      "pixelMatch": true
+    },
+    {
+      "page": "cover",
+      "sha256": "b1d20294cfafeac6d98e8858ad6b7c990eeea119f161bcb9ac89f57dea54e320",
+      "pixelMatch": true
+    }
+  ]
+}

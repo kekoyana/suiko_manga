@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "title": "水滸伝 漫画書庫",
-  "completedThrough": 50,
-  "totalPages": 1964,
+  "completedThrough": 51,
+  "totalPages": 2008,
   "milestone": 20,
   "chapters": [
     {
@@ -407,10 +407,11 @@
     },
     {
       "number": 51,
-      "title": "第51回",
-      "status": "coming",
-      "pageCount": 0,
-      "cover": null
+      "title": "雷横、枷で白秀英を打つ／美髯公、小衙内を失う",
+      "status": "complete",
+      "pageCount": 44,
+      "cover": "/assets/ch051/cover-b1d20294cfafeac6.webp",
+      "manifest": "/data/ch051-0dbd4d0072cc.json"
     },
     {
       "number": 52,
