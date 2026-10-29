@@ -1,7 +1,7 @@
 {
   "chapter": 51,
   "targetChapter": 70,
-  "state": "local_complete_publication_pending",
+  "state": "complete_published_verified",
   "script": "production/ch051-pages.json",
   "sourceReview": "production/ch051-source-review.json",
   "plannedBodyPages": 44,
@@ -99,7 +99,7 @@
   ],
   "pending": [],
   "nextPage": 40,
-  "nextAction": "公開テスト完了後main/Pagesへ第51回公開。第52回1〜5画像制作中、その後70回まで続行。",
+  "nextAction": "第52回から第70回末まで制作検証公開を継続",
   "rules": [
     "組み込みimage_genのみ外部API禁止",
     "save-page.py完了待ってrecords checked追記、同章並列保存しない",
@@ -109,5 +109,7 @@
   ],
   "updatedAt": "2026-10-30T04:30:07.828701+09:00",
   "coverSaved": true,
-  "coverChecked": true
+  "coverChecked": true,
+  "publishedCommit": "29c6b1cdbb983c081598954e1fb0f57a7184f5e5",
+  "publicationValidation": "production/ch051-publication-validation.json"
 }
