@@ -1,0 +1,13 @@
+{
+  "chapter": 53,
+  "repairs": [
+    {
+      "page": 23,
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a18d9f-3c11-7da2-8d7f-e10350f49841/exec-a21463cf-0bd2-449a-a03c-740cae2aba86.png",
+      "issue": "上右左上と下左左上の小数字2が残存。消去が必要。内容右左順と人物は確認済。",
+      "state": "resolved",
+      "resolvedSourceImage": "/home/kekoyana/.codex/generated_images/01a18d9f-3c11-7da2-8d7f-e10350f49841/exec-4ba293cd-1e58-4059-8d3c-fc5d33481a8c.png",
+      "resolution": "新規描き直しで小数字なし、目視確認。"
+    }
+  ]
+}

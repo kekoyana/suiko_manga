@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "title": "水滸伝 漫画書庫",
-  "completedThrough": 52,
-  "totalPages": 2052,
+  "completedThrough": 53,
+  "totalPages": 2088,
   "milestone": 20,
   "chapters": [
     {
@@ -423,10 +423,11 @@
     },
     {
       "number": 53,
-      "title": "第53回",
-      "status": "coming",
-      "pageCount": 0,
-      "cover": null
+      "title": "戴宗、智をもって公孫勝を招く／李逵、斧で羅真人を試す",
+      "status": "complete",
+      "pageCount": 36,
+      "cover": "/assets/ch053/cover-af7ac61352136acb.webp",
+      "manifest": "/data/ch053-ff0d9d94cbd1.json"
     },
     {
       "number": 54,

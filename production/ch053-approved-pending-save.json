@@ -1,0 +1,33 @@
+{
+  "chapter": 53,
+  "pages": [
+    {
+      "number": 1,
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a18d9f-3c11-7da2-8d7f-e10350f49841/exec-2bd679e5-5681-4ea1-8aca-d635e84b301a.png",
+      "visualReview": "checked",
+      "sourceReview": "checked",
+      "speakerOrder": "checked",
+      "reviewNotes": "公孫勝探索と黒旋風同行、菜食条件、宋江左頬印と右左順確認。",
+      "saved": true
+    },
+    {
+      "number": 2,
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a18d9f-3c11-7da2-8d7f-e10350f49841/exec-d71dd8a1-249a-4baf-8a37-82f56e8f8a9c.png",
+      "visualReview": "checked",
+      "sourceReview": "checked",
+      "speakerOrder": "checked",
+      "reviewNotes": "客店で戴宗菜飯、黒旋風は裏で肉酒、戴宗の心内と寝たふり。人物と右左順を確認。",
+      "saved": true
+    },
+    {
+      "number": 3,
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a18d9f-3c11-7da2-8d7f-e10350f49841/exec-6a66d934-94bf-44d8-bd50-9e75b38395e1.png",
+      "visualReview": "checked",
+      "sourceReview": "checked",
+      "speakerOrder": "checked",
+      "reviewNotes": "四枚の甲馬を両脚に結ぶ冒頭、呪、神行、止まれない空腹、戴宗の意図を右左順で確認。",
+      "saved": true
+    }
+  ],
+  "note": "stagingテスト終了後にsave-page.pyで保存しrecords checked追記"
+}
