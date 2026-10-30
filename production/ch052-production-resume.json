@@ -1,5 +1,5 @@
 {
-  "state": "publication_validation",
+  "state": "published_verified",
   "targetChapter": 70,
   "chapter": 52,
   "plannedBodyPages": 44,
@@ -58,6 +58,9 @@
   },
   "reservationId": "aa161a1d-1283-49fb-a847-c48a8e2b7833",
   "reservationRecord": "production/ch052-reservation-confirmation.json",
-  "nextAction": "第52回全44本文頁と表紙検証、目録登録mainPages公開。その後第53〜70回を継続",
-  "updatedAt": "2026-10-30T18:09:39.121515+00:00"
+  "nextAction": "第53〜70回を各原典回末まで制作検証mainPages公開",
+  "updatedAt": "2026-10-30T18:50:20.426452+00:00",
+  "publicationCommit": "093b063f26d889811510b8c9f9e3faabab7500f4",
+  "publicationValidation": "production/ch052-publication-validation.json",
+  "actionsRunId": 41107803571
 }
