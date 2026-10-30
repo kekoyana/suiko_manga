@@ -1,0 +1,47 @@
+{
+  "chapter": 54,
+  "repairs": [
+    {
+      "page": 1,
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a18d9f-3c11-7da2-8d7f-e10350f49841/exec-c46624ef-bf9e-4f5a-9565-7bc52bdcdf90.png",
+      "issue": "黒旋風の肌を7頁の濃黒褐色へ統一。必要なら剣混入除去。ほかの人物肌は維持。",
+      "state": "resolved",
+      "replacementImage": "/home/kekoyana/.codex/generated_images/01a18d9f-3c11-7da2-8d7f-e10350f49841/exec-aa1092b8-53f4-48a7-9dc3-46384e83c713.png"
+    },
+    {
+      "page": 2,
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a18d9f-3c11-7da2-8d7f-e10350f49841/exec-520af84d-d736-4634-bb73-fe85e89a2966.png",
+      "issue": "黒旋風の肌を7頁の濃黒褐色へ統一。必要なら剣混入除去。ほかの人物肌は維持。",
+      "state": "resolved",
+      "replacementImage": "/home/kekoyana/.codex/generated_images/01a18d9f-3c11-7da2-8d7f-e10350f49841/exec-d761447a-f7dd-43b5-8233-5204b6c4b1be.png"
+    },
+    {
+      "page": 3,
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a18d9f-3c11-7da2-8d7f-e10350f49841/exec-f4bd057d-08c0-421c-8edb-b8ec4e2f4192.png",
+      "issue": "黒旋風の肌を7頁の濃黒褐色へ統一。必要なら剣混入除去。ほかの人物肌は維持。",
+      "state": "resolved",
+      "replacementImage": "/home/kekoyana/.codex/generated_images/01a18d9f-3c11-7da2-8d7f-e10350f49841/exec-b7ce6b83-8532-47f4-8132-c7a926ae033e.png"
+    },
+    {
+      "page": 4,
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a18d9f-3c11-7da2-8d7f-e10350f49841/exec-86f7b629-0c3f-4ef6-a580-dc0548835274.png",
+      "issue": "黒旋風の肌を7頁の濃黒褐色へ統一。必要なら剣混入除去。ほかの人物肌は維持。",
+      "state": "resolved",
+      "replacementImage": "/home/kekoyana/.codex/generated_images/01a18d9f-3c11-7da2-8d7f-e10350f49841/exec-30d6fea7-f8eb-4824-b83d-4c03682dfe99.png"
+    },
+    {
+      "page": 5,
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a18d9f-3c11-7da2-8d7f-e10350f49841/exec-60685985-2b1d-47d7-9a92-f1cc3f4a6363.png",
+      "issue": "黒旋風の肌を7頁の濃黒褐色へ統一。必要なら剣混入除去。ほかの人物肌は維持。",
+      "state": "resolved",
+      "replacementImage": "/home/kekoyana/.codex/generated_images/01a18d9f-3c11-7da2-8d7f-e10350f49841/exec-2bf61d33-3bca-4e0e-a769-dfbc10c180a3.png"
+    },
+    {
+      "page": 6,
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a18d9f-3c11-7da2-8d7f-e10350f49841/exec-0282107c-e76f-47f1-a166-7467d6e145eb.png",
+      "issue": "黒旋風の肌を7頁の濃黒褐色へ統一。必要なら剣混入除去。ほかの人物肌は維持。",
+      "state": "resolved",
+      "replacementImage": "/home/kekoyana/.codex/generated_images/01a18d9f-3c11-7da2-8d7f-e10350f49841/exec-019c6d70-ab4d-4240-97eb-4d13da2a832c.png"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "reservation": "{\"name\":\"水滸伝 第54回23頁から第70回末まで制作再開\",\"prompt\":\"水滸伝漫画を第70回原典回末まで制作検証GitHub main/Pages公開継続。repo /mnt/ssdi/keko/kataribe/data/workspaces/e81c0fb4-5f6b-4748-a8c9-11f7599f41de/suiko_manga。AGENTS実ファイル優先。第1〜53回2088本文頁公開検証済。main公開da287445f5b34d720dfda918bb8ed7f58da52939、検証記録061617d、Actions41124903190validate/deploy success、ch053-publication-validation.json39公開ファイルSHAbytes一致、reader7PASS。第54回48頁脚本ready/source-review原典全読了。本文1〜22保存済。1〜6肌色修正解決。22 save完了後checked追記済かrecords確認。23生成429usage_limit_reached reset1793463958=2026-11-01T01:25:58+09:00。production/ch054-production-resume.json/repairs-pending/generation-records/ch051-ch070-status実ファイル確認。23〜48原典回末と表紙を組込image_genで制作、全頁目視原典人物話者右左順画素SHA確認、目録登録main/Pages公開。その後55〜70各原典回末まで継続。少数頁で区切らない。組込image_gen以外外部画像API禁止。quota時通知exactreset予約ID結果保存。save-page.py完了後recordschecked追記、save上書き。stagingtests中保存禁止。宋江小柄灰紫無地低布頭巾短口顎髭、本人LEFT頬のみ黒印、鼻画面右なら見える本人RIGHT頬は無印。54戦装金甲水銀盔赤巾桃花斑馬。呉用白袍黒縁白九綸巾羽扇青驄、公孫勝星冠青霞紋九霞衣長黒髭松紋剣黄花馬。高廉黒赤金甲赤飾兜尖黒髭黒馬。官軍高旗梁山梁旗混同注意。黒旋風非常に濃黒褐肌縮黒髪密黒髭粗黒衣双斧、全腕手顔濃く、唐隆等他人肌暗くしない。唐隆痘痕茶服短髭54p10以降黒丸フェルト帽腰刀朴刀。朱仝赤褐顔緑衣黒巾腹超す長黒髯本人LEFT頬印のみ。柴進白孝服白頭巾木首枷から井戸救出。54後半の高廉一家処刑は間接で事実明示、朝廷高俅の官民皆殺し発言は誇張と明示。54末呼延灼二先鋒推薦願いで終わり名前55まで出さない。README紹介読むリンク公開範囲のみ。ネットsandbox不通はescalated exec。70末公開までcomplete不可。\",\"mode\":\"once\",\"runAt\":\"2026-11-01T01:25:58+09:00\",\"dotId\":\"e81c0fb4-5f6b-4748-a8c9-11f7599f41de\",\"id\":\"a714a499-586e-4145-ac83-2f9eb8d69a54\",\"intervalMinutes\":1440,\"enabled\":true,\"createdAt\":\"2026-10-30T22:27:17.524Z\",\"nextRun\":\"2026-10-31T16:25:58.000Z\"}",
+  "verifiedEnabled": [
+    {
+      "name": "水滸伝 第54回23頁から第70回末まで制作再開",
+      "prompt": "水滸伝漫画を第70回原典回末まで制作検証GitHub main/Pages公開継続。repo /mnt/ssdi/keko/kataribe/data/workspaces/e81c0fb4-5f6b-4748-a8c9-11f7599f41de/suiko_manga。AGENTS実ファイル優先。第1〜53回2088本文頁公開検証済。main公開da287445f5b34d720dfda918bb8ed7f58da52939、検証記録061617d、Actions41124903190validate/deploy success、ch053-publication-validation.json39公開ファイルSHAbytes一致、reader7PASS。第54回48頁脚本ready/source-review原典全読了。本文1〜22保存済。1〜6肌色修正解決。22 save完了後checked追記済かrecords確認。23生成429usage_limit_reached reset1793463958=2026-11-01T01:25:58+09:00。production/ch054-production-resume.json/repairs-pending/generation-records/ch051-ch070-status実ファイル確認。23〜48原典回末と表紙を組込image_genで制作、全頁目視原典人物話者右左順画素SHA確認、目録登録main/Pages公開。その後55〜70各原典回末まで継続。少数頁で区切らない。組込image_gen以外外部画像API禁止。quota時通知exactreset予約ID結果保存。save-page.py完了後recordschecked追記、save上書き。stagingtests中保存禁止。宋江小柄灰紫無地低布頭巾短口顎髭、本人LEFT頬のみ黒印、鼻画面右なら見える本人RIGHT頬は無印。54戦装金甲水銀盔赤巾桃花斑馬。呉用白袍黒縁白九綸巾羽扇青驄、公孫勝星冠青霞紋九霞衣長黒髭松紋剣黄花馬。高廉黒赤金甲赤飾兜尖黒髭黒馬。官軍高旗梁山梁旗混同注意。黒旋風非常に濃黒褐肌縮黒髪密黒髭粗黒衣双斧、全腕手顔濃く、唐隆等他人肌暗くしない。唐隆痘痕茶服短髭54p10以降黒丸フェルト帽腰刀朴刀。朱仝赤褐顔緑衣黒巾腹超す長黒髯本人LEFT頬印のみ。柴進白孝服白頭巾木首枷から井戸救出。54後半の高廉一家処刑は間接で事実明示、朝廷高俅の官民皆殺し発言は誇張と明示。54末呼延灼二先鋒推薦願いで終わり名前55まで出さない。README紹介読むリンク公開範囲のみ。ネットsandbox不通はescalated exec。70末公開までcomplete不可。",
+      "mode": "once",
+      "runAt": "2026-11-01T01:25:58+09:00",
+      "dotId": "e81c0fb4-5f6b-4748-a8c9-11f7599f41de",
+      "id": "a714a499-586e-4145-ac83-2f9eb8d69a54",
+      "intervalMinutes": 1440,
+      "enabled": true,
+      "createdAt": "2026-10-30T22:27:17.524Z",
+      "nextRun": "2026-10-31T16:25:58.000Z"
+    }
+  ],
+  "quota": {
+    "type": "usage_limit_reached",
+    "resets_at": 1793463958,
+    "resetsAtJst": "2026-11-01T01:25:58+09:00",
+    "failedPage": 23
+  }
+}
