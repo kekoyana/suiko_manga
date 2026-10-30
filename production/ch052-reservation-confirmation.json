@@ -1,0 +1,25 @@
+{
+  "checkedAt": "2026-10-29T20:18:35.738Z",
+  "quota": {
+    "type": "usage_limit_reached",
+    "resets_at": 1793377379,
+    "resetJst": "2026-10-31T01:22:59+09:00",
+    "failedChapter": 52,
+    "failedPage": 23
+  },
+  "reservation": "{\"name\":\"水滸伝 第52回続きから第70回末まで制作再開\",\"prompt\":\"水滸伝漫画を第70回原典回末まで制作・検証・GitHub main/Pages公開する依頼を継続。repo /mnt/ssdi/keko/kataribe/data/workspaces/e81c0fb4-5f6b-4748-a8c9-11f7599f41de/suiko_manga。AGENTSと実ファイル優先。第51回44本文+表紙完成、第1〜51回2008本文頁公開、main29c6b1c/検証記録903ea1a、Actions40942539146validate/deploy success、公開47ファイルSHAbytes一致production/ch051-publication-validation.json。第52回44頁脚本ready、generation-records/production-resume/repairs-pending/statusを確認。本文1〜19保存checked、20〜22生成済は記録参照して保存・修正確認。23頁生成で429usage_limit_reached、通知reset1793377379=2026-10-31T01:22:59+09:00。記録済pending修正と23〜44原典回末・表紙、全頁目視原典人物話者右→左順画素SHA検証、目録main/Pages公開。その後53〜70各回末まで継続、少数頁で区切らない。53脚本36頁draft、34頁の母の暮らし相談は54回なので修正必要、53末は羅真人が言葉を授ける前に公孫勝が跪く所。54原典読了source-reviewあり。組み込みimage_genのみ、外部API禁止。quota時は通知exactreset再予約ID結果保存。save-page.py完了後recordschecked追記（saveで上書き）。stagingtests中保存禁止。宋江小柄灰紫無地低布頭巾短口顎髭本人LEFT頬のみ黒印。朱仝赤褐顔緑衣黒布頭巾腹越す長黒髯本人LEFT頬印のみ、鼻が画面右なら見える本人RIGHT頬は無印。李逵濃黒褐肌縮黒髪密黒髭粗黒衣双斧、字が李達になりやすいので黒旋風表記。柴進紫錦黒帽整黒髭だが52p13以降白孝服白頭巾、投獄木首枷。高廉赤官服黒翼帽尖黒髭。殷天錫緑金衣黒金帽細口髭。第51回reader7件PASS。README紹介読むリンク公開範囲のみ。ネットsandbox不通はescalated exec。70末公開までgoalcompleteにしない。\",\"mode\":\"once\",\"runAt\":\"2026-10-31T01:22:59+09:00\",\"dotId\":\"e81c0fb4-5f6b-4748-a8c9-11f7599f41de\",\"id\":\"aa161a1d-1283-49fb-a847-c48a8e2b7833\",\"intervalMinutes\":1440,\"enabled\":true,\"createdAt\":\"2026-10-29T20:16:21.450Z\",\"nextRun\":\"2026-10-30T16:22:59.000Z\"}",
+  "listVerification": [
+    {
+      "name": "水滸伝 第52回続きから第70回末まで制作再開",
+      "prompt": "水滸伝漫画を第70回原典回末まで制作・検証・GitHub main/Pages公開する依頼を継続。repo /mnt/ssdi/keko/kataribe/data/workspaces/e81c0fb4-5f6b-4748-a8c9-11f7599f41de/suiko_manga。AGENTSと実ファイル優先。第51回44本文+表紙完成、第1〜51回2008本文頁公開、main29c6b1c/検証記録903ea1a、Actions40942539146validate/deploy success、公開47ファイルSHAbytes一致production/ch051-publication-validation.json。第52回44頁脚本ready、generation-records/production-resume/repairs-pending/statusを確認。本文1〜19保存checked、20〜22生成済は記録参照して保存・修正確認。23頁生成で429usage_limit_reached、通知reset1793377379=2026-10-31T01:22:59+09:00。記録済pending修正と23〜44原典回末・表紙、全頁目視原典人物話者右→左順画素SHA検証、目録main/Pages公開。その後53〜70各回末まで継続、少数頁で区切らない。53脚本36頁draft、34頁の母の暮らし相談は54回なので修正必要、53末は羅真人が言葉を授ける前に公孫勝が跪く所。54原典読了source-reviewあり。組み込みimage_genのみ、外部API禁止。quota時は通知exactreset再予約ID結果保存。save-page.py完了後recordschecked追記（saveで上書き）。stagingtests中保存禁止。宋江小柄灰紫無地低布頭巾短口顎髭本人LEFT頬のみ黒印。朱仝赤褐顔緑衣黒布頭巾腹越す長黒髯本人LEFT頬印のみ、鼻が画面右なら見える本人RIGHT頬は無印。李逵濃黒褐肌縮黒髪密黒髭粗黒衣双斧、字が李達になりやすいので黒旋風表記。柴進紫錦黒帽整黒髭だが52p13以降白孝服白頭巾、投獄木首枷。高廉赤官服黒翼帽尖黒髭。殷天錫緑金衣黒金帽細口髭。第51回reader7件PASS。README紹介読むリンク公開範囲のみ。ネットsandbox不通はescalated exec。70末公開までgoalcompleteにしない。",
+      "mode": "once",
+      "runAt": "2026-10-31T01:22:59+09:00",
+      "dotId": "e81c0fb4-5f6b-4748-a8c9-11f7599f41de",
+      "id": "aa161a1d-1283-49fb-a847-c48a8e2b7833",
+      "intervalMinutes": 1440,
+      "enabled": true,
+      "createdAt": "2026-10-29T20:16:21.450Z",
+      "nextRun": "2026-10-30T16:22:59.000Z"
+    }
+  ]
+}

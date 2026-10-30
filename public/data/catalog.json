@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "title": "水滸伝 漫画書庫",
-  "completedThrough": 51,
-  "totalPages": 2008,
+  "completedThrough": 52,
+  "totalPages": 2052,
   "milestone": 20,
   "chapters": [
     {
@@ -415,10 +415,11 @@
     },
     {
       "number": 52,
-      "title": "第52回",
-      "status": "coming",
-      "pageCount": 0,
-      "cover": null
+      "title": "李逵、殷天錫を打ち殺す／柴進、高唐州に囚われる",
+      "status": "complete",
+      "pageCount": 44,
+      "cover": "/assets/ch052/cover-ba9ac50081a39d61.webp",
+      "manifest": "/data/ch052-b66917b8af28.json"
     },
     {
       "number": 53,
