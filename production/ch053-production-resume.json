@@ -1,5 +1,5 @@
 {
-  "state": "ready-to-publish",
+  "state": "published-verified",
   "chapter": 53,
   "targetChapter": 70,
   "plannedBodyPages": 36,
@@ -43,8 +43,8 @@
   ],
   "nextPage": null,
   "coverSaved": true,
-  "nextAction": "第53回のリーダー確認main/Pages公開・公開39ファイル照合。その後54〜70継続。",
-  "updatedAt": "2026-10-30T20:33:12.349374+00:00",
+  "nextAction": "第54回制作中。その後70回原典回末まで継続。",
+  "updatedAt": "2026-10-30T20:57:10.401245+00:00",
   "savedPages": [
     1,
     2,
@@ -83,5 +83,6 @@
     35,
     36
   ],
-  "repairPendingPages": []
+  "repairPendingPages": [],
+  "publicationValidation": "production/ch053-publication-validation.json"
 }
