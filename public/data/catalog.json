@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "title": "水滸伝 漫画書庫",
-  "completedThrough": 53,
-  "totalPages": 2088,
+  "completedThrough": 54,
+  "totalPages": 2136,
   "milestone": 20,
   "chapters": [
     {
@@ -431,10 +431,11 @@
     },
     {
       "number": 54,
-      "title": "第54回",
-      "status": "coming",
-      "pageCount": 0,
-      "cover": null
+      "title": "公孫勝、法を闘わせ高廉を破る／黒旋風、井戸に下り柴進を救う",
+      "status": "complete",
+      "pageCount": 48,
+      "cover": "/assets/ch054/cover-fdc9c7f9190ffcf0.webp",
+      "manifest": "/data/ch054-8f8f9a2546a5.json"
     },
     {
       "number": 55,

@@ -1,0 +1,213 @@
+TAP version 13
+# chapter-progress / 1
+# chapter-progress / 2
+# chapter-progress / 3
+# chapter-progress / 4
+# chapter-progress / 5
+# chapter-progress / 6
+# chapter-progress / 7
+# chapter-progress / 8
+# chapter-progress / 9
+# chapter-progress / 10
+# chapter-progress / 11
+# chapter-progress / 12
+# chapter-progress / 13
+# chapter-progress / 14
+# chapter-progress / 15
+# chapter-progress / 16
+# chapter-progress / 17
+# chapter-progress / 18
+# chapter-progress / 19
+# chapter-progress / 20
+# chapter-progress / 21
+# chapter-progress / 22
+# chapter-progress / 23
+# chapter-progress / 24
+# chapter-progress / 25
+# chapter-progress / 26
+# chapter-progress / 27
+# chapter-progress / 28
+# chapter-progress / 29
+# chapter-progress / 30
+# chapter-progress / 31
+# chapter-progress / 32
+# chapter-progress / 33
+# chapter-progress / 34
+# chapter-progress / 35
+# chapter-progress / 36
+# chapter-progress / 37
+# chapter-progress / 38
+# chapter-progress / 39
+# chapter-progress / 40
+# chapter-progress / 41
+# chapter-progress / 42
+# chapter-progress / 43
+# chapter-progress / 44
+# chapter-progress / 45
+# chapter-progress / 46
+# chapter-progress / 47
+# chapter-progress / 48
+# chapter-progress / 49
+# chapter-progress / 50
+# chapter-progress / 51
+# chapter-progress / 52
+# chapter-progress / 53
+# chapter-progress / 54
+# chapters-done /
+# Subtest: reader at /
+ok 1 - reader at /
+  ---
+  duration_ms: 37181.559541
+  ...
+# chapter-progress /suiko_manga/ 1
+# chapter-progress /suiko_manga/ 2
+# chapter-progress /suiko_manga/ 3
+# chapter-progress /suiko_manga/ 4
+# chapter-progress /suiko_manga/ 5
+# chapter-progress /suiko_manga/ 6
+# chapter-progress /suiko_manga/ 7
+# chapter-progress /suiko_manga/ 8
+# chapter-progress /suiko_manga/ 9
+# chapter-progress /suiko_manga/ 10
+# chapter-progress /suiko_manga/ 11
+# chapter-progress /suiko_manga/ 12
+# chapter-progress /suiko_manga/ 13
+# chapter-progress /suiko_manga/ 14
+# chapter-progress /suiko_manga/ 15
+# chapter-progress /suiko_manga/ 16
+# chapter-progress /suiko_manga/ 17
+# chapter-progress /suiko_manga/ 18
+# chapter-progress /suiko_manga/ 19
+# chapter-progress /suiko_manga/ 20
+# chapter-progress /suiko_manga/ 21
+# chapter-progress /suiko_manga/ 22
+# chapter-progress /suiko_manga/ 23
+# chapter-progress /suiko_manga/ 24
+# chapter-progress /suiko_manga/ 25
+# chapter-progress /suiko_manga/ 26
+# chapter-progress /suiko_manga/ 27
+# chapter-progress /suiko_manga/ 28
+# chapter-progress /suiko_manga/ 29
+# chapter-progress /suiko_manga/ 30
+# chapter-progress /suiko_manga/ 31
+# chapter-progress /suiko_manga/ 32
+# chapter-progress /suiko_manga/ 33
+# chapter-progress /suiko_manga/ 34
+# chapter-progress /suiko_manga/ 35
+# chapter-progress /suiko_manga/ 36
+# chapter-progress /suiko_manga/ 37
+# chapter-progress /suiko_manga/ 38
+# chapter-progress /suiko_manga/ 39
+# chapter-progress /suiko_manga/ 40
+# chapter-progress /suiko_manga/ 41
+# chapter-progress /suiko_manga/ 42
+# chapter-progress /suiko_manga/ 43
+# chapter-progress /suiko_manga/ 44
+# chapter-progress /suiko_manga/ 45
+# chapter-progress /suiko_manga/ 46
+# chapter-progress /suiko_manga/ 47
+# chapter-progress /suiko_manga/ 48
+# chapter-progress /suiko_manga/ 49
+# chapter-progress /suiko_manga/ 50
+# chapter-progress /suiko_manga/ 51
+# chapter-progress /suiko_manga/ 52
+# chapter-progress /suiko_manga/ 53
+# chapter-progress /suiko_manga/ 54
+# chapters-done /suiko_manga/
+# Subtest: reader at /suiko_manga/
+ok 2 - reader at /suiko_manga/
+  ---
+  duration_ms: 29803.776605
+  ...
+# chapter-progress /renamed-project/ 1
+# chapter-progress /renamed-project/ 2
+# chapter-progress /renamed-project/ 3
+# chapter-progress /renamed-project/ 4
+# chapter-progress /renamed-project/ 5
+# chapter-progress /renamed-project/ 6
+# chapter-progress /renamed-project/ 7
+# chapter-progress /renamed-project/ 8
+# chapter-progress /renamed-project/ 9
+# chapter-progress /renamed-project/ 10
+# chapter-progress /renamed-project/ 11
+# chapter-progress /renamed-project/ 12
+# chapter-progress /renamed-project/ 13
+# chapter-progress /renamed-project/ 14
+# chapter-progress /renamed-project/ 15
+# chapter-progress /renamed-project/ 16
+# chapter-progress /renamed-project/ 17
+# chapter-progress /renamed-project/ 18
+# chapter-progress /renamed-project/ 19
+# chapter-progress /renamed-project/ 20
+# chapter-progress /renamed-project/ 21
+# chapter-progress /renamed-project/ 22
+# chapter-progress /renamed-project/ 23
+# chapter-progress /renamed-project/ 24
+# chapter-progress /renamed-project/ 25
+# chapter-progress /renamed-project/ 26
+# chapter-progress /renamed-project/ 27
+# chapter-progress /renamed-project/ 28
+# chapter-progress /renamed-project/ 29
+# chapter-progress /renamed-project/ 30
+# chapter-progress /renamed-project/ 31
+# chapter-progress /renamed-project/ 32
+# chapter-progress /renamed-project/ 33
+# chapter-progress /renamed-project/ 34
+# chapter-progress /renamed-project/ 35
+# chapter-progress /renamed-project/ 36
+# chapter-progress /renamed-project/ 37
+# chapter-progress /renamed-project/ 38
+# chapter-progress /renamed-project/ 39
+# chapter-progress /renamed-project/ 40
+# chapter-progress /renamed-project/ 41
+# chapter-progress /renamed-project/ 42
+# chapter-progress /renamed-project/ 43
+# chapter-progress /renamed-project/ 44
+# chapter-progress /renamed-project/ 45
+# chapter-progress /renamed-project/ 46
+# chapter-progress /renamed-project/ 47
+# chapter-progress /renamed-project/ 48
+# chapter-progress /renamed-project/ 49
+# chapter-progress /renamed-project/ 50
+# chapter-progress /renamed-project/ 51
+# chapter-progress /renamed-project/ 52
+# chapter-progress /renamed-project/ 53
+# chapter-progress /renamed-project/ 54
+# chapters-done /renamed-project/
+# staging-progress /suiko_manga
+# staging-progress 
+# staging-progress /renamed-project
+# Subtest: reader at /renamed-project/
+ok 3 - reader at /renamed-project/
+  ---
+  duration_ms: 34201.55014
+  ...
+# Subtest: staging preserves all assets and data; 404 returns home even from nested paths
+ok 4 - staging preserves all assets and data; 404 returns home even from nested paths
+  ---
+  duration_ms: 382912.358359
+  ...
+# Subtest: GA4 records final chapter/page URLs, titles and referrers without duplicate views
+ok 5 - GA4 records final chapter/page URLs, titles and referrers without duplicate views
+  ---
+  duration_ms: 22.046769
+  ...
+# Subtest: GA4 excludes local previews and other GitHub Pages projects
+ok 6 - GA4 excludes local previews and other GitHub Pages projects
+  ---
+  duration_ms: 24.996655
+  ...
+# Subtest: A blocked or failing analytics tag does not throw into the reader
+ok 7 - A blocked or failing analytics tag does not throw into the reader
+  ---
+  duration_ms: 25.119189
+  ...
+1..7
+# tests 7
+# suites 0
+# pass 7
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 485306.508788

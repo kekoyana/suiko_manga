@@ -1,0 +1,313 @@
+{
+  "chapter": 54,
+  "checkedAt": "2026-10-31T18:17:59.536662+00:00",
+  "bodyPages": 48,
+  "cover": true,
+  "visualReview": "checked",
+  "sourceReview": "checked",
+  "speakerOrder": "checked",
+  "allPixelHashesMatched": true,
+  "files": [
+    {
+      "path": "public/assets/ch054/complete/p001.webp",
+      "sha256": "9876d4630abeff087b025ceb110cf28db313da232417010456c5d0a48f6f3102",
+      "bytes": 2575416,
+      "pixelMatch": true
+    },
+    {
+      "path": "public/assets/ch054/complete/p002.webp",
+      "sha256": "98bc898441fdcb74ced5e4f1e738371f6ff5aa15e0d31a0a8c2df911a7c059b0",
+      "bytes": 2546872,
+      "pixelMatch": true
+    },
+    {
+      "path": "public/assets/ch054/complete/p003.webp",
+      "sha256": "4e115b23293fc0b5665b05b517c28626e2466bf915463491ef4424dd1e0a8ee2",
+      "bytes": 2523466,
+      "pixelMatch": true
+    },
+    {
+      "path": "public/assets/ch054/complete/p004.webp",
+      "sha256": "06f550a8a7e7c2288679000cf84eead95f8fdfaa5cab1be36278b8f290d5c4a8",
+      "bytes": 2419176,
+      "pixelMatch": true
+    },
+    {
+      "path": "public/assets/ch054/complete/p005.webp",
+      "sha256": "d78f672502e8b34493c1debd2b66753f6c146fd07bb50032abc616babb5a4776",
+      "bytes": 2334706,
+      "pixelMatch": true
+    },
+    {
+      "path": "public/assets/ch054/complete/p006.webp",
+      "sha256": "2fd7545d746569215c88eee9d60a29bca19f1456efea9fd68a8c1e98e627308c",
+      "bytes": 2368936,
+      "pixelMatch": true
+    },
+    {
+      "path": "public/assets/ch054/complete/p007.webp",
+      "sha256": "96d77e23f1bfb8c0935be9f2ba2a37e7d723fcfa238d9635f872315e2a9258e7",
+      "bytes": 2078116,
+      "pixelMatch": true
+    },
+    {
+      "path": "public/assets/ch054/complete/p008.webp",
+      "sha256": "02164f8235551c73e3dadd24202a26dc0605b4748703157fad3d6a8cb5891bd4",
+      "bytes": 2165606,
+      "pixelMatch": true
+    },
+    {
+      "path": "public/assets/ch054/complete/p009.webp",
+      "sha256": "2622f12e51cad85c06fa21a3abe850585f40a40e8b81a84471216fde7f39d37f",
+      "bytes": 2166822,
+      "pixelMatch": true
+    },
+    {
+      "path": "public/assets/ch054/complete/p010.webp",
+      "sha256": "3353e82ec1c5d3c62582d6b5cd7e269511c2619de7457bfe606548b92c1ae97d",
+      "bytes": 2317758,
+      "pixelMatch": true
+    },
+    {
+      "path": "public/assets/ch054/complete/p011.webp",
+      "sha256": "386045fed3e69cef9957067550884be3e11bdce2a7da7b26733abe5c0bf09c81",
+      "bytes": 2263234,
+      "pixelMatch": true
+    },
+    {
+      "path": "public/assets/ch054/complete/p012.webp",
+      "sha256": "23acc05d951098fd8d42f75fd2956d053968aee44dd540b87bca499a5714b5f0",
+      "bytes": 2478952,
+      "pixelMatch": true
+    },
+    {
+      "path": "public/assets/ch054/complete/p013.webp",
+      "sha256": "b7ae97e6e8c8b36bdd338ef02d6962dc684031cac1a82c427dbff31a247b07c6",
+      "bytes": 2491454,
+      "pixelMatch": true
+    },
+    {
+      "path": "public/assets/ch054/complete/p014.webp",
+      "sha256": "987c67090a9646dc27d4a86064ff0f980914e7544a7e824ab9fca047c8c24746",
+      "bytes": 2506260,
+      "pixelMatch": true
+    },
+    {
+      "path": "public/assets/ch054/complete/p015.webp",
+      "sha256": "c42977bde76a5301c6c9af9f6e36d96c0a34c83fa23e454ddc941799c944b3fc",
+      "bytes": 2645038,
+      "pixelMatch": true
+    },
+    {
+      "path": "public/assets/ch054/complete/p016.webp",
+      "sha256": "6c7471ccf755954bb0a760c054cf3288f56b6ea1e1c00090de2f244025a5578f",
+      "bytes": 2581258,
+      "pixelMatch": true
+    },
+    {
+      "path": "public/assets/ch054/complete/p017.webp",
+      "sha256": "0c98f3c895b3face3914a01686c8ea85776b1e5e7da68156e52bd388f88aa09b",
+      "bytes": 2630230,
+      "pixelMatch": true
+    },
+    {
+      "path": "public/assets/ch054/complete/p018.webp",
+      "sha256": "976c1239d30fe004d0f50483a458953ef7a3f7768f5c6cb0eae45569310659c6",
+      "bytes": 2748832,
+      "pixelMatch": true
+    },
+    {
+      "path": "public/assets/ch054/complete/p019.webp",
+      "sha256": "75c23167b0a9c3c16876773f10ee08fca446805a26d7c470bd3a32bf168ff791",
+      "bytes": 2689344,
+      "pixelMatch": true
+    },
+    {
+      "path": "public/assets/ch054/complete/p020.webp",
+      "sha256": "e8e6e70911303358c6817368fdeb7e20a101b27d86a379f16841e66c32ca5534",
+      "bytes": 2820060,
+      "pixelMatch": true
+    },
+    {
+      "path": "public/assets/ch054/complete/p021.webp",
+      "sha256": "75423d02f8dc51274bbe387af1130d5d63e1f9a0d76c52bc20511e11f1fbb60f",
+      "bytes": 2833226,
+      "pixelMatch": true
+    },
+    {
+      "path": "public/assets/ch054/complete/p022.webp",
+      "sha256": "95a4c4e205ade1254ac3e8d03e86d8520e2698e0c56eb00feeaf702657f22ecd",
+      "bytes": 2528050,
+      "pixelMatch": true
+    },
+    {
+      "path": "public/assets/ch054/complete/p023.webp",
+      "sha256": "6eca9f9b3cce6b7d1615261daf1a4570586f5282e758b9672f250e89364005d3",
+      "bytes": 2593774,
+      "pixelMatch": true
+    },
+    {
+      "path": "public/assets/ch054/complete/p024.webp",
+      "sha256": "22c50a3861ad68111df62d472467a1fc46f7a88d0cafa81bab3cfc7f92a77246",
+      "bytes": 2273754,
+      "pixelMatch": true
+    },
+    {
+      "path": "public/assets/ch054/complete/p025.webp",
+      "sha256": "2e9981154264bbd655d4a9a5e7c796a352316070ea6d4da58be76e0779bec5da",
+      "bytes": 2558956,
+      "pixelMatch": true
+    },
+    {
+      "path": "public/assets/ch054/complete/p026.webp",
+      "sha256": "9a44f786119b3848c21b9ba39f9760b14c9e1ae88e587ba982d0f99927c759ea",
+      "bytes": 2507768,
+      "pixelMatch": true
+    },
+    {
+      "path": "public/assets/ch054/complete/p027.webp",
+      "sha256": "49129b21ca43131589d6382d527547b567d1edc70d05b6bb9e8d8b457dc94f30",
+      "bytes": 2293734,
+      "pixelMatch": true
+    },
+    {
+      "path": "public/assets/ch054/complete/p028.webp",
+      "sha256": "73b7f25e570a4417906fec65026cd3f479e07887f34c69977a725ed3907ed410",
+      "bytes": 2315836,
+      "pixelMatch": true
+    },
+    {
+      "path": "public/assets/ch054/complete/p029.webp",
+      "sha256": "51af3be712e958662e76130aa6af4299d4645d75feb706d6a311a927c1a5d130",
+      "bytes": 2466426,
+      "pixelMatch": true
+    },
+    {
+      "path": "public/assets/ch054/complete/p030.webp",
+      "sha256": "d475f4abc9897e0b791f09b408016b69311de8129fcb9071923fb4f274899680",
+      "bytes": 2298240,
+      "pixelMatch": true
+    },
+    {
+      "path": "public/assets/ch054/complete/p031.webp",
+      "sha256": "9a6684ce45fbfeceab6914242c82166de90ca75143cb0aedf88871d828d57a06",
+      "bytes": 2435958,
+      "pixelMatch": true
+    },
+    {
+      "path": "public/assets/ch054/complete/p032.webp",
+      "sha256": "e7bfaafebbe6a7db9167c5c959cde7e779decbdde21ebc4a93551862923e90dd",
+      "bytes": 2522242,
+      "pixelMatch": true
+    },
+    {
+      "path": "public/assets/ch054/complete/p033.webp",
+      "sha256": "f93c19cbe7db1497d5074da360b4bae240f14f29ab71723467fba97857276819",
+      "bytes": 2248234,
+      "pixelMatch": true
+    },
+    {
+      "path": "public/assets/ch054/complete/p034.webp",
+      "sha256": "0a4911d377ccf342e59d97d10b3420ea6ce800ccee06375078f70b299466080b",
+      "bytes": 2117154,
+      "pixelMatch": true
+    },
+    {
+      "path": "public/assets/ch054/complete/p035.webp",
+      "sha256": "380a4f5157430af195414c3d9133692f5a20da67de024ad308fdf6b5cd9958d6",
+      "bytes": 2223124,
+      "pixelMatch": true
+    },
+    {
+      "path": "public/assets/ch054/complete/p036.webp",
+      "sha256": "e1c66299a7627da745f39f3b8472cee9d65c806c89a3e7296126cc670c23ead4",
+      "bytes": 2270170,
+      "pixelMatch": true
+    },
+    {
+      "path": "public/assets/ch054/complete/p037.webp",
+      "sha256": "1af451480b357f10c698d3856e5b094c0c915157e21a3882d9dd46a887963b14",
+      "bytes": 2184646,
+      "pixelMatch": true
+    },
+    {
+      "path": "public/assets/ch054/complete/p038.webp",
+      "sha256": "43fa1f21281f511b3145869d584a851a099ed21412e17ec25d7f56a2992470e5",
+      "bytes": 2398128,
+      "pixelMatch": true
+    },
+    {
+      "path": "public/assets/ch054/complete/p039.webp",
+      "sha256": "528f2d2ab41bff725e7f2826a0e5e7f19f8d3d62b7cfa40d17213709f01a8215",
+      "bytes": 2277410,
+      "pixelMatch": true
+    },
+    {
+      "path": "public/assets/ch054/complete/p040.webp",
+      "sha256": "656749757f8e9b95b5a975cc9edaa920e6485881a49a626f4afc4209be4127ec",
+      "bytes": 2232964,
+      "pixelMatch": true
+    },
+    {
+      "path": "public/assets/ch054/complete/p041.webp",
+      "sha256": "489712ecfebbc7732dfd35b557d59b5ab390eacf241ef2065faff18bcb5202e6",
+      "bytes": 2302510,
+      "pixelMatch": true
+    },
+    {
+      "path": "public/assets/ch054/complete/p042.webp",
+      "sha256": "dbb4a60b1b346cda765cdaa7d380eebbf3063d3081dcd01041c986dce6f24fba",
+      "bytes": 2665786,
+      "pixelMatch": true
+    },
+    {
+      "path": "public/assets/ch054/complete/p043.webp",
+      "sha256": "6401b09bde154be572c2476c879aa4ecd8a0b5660212a4d4697aa51e4f820777",
+      "bytes": 2185990,
+      "pixelMatch": true
+    },
+    {
+      "path": "public/assets/ch054/complete/p044.webp",
+      "sha256": "1fc8b9a840f77ca79bd195094236277641ddbe0e03f973ef165f5d59d87ef71c",
+      "bytes": 2160450,
+      "pixelMatch": true
+    },
+    {
+      "path": "public/assets/ch054/complete/p045.webp",
+      "sha256": "ac3cf46d9f408f8ed2f173fa54b900f03ea8a9c12f15bdbec6f749f458b5277c",
+      "bytes": 2404422,
+      "pixelMatch": true
+    },
+    {
+      "path": "public/assets/ch054/complete/p046.webp",
+      "sha256": "6a3f45dd4d6565682a92bfc6276ed825ac17a5844df1dd3be2139087c760cd83",
+      "bytes": 2379360,
+      "pixelMatch": true
+    },
+    {
+      "path": "public/assets/ch054/complete/p047.webp",
+      "sha256": "708de03551aff436438592cc813951dd71f62112e544128b6c3c16b5970ec57a",
+      "bytes": 2477366,
+      "pixelMatch": true
+    },
+    {
+      "path": "public/assets/ch054/complete/p048.webp",
+      "sha256": "8cf12cfc1227fd120c2ca30e07ff5f0c91a86d114acde06bdc16ab2871be1997",
+      "bytes": 2301118,
+      "pixelMatch": true
+    },
+    {
+      "path": "public/assets/ch054/cover-fdc9c7f9190ffcf0.webp",
+      "sha256": "fdc9c7f9190ffcf05ac9abe333100235777eb1d80d7ba2655c9f2647eacb720d",
+      "bytes": 2733572,
+      "pixelMatch": true
+    }
+  ],
+  "endBoundary": "呼延灼が二先鋒の貸与を願い高俅が誰かを問う。名前は55回まで出さない。",
+  "readerTests": {
+    "passed": 7,
+    "failed": 0,
+    "log": "production/ch054-reader-test.log"
+  },
+  "publicValidation": "120 chapters, 2136 pages, 2190 referenced WebP files"
+}

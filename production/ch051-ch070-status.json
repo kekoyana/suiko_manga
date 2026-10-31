@@ -1,5 +1,5 @@
 {
-  "state": "waiting-image-quota",
+  "state": "publishing-ch054",
   "targetChapter": 70,
   "publishedThrough": 53,
   "publishedTotalPages": 2088,
@@ -8,26 +8,28 @@
     "51": 44,
     "52": 44,
     "53": 36,
-    "54": 48
+    "54": 48,
+    "55": 47
   },
   "savedPages": {
     "51": 44,
     "52": 44,
     "53": 36,
-    "54": 22
+    "54": 48
   },
   "nextGeneration": {
-    "chapter": 54,
-    "page": 23
+    "chapter": 55,
+    "page": 2
   },
   "imageTool": "built-in image_gen",
-  "nextAction": "54回23〜48と表紙制作検証公開後55〜70各原典回末まで継続。",
-  "updatedAt": "2026-10-30T22:28:59.248184+00:00",
+  "nextAction": "第54回公開検証後、第55〜70回各原典回末まで制作公開。",
+  "updatedAt": "2026-10-31T18:22:49.140683+00:00",
   "scripts": {
     "51": "ready",
     "52": "ready",
     "53": "ready",
-    "54": "ready"
+    "54": "ready",
+    "55": "ready"
   },
   "reviewedPages": {
     "51": [
@@ -182,15 +184,33 @@
       19,
       20,
       21,
-      22
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48
     ]
-  },
-  "quota": {
-    "type": "usage_limit_reached",
-    "resets_at": 1793463958,
-    "resetsAtJst": "2026-11-01T01:25:58+09:00",
-    "failedPage": 23
-  },
-  "reservationId": "a714a499-586e-4145-ac83-2f9eb8d69a54",
-  "resumeAt": "2026-11-01T01:25:58+09:00"
+  }
 }

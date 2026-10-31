@@ -42,6 +42,55 @@
       "issue": "黒旋風の肌を7頁の濃黒褐色へ統一。必要なら剣混入除去。ほかの人物肌は維持。",
       "state": "resolved",
       "replacementImage": "/home/kekoyana/.codex/generated_images/01a18d9f-3c11-7da2-8d7f-e10350f49841/exec-019c6d70-ab4d-4240-97eb-4d13da2a832c.png"
+    },
+    {
+      "page": 24,
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a192c8-5696-78a0-a683-afbfc9fb218b/exec-ffe1a70c-a8b9-43c1-9a89-3fbaedf0fc20.png",
+      "issue": "上右官軍旗の官を高へ修正。他コマ保持。",
+      "state": "resolved",
+      "replacementImage": "/home/kekoyana/.codex/generated_images/01a192c8-5696-78a0-a683-afbfc9fb218b/exec-6b169227-921c-49ae-946a-f12f1d1fdf2b.png"
+    },
+    {
+      "page": 26,
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a192c8-5696-78a0-a683-afbfc9fb218b/exec-a11c57dd-fef5-41cc-acff-3d0a9626fbf7.png",
+      "issue": "中左捕虜を高廉軍黒赤甲赤飾兜にし梁山青衣と区別。",
+      "state": "resolved",
+      "replacementImage": "/home/kekoyana/.codex/generated_images/01a192c8-5696-78a0-a683-afbfc9fb218b/exec-9cf578d5-78e1-4200-9a98-52347cadab50.png"
+    },
+    {
+      "page": 27,
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a192c8-5696-78a0-a683-afbfc9fb218b/exec-3eade1e4-5f97-4fce-a884-a8da98e99ae0.png",
+      "issue": "中右旗二本官→高、下右宋江左頬大黒印を小入墨へ",
+      "state": "resolved",
+      "replacementImage": "/home/kekoyana/.codex/generated_images/01a192c8-5696-78a0-a683-afbfc9fb218b/exec-dea851d0-0d56-4e74-8da2-203d5cbf0c59.png"
+    },
+    {
+      "page": 28,
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a192c8-5696-78a0-a683-afbfc9fb218b/exec-1ab38d04-c59d-480b-83f1-e7cda62ab26b.png",
+      "issue": "上右戴宗騎馬を甲馬神行の徒歩疾走へ",
+      "state": "resolved",
+      "replacementImage": "/home/kekoyana/.codex/generated_images/01a192c8-5696-78a0-a683-afbfc9fb218b/exec-509386b0-6049-4268-8880-18f694399b39.png"
+    },
+    {
+      "page": 29,
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a192c8-5696-78a0-a683-afbfc9fb218b/exec-67566c64-ed35-4e82-b98e-19dc4d159643.png",
+      "issue": "中左コマの赤甲呂方の背後（コマ左側）の赤い高旗を梁旗へ。他コマ高旗と郭盛白梁旗維持。",
+      "state": "resolved",
+      "replacementImage": "/home/kekoyana/.codex/generated_images/01a192c8-5696-78a0-a683-afbfc9fb218b/exec-bae517fd-1d95-4f0b-bb09-8ff1a844923c.png"
+    },
+    {
+      "page": 30,
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a192c8-5696-78a0-a683-afbfc9fb218b/exec-1030e814-acd6-4d6a-9df4-89f93f759175.png",
+      "issue": "中左朱仝の画面左にある本人右頬印を除去、画面右の本人左頬のみ小入墨",
+      "state": "resolved",
+      "replacementImage": "/home/kekoyana/.codex/generated_images/01a192c8-5696-78a0-a683-afbfc9fb218b/exec-3aa4b0b0-368e-476d-9e94-8666bd4f8ec1.png"
+    },
+    {
+      "page": 31,
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a192c8-5696-78a0-a683-afbfc9fb218b/exec-88f465b3-bf06-40ce-864e-e3ec6242a3be.png",
+      "issue": "下右雷横画面左の余分な小剣を除去、画面右から中央の朴刀のみ維持。",
+      "state": "resolved",
+      "replacementImage": "/home/kekoyana/.codex/generated_images/01a192c8-5696-78a0-a683-afbfc9fb218b/exec-ee3fee87-5927-4255-b473-4b4162bb7e74.png"
     }
   ]
 }
