@@ -1,5 +1,5 @@
 {
-  "state": "validated-awaiting-publication",
+  "state": "published-verified",
   "chapter": 54,
   "targetChapter": 70,
   "plannedBodyPages": 48,
@@ -105,7 +105,8 @@
   ],
   "nextPage": null,
   "coverSaved": true,
-  "nextAction": "main/Pages公開と公開SHA検証後、第55回から第70回まで継続。",
-  "updatedAt": "2026-10-31T18:22:49.140683+00:00",
-  "repairPendingPages": []
+  "nextAction": "第55回から第70回まで各原典回末を制作・検証・公開。",
+  "updatedAt": "2026-10-31T19:08:23.148840+00:00",
+  "repairPendingPages": [],
+  "publicationValidation": "production/ch054-publication-validation.json"
 }

@@ -1,9 +1,9 @@
 {
-  "state": "publishing-ch054",
+  "state": "generating",
   "targetChapter": 70,
-  "publishedThrough": 53,
-  "publishedTotalPages": 2088,
-  "currentChapter": 54,
+  "publishedThrough": 54,
+  "publishedTotalPages": 2136,
+  "currentChapter": 55,
   "plannedPages": {
     "51": 44,
     "52": 44,
@@ -15,15 +15,16 @@
     "51": 44,
     "52": 44,
     "53": 36,
-    "54": 48
+    "54": 48,
+    "55": 11
   },
   "nextGeneration": {
     "chapter": 55,
-    "page": 2
+    "page": 12
   },
   "imageTool": "built-in image_gen",
-  "nextAction": "第54回公開検証後、第55〜70回各原典回末まで制作公開。",
-  "updatedAt": "2026-10-31T18:22:49.140683+00:00",
+  "nextAction": "第55回12〜47と表紙を制作・検証・公開。その後56〜70各原典回末まで継続。",
+  "updatedAt": "2026-10-31T19:08:23.148840+00:00",
   "scripts": {
     "51": "ready",
     "52": "ready",
@@ -211,6 +212,19 @@
       46,
       47,
       48
+    ],
+    "55": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
     ]
   }
 }

@@ -1,0 +1,37 @@
+{
+  "state": "generating",
+  "chapter": 55,
+  "targetChapter": 70,
+  "plannedBodyPages": 47,
+  "savedPages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+  ],
+  "savedReviewedPages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+  ],
+  "nextPage": 12,
+  "coverSaved": false,
+  "repairPendingPages": [],
+  "nextAction": "12〜47と表紙を制作・原典全頁検証公開後56〜70各原典回末まで継続。",
+  "updatedAt": "2026-10-31T19:07:47.391213+00:00"
+}
