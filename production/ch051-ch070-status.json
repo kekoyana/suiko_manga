@@ -1,9 +1,9 @@
 {
   "state": "generating",
   "targetChapter": 70,
-  "publishedThrough": 54,
-  "publishedTotalPages": 2136,
-  "currentChapter": 55,
+  "publishedThrough": 55,
+  "publishedTotalPages": 2183,
+  "currentChapter": 56,
   "plannedPages": {
     "51": 44,
     "52": 44,
@@ -17,15 +17,16 @@
     "52": 44,
     "53": 36,
     "54": 48,
-    "55": 47
+    "55": 47,
+    "56": 10
   },
   "nextGeneration": {
     "chapter": 56,
-    "page": 3
+    "page": 14
   },
   "imageTool": "built-in image_gen",
-  "nextAction": "第55回テスト完了後main/Pages公開検証、第56回制作を並行継続。",
-  "updatedAt": "2026-11-06T18:26:54.849219+00:00",
+  "nextAction": "第56回42頁回末と表紙を制作検証公開、その後57〜70継続",
+  "updatedAt": "2026-11-06T18:49:36.750831+00:00",
   "scripts": {
     "51": "ready",
     "52": "ready",
@@ -263,6 +264,18 @@
       45,
       46,
       47
+    ],
+    "56": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
     ]
   }
 }

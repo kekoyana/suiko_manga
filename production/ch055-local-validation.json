@@ -245,5 +245,10 @@
       "sha256": "8f5378e40d31c7b15bebfc3f7cfc3981ada35f18039d793a5c0bde8048d59d3a",
       "sourcePixelMatch": true
     }
-  ]
+  ],
+  "readerTests": {
+    "passed": 7,
+    "failed": 0,
+    "duration_ms": 537582.017118
+  }
 }

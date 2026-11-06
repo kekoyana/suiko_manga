@@ -1,5 +1,5 @@
 {
-  "state": "validated-publication-pending",
+  "state": "published-verified",
   "chapter": 55,
   "targetChapter": 70,
   "plannedBodyPages": 47,
@@ -104,6 +104,9 @@
   "nextPage": null,
   "coverSaved": true,
   "repairPendingPages": [],
-  "nextAction": "readerテスト完了後main/Pages公開検証、その後56〜70制作継続。",
-  "updatedAt": "2026-11-06T18:19:16.003346+00:00"
+  "nextAction": "56〜70各原典回末まで制作検証main/Pages公開継続",
+  "updatedAt": "2026-11-06T18:49:36.750831+00:00",
+  "publicationCommit": "3529657140c29cd26e16ab7efd148ceeb7ebadee",
+  "actionsRun": 42271786292,
+  "publishedFilesMatched": 50
 }
