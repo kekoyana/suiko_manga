@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "title": "水滸伝 漫画書庫",
-  "completedThrough": 54,
-  "totalPages": 2136,
+  "completedThrough": 55,
+  "totalPages": 2183,
   "milestone": 20,
   "chapters": [
     {
@@ -439,10 +439,11 @@
     },
     {
       "number": 55,
-      "title": "第55回",
-      "status": "coming",
-      "pageCount": 0,
-      "cover": null
+      "title": "高太尉、三路の兵を起こす／呼延灼、連環馬を布く",
+      "status": "complete",
+      "pageCount": 47,
+      "cover": "/assets/ch055/cover-8f5378e40d31c7b1.webp",
+      "manifest": "/data/ch055-543610000227.json"
     },
     {
       "number": 56,
