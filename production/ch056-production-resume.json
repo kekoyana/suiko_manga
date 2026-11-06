@@ -1,7 +1,7 @@
 {
   "chapter": 56,
   "targetChapter": 70,
-  "state": "local-validated-publication-pending",
+  "state": "published-verified",
   "plannedBodyPages": 42,
   "savedReviewedPages": [
     1,
@@ -48,6 +48,10 @@
     42
   ],
   "cover": "checked",
-  "nextAction": "readerテスト後main/Pages公開検証、その後57〜70継続",
-  "updatedAt": "2026-11-06T20:26:26.134404+00:00"
+  "nextAction": "57〜70原典回末まで継続",
+  "updatedAt": "2026-11-06T21:03:14.882066+00:00",
+  "publishedCommit": "e2985169bba8fd415f77d4343aecde56e21ad079",
+  "actionsRun": 42290716959,
+  "publicationValidation": "production/ch056-publication-validation.json",
+  "verifiedPublishedFiles": 45
 }
