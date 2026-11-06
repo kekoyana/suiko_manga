@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "title": "水滸伝 漫画書庫",
-  "completedThrough": 55,
-  "totalPages": 2183,
+  "completedThrough": 56,
+  "totalPages": 2225,
   "milestone": 20,
   "chapters": [
     {
@@ -447,10 +447,11 @@
     },
     {
       "number": 56,
-      "title": "第56回",
-      "status": "coming",
-      "pageCount": 0,
-      "cover": null
+      "title": "呉用、時遷に鎧を盗ませる／湯隆、徐寧を欺いて山へ誘う",
+      "status": "complete",
+      "pageCount": 42,
+      "cover": "/assets/ch056/cover-07157624df8d85dd.webp",
+      "manifest": "/data/ch056-624769d50fc0.json"
     },
     {
       "number": 57,

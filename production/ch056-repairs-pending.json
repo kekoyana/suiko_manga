@@ -1,0 +1,53 @@
+{
+  "chapter": 56,
+  "repairs": [
+    {
+      "page": 4,
+      "state": "resolved",
+      "notes": "手紙を凌振彭玘へ、使者5人へ修正。最終保存画像で修正完了確認済み。"
+    },
+    {
+      "page": 6,
+      "state": "resolved",
+      "cell": 121,
+      "notes": "宋江の右頬印除去済み、出立地文の楊林の行先修正待ち。最終保存画像で修正完了確認済み。"
+    },
+    {
+      "page": 7,
+      "state": "resolved",
+      "notes": "案内人を町人へ修正。最終保存画像で修正完了確認済み。"
+    },
+    {
+      "page": 8,
+      "state": "resolved",
+      "cell": 125,
+      "notes": "時遷単独旅へ修正済み、顎髭除去待ち。最終保存画像で修正完了確認済み。"
+    },
+    {
+      "page": 9,
+      "state": "resolved",
+      "sourceImage": "/home/kekoyana/.codex/generated_images/01a1b201-39b4-7971-bfd3-8dd4735afcfd/exec-726ce7bf-1925-4d53-ac85-94f3bbc180dd.png",
+      "notes": "上右の月を除去、無月夜へ。最終保存画像で修正完了確認済み。"
+    },
+    {
+      "page": 11,
+      "state": "resolved",
+      "cell": 135,
+      "notes": "潜伏場所は屋内の暗がりへ修正。最終保存画像で修正完了確認済み。"
+    },
+    {
+      "page": 12,
+      "state": "resolved",
+      "cell": 142,
+      "notes": "紅匣を梁から吊るす描写へ。最終保存画像で修正完了確認済み。"
+    },
+    {
+      "page": 13,
+      "state": "resolved",
+      "cell": 148,
+      "notes": "満月を除去、無月の冬夜へ。最終保存画像で修正完了確認済み。"
+    }
+  ],
+  "pending": [],
+  "updatedAt": "2026-11-06T20:26:26.134404+00:00"
+}
