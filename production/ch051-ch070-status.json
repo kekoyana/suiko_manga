@@ -1,5 +1,5 @@
 {
-  "state": "generating",
+  "state": "image-quota-wait",
   "targetChapter": 70,
   "publishedThrough": 56,
   "publishedTotalPages": 2225,
@@ -20,15 +20,15 @@
     "54": 48,
     "55": 47,
     "56": 42,
-    "57": 11
+    "57": 14
   },
   "nextGeneration": {
     "chapter": 57,
-    "page": 17
+    "page": 18
   },
   "imageTool": "built-in image_gen",
-  "nextAction": "57回制作後公開、70回末まで継続",
-  "updatedAt": "2026-11-06T21:03:14.882066+00:00",
+  "nextAction": "57p14/15/17修正後18〜45+表紙検証公開、58〜70継続",
+  "updatedAt": "2026-11-06T21:10:36.562952+00:00",
   "scripts": {
     "51": "ready",
     "52": "ready",
@@ -324,7 +324,19 @@
       8,
       9,
       10,
-      11
+      11,
+      12,
+      13,
+      16
     ]
+  },
+  "reservation": {
+    "id": "9a7c7c15-0eee-412f-9d36-b9f5234d16b5",
+    "name": "水滸伝 第57回修正・18頁から第70回末まで制作再開",
+    "runAt": "2026-11-07T23:58:45+09:00",
+    "nextRun": "2026-11-07T14:58:45.000Z",
+    "enabled": true,
+    "listedAndConfirmed": true,
+    "confirmedAt": "2026-11-06T21:10:36.562952+00:00"
   }
 }

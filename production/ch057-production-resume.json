@@ -1,0 +1,45 @@
+{
+  "chapter": 57,
+  "targetChapter": 70,
+  "state": "image-quota-wait",
+  "plannedBodyPages": 45,
+  "savedReviewedPages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    16
+  ],
+  "repairPendingPages": [
+    14,
+    15,
+    17
+  ],
+  "generatingPages": [],
+  "nextPage": 18,
+  "nextAction": "14・15・17を修正保存後18〜45原典回末と表紙、検証main/Pages公開、58〜70継続",
+  "quota": {
+    "type": "usage_limit_reached",
+    "resets_at": 1794063525,
+    "resetJst": "2026-11-07T23:58:45+09:00"
+  },
+  "reservation": {
+    "id": "9a7c7c15-0eee-412f-9d36-b9f5234d16b5",
+    "name": "水滸伝 第57回修正・18頁から第70回末まで制作再開",
+    "runAt": "2026-11-07T23:58:45+09:00",
+    "nextRun": "2026-11-07T14:58:45.000Z",
+    "enabled": true,
+    "listedAndConfirmed": true,
+    "confirmedAt": "2026-11-06T21:10:36.562952+00:00"
+  },
+  "updatedAt": "2026-11-06T21:10:36.562952+00:00"
+}
