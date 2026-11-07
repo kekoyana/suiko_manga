@@ -1,7 +1,7 @@
 {
   "chapter": 57,
   "targetChapter": 70,
-  "state": "publication-validation",
+  "state": "published-verified",
   "plannedBodyPages": 45,
   "savedReviewedPages": [
     1,
@@ -53,6 +53,9 @@
   "repairPendingPages": [],
   "generatingPages": [],
   "nextPage": null,
-  "nextAction": "第57回45本文+表紙を検証main/Pages公開後58〜70制作継続",
-  "updatedAt": "2026-11-07T17:10:25.063890+00:00"
+  "nextAction": "第58〜70回を各原典回末まで制作検証公開",
+  "updatedAt": "2026-11-07T17:56:53.433093+00:00",
+  "publicationCommit": "d4b2fcc1bfcf57e4b2212df32fc52860f1e2695d",
+  "actionsRun": 42397488058,
+  "publicFilesVerified": 48
 }

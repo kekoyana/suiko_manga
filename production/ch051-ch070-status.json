@@ -1,9 +1,9 @@
 {
-  "state": "publication-validation",
+  "state": "producing",
   "targetChapter": 70,
-  "publishedThrough": 56,
-  "publishedTotalPages": 2225,
-  "currentChapter": 57,
+  "publishedThrough": 57,
+  "publishedTotalPages": 2270,
+  "currentChapter": 58,
   "plannedPages": {
     "51": 44,
     "52": 44,
@@ -11,7 +11,8 @@
     "54": 48,
     "55": 47,
     "56": 42,
-    "57": 45
+    "57": 45,
+    "58": 56
   },
   "savedPages": {
     "51": 44,
@@ -20,15 +21,16 @@
     "54": 48,
     "55": 47,
     "56": 42,
-    "57": 45
+    "57": 45,
+    "58": 8
   },
   "nextGeneration": {
     "chapter": 58,
-    "page": 1
+    "page": 9
   },
   "imageTool": "built-in image_gen",
-  "nextAction": "第57回45本文+表紙を検証main/Pages公開後58〜70制作継続",
-  "updatedAt": "2026-11-07T17:10:25.063890+00:00",
+  "nextAction": "第58回9〜56頁と表紙を制作し検証公開、その後70回まで継続",
+  "updatedAt": "2026-11-07T17:56:53.433093+00:00",
   "scripts": {
     "51": "ready",
     "52": "ready",
@@ -37,7 +39,7 @@
     "55": "ready",
     "56": "ready",
     "57": "ready",
-    "58": "draft"
+    "58": "ready"
   },
   "reviewedPages": {
     "51": [
@@ -359,6 +361,16 @@
       43,
       44,
       45
+    ],
+    "58": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
     ]
   }
 }
