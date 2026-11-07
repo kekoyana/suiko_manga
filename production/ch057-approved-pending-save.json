@@ -1,34 +1,6 @@
 {
   "chapter": 57,
-  "state": "requires-repair-before-save",
-  "pages": [
-    {
-      "page": 14,
-      "state": "repair-pending-quota",
-      "sourceImage": "/home/kekoyana/.codex/generated_images/01a1b201-39b4-7971-bfd3-8dd4735afcfd/exec-4840328c-113f-4d3c-b969-b64d6521ee63.png",
-      "backupImage": "production/ch057-pending-images/p014-before-repair.png",
-      "sha256": "5ca27952846438e78670bc472e98bbba912902f5520ecbe2bdefd8a669c13b7f",
-      "notes": "呼延灼は単騎敗走。全コマ後方に追従する官軍兵士と高旗を除去し無人の山道に。ほか全て維持。",
-      "repairGenerated": false
-    },
-    {
-      "page": 15,
-      "state": "repair-pending-quota",
-      "sourceImage": "/home/kekoyana/.codex/generated_images/01a1b201-39b4-7971-bfd3-8dd4735afcfd/exec-822027cf-8b38-4943-95d3-ac1d8086b85b.png",
-      "backupImage": "production/ch057-pending-images/p015-before-repair.png",
-      "sha256": "b4bf97ce71ce1e99e2f44f75bd75b3b93aac0e588a58f711f06e5ce05f97ba58",
-      "notes": "上右・上左の呼延灼の黒馬の額白星を黒毛へ修正。四足先のみ白、鼻額黒無斑。他の白馬茶馬維持。",
-      "repairGenerated": false
-    },
-    {
-      "page": 17,
-      "state": "repair-pending-quota",
-      "sourceImage": "/home/kekoyana/.codex/generated_images/01a1b201-39b4-7971-bfd3-8dd4735afcfd/exec-258e6b41-ebb1-4dd4-b237-94c016bc50d2.png",
-      "backupImage": "production/ch057-pending-images/p017-before-repair.png",
-      "sha256": "f5094f0c4f7666f331f69812be7a703be2e477efa3fd73cd24c0015f6912a45c",
-      "notes": "下左の宋江は鼻画面左向き本人左頬が見えるため小黒流刑印追加。他の本人右頬は無印維持。",
-      "repairGenerated": false
-    }
-  ],
-  "updatedAt": "2026-11-06T21:10:36.562952+00:00"
+  "state": "all-saved-checked",
+  "pages": [],
+  "updatedAt": "2026-11-07T17:10:25.063890+00:00"
 }

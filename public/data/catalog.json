@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "title": "水滸伝 漫画書庫",
-  "completedThrough": 56,
-  "totalPages": 2225,
+  "completedThrough": 57,
+  "totalPages": 2270,
   "milestone": 20,
   "chapters": [
     {
@@ -455,10 +455,11 @@
     },
     {
       "number": 57,
-      "title": "第57回",
-      "status": "coming",
-      "pageCount": 0,
-      "cover": null
+      "title": "徐寧、鉤鎌槍を教える／宋江、連環馬を破る",
+      "status": "complete",
+      "pageCount": 45,
+      "cover": "/assets/ch057/cover-9b6de31efc79df96.webp",
+      "manifest": "/data/ch057-d6ae9ba45640.json"
     },
     {
       "number": 58,
