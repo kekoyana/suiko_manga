@@ -1,7 +1,7 @@
 {
   "chapter": 58,
   "targetChapter": 70,
-  "state": "completed-awaiting-publication",
+  "state": "published-verified",
   "plannedBodyPages": 56,
   "savedReviewedPages": [
     1,
@@ -64,12 +64,15 @@
   "repairPendingPages": [],
   "generatingPages": [],
   "nextPage": null,
-  "nextAction": "全56頁表紙検証済み、main/Pages公開検証後59〜70継続",
-  "updatedAt": "2026-11-08T15:34:35.089237+00:00",
+  "nextAction": "第59回以降第70回原典回末まで制作検証公開継続",
+  "updatedAt": "2026-11-08T16:12:24.942777+00:00",
   "checkpointValidation": {
     "pages": 40,
     "pixelMatch": true,
     "sha256Match": true,
     "reviewFlagsChecked": true
-  }
+  },
+  "publishedCommit": "46147067b60f0c2b9cc27b55054967572d0e16ee",
+  "actionsRun": 42497511696,
+  "publicationFilesMatched": 59
 }
