@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "title": "水滸伝 漫画書庫",
-  "completedThrough": 57,
-  "totalPages": 2270,
+  "completedThrough": 58,
+  "totalPages": 2326,
   "milestone": 20,
   "chapters": [
     {
@@ -463,10 +463,11 @@
     },
     {
       "number": 58,
-      "title": "第58回",
-      "status": "coming",
-      "pageCount": 0,
-      "cover": null
+      "title": "三山、義を集めて青州を攻める／諸虎、心を合わせて水泊へ帰る",
+      "status": "complete",
+      "pageCount": 56,
+      "cover": "/assets/ch058/cover-b94b336db837888e.webp",
+      "manifest": "/data/ch058-e15e2ce52668.json"
     },
     {
       "number": 59,
