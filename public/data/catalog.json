@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "title": "水滸伝 漫画書庫",
-  "completedThrough": 58,
-  "totalPages": 2326,
+  "completedThrough": 59,
+  "totalPages": 2376,
   "milestone": 20,
   "chapters": [
     {
@@ -471,10 +471,11 @@
     },
     {
       "number": 59,
-      "title": "第59回",
-      "status": "coming",
-      "pageCount": 0,
-      "cover": null
+      "title": "呉用、金鈴弔掛を借りる／宋江、西嶽華山を騒がす",
+      "status": "complete",
+      "pageCount": 50,
+      "cover": "/assets/ch059/cover-d86ca49ba1c01aa9.webp",
+      "manifest": "/data/ch059-67cbd2476281.json"
     },
     {
       "number": 60,

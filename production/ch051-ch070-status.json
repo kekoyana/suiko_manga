@@ -1,5 +1,5 @@
 {
-  "state": "chapter59-in-progress",
+  "state": "chapter59-verified-ready-to-publish",
   "targetChapter": 70,
   "publishedThrough": 58,
   "publishedTotalPages": 2326,
@@ -13,7 +13,8 @@
     "56": 42,
     "57": 45,
     "58": 56,
-    "59": 50
+    "59": 50,
+    "60": 59
   },
   "savedPages": {
     "51": 44,
@@ -24,15 +25,15 @@
     "56": 42,
     "57": 45,
     "58": 56,
-    "59": 27
+    "59": 50
   },
   "nextGeneration": {
-    "chapter": 59,
-    "page": 28
+    "chapter": 60,
+    "page": 1
   },
   "imageTool": "built-in image_gen",
-  "nextAction": "第59回28〜50と表紙、検証公開後60〜70継続",
-  "updatedAt": "2026-11-08T16:12:24.942777+00:00",
+  "nextAction": "59公開検証、60全59頁と表紙、61〜70継続",
+  "updatedAt": "2026-11-13T16:11:51.399590+00:00",
   "scripts": {
     "51": "ready",
     "52": "ready",
@@ -42,7 +43,8 @@
     "56": "ready",
     "57": "ready",
     "58": "ready",
-    "59": "ready"
+    "59": "ready",
+    "60": "ready"
   },
   "reviewedPages": {
     "51": [
@@ -450,7 +452,30 @@
       24,
       25,
       26,
-      27
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50
     ]
   }
 }
