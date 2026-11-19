@@ -1,7 +1,7 @@
 {
   "chapter": 60,
   "targetChapter": 70,
-  "state": "all-images-saved-final-validation",
+  "state": "published-verified",
   "plannedBodyPages": 59,
   "savedReviewedPages": [
     1,
@@ -67,8 +67,8 @@
   "repairPendingPages": [],
   "generatingPages": [],
   "nextPage": null,
-  "nextAction": "本文59頁と表紙の画素SHA確認済。閲覧テスト・main/Pages公開検証後61〜70継続",
-  "updatedAt": "2026-11-13T16:58:19.594199+00:00",
+  "nextAction": "第61〜70回を各原典回末まで制作・検証・main/Pages公開",
+  "updatedAt": "2026-11-19T06:41:43.351103+00:00",
   "savedBodyPages": [
     1,
     2,
@@ -129,5 +129,8 @@
     57,
     58,
     59
-  ]
+  ],
+  "publicationCommit": "c2ee82c519971361e8d9db8ebe55891ac3cfb057",
+  "actionsRun": 44472257483,
+  "publicationValidation": "ch060-publication-validation.json"
 }

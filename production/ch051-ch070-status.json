@@ -1,9 +1,9 @@
 {
-  "state": "chapter60-validation-publication",
+  "state": "chapter61-generation-in-progress",
   "targetChapter": 70,
-  "publishedThrough": 59,
-  "publishedTotalPages": 2376,
-  "currentChapter": 60,
+  "publishedThrough": 60,
+  "publishedTotalPages": 2435,
+  "currentChapter": 61,
   "plannedPages": {
     "51": 44,
     "52": 44,
@@ -14,7 +14,8 @@
     "57": 45,
     "58": 56,
     "59": 50,
-    "60": 59
+    "60": 59,
+    "61": 48
   },
   "savedPages": {
     "51": 44,
@@ -26,15 +27,16 @@
     "57": 45,
     "58": 56,
     "59": 50,
-    "60": 59
+    "60": 59,
+    "61": 19
   },
   "nextGeneration": {
     "chapter": 61,
-    "page": 1
+    "page": 24
   },
   "imageTool": "built-in image_gen",
-  "nextAction": "第60回公開検証後、第61〜70回を制作継続",
-  "updatedAt": "2026-11-19T06:12:29.367622+00:00",
+  "nextAction": "第61回原典回末まで制作・検証・公開後62〜70継続",
+  "updatedAt": "2026-11-19T06:42:51.396660+00:00",
   "scripts": {
     "51": "ready",
     "52": "ready",
@@ -45,7 +47,8 @@
     "57": "ready",
     "58": "ready",
     "59": "ready",
-    "60": "ready"
+    "60": "ready",
+    "61": "ready"
   },
   "reviewedPages": {
     "51": [
@@ -538,6 +541,27 @@
       57,
       58,
       59
+    ],
+    "61": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
     ]
   }
 }
