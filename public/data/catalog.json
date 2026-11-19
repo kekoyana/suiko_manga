@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "title": "水滸伝 漫画書庫",
-  "completedThrough": 59,
-  "totalPages": 2376,
+  "completedThrough": 60,
+  "totalPages": 2435,
   "milestone": 20,
   "chapters": [
     {
@@ -479,10 +479,11 @@
     },
     {
       "number": 60,
-      "title": "第60回",
-      "status": "coming",
-      "pageCount": 0,
-      "cover": null
+      "title": "公孫勝、芒碭山の魔を降す／晁天王、曾頭市で矢を受ける",
+      "status": "complete",
+      "pageCount": 59,
+      "cover": "/assets/ch060/cover-df198e3674d1f5c8.webp",
+      "manifest": "/data/ch060-23a347c00344.json"
     },
     {
       "number": 61,

@@ -4,7 +4,7 @@
   "fullSourceRead": true,
   "readExtent": "114〜144、詩を含む回末まで",
   "readAt": "2026-11-13T16:09:07.712508+00:00",
-  "state": "script-checked-ready",
+  "state": "all-pages-checked",
   "scriptPages": 59,
   "sequence": [
     "八方の陣",
@@ -77,5 +77,7 @@
     "原文山後右寨の六人は列挙が三人のみ、人数矛盾は人数を書かず名を保持",
     "計の詳細を呉用が語る前で60末、具体勧誘は61"
   ],
-  "endingChecked": "呉用が指を重ね計を語る直前、具体策は61"
+  "endingChecked": "呉用が指を重ね計を語る直前、具体策は61",
+  "finalCrossCheckAt": "2026-11-19T06:09:52.319762+00:00",
+  "allPagesSourceChecked": true
 }
